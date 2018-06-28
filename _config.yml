@@ -64,9 +64,15 @@ collections:
   my_tags:
     output: true
     permalink: /tag/:slug/
+  analyses:
+    output: true
+    permalink: /analyses/:path/
   coins:
     output: true
     permalink: /coins/:path/
+  researchers:
+    output: true
+    permalink: /researchers/:path/
 
 defaults:
   -

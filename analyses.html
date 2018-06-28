@@ -1,0 +1,35 @@
+---
+layout: default
+title: Coin Research
+permalink: /analyses/index.html
+---
+
+
+<table id="coin-table">
+  <tr>
+    <th>Name</th>
+    <th>Summary</th>
+    <th>Score</th>
+    <th>Researchers</th>
+  </tr>
+
+{% for analysis in site.analyses %}
+  <tr>
+    <td>
+      <a href="{{ analysis.url | prepend: site.baseurl }}">{{ analysis.coin }}</a>
+    </td>
+    <td>{{ analysis.tldr }}</td>
+    <td>{{ analysis.score }}</td>
+    <td>
+      {% if analysis.twitter %}
+      <a href="https://twitter.com/{{ analysis.twitter }}">{{ analysis.researcher }}</a>
+      {% else %}
+      {{ analysis.researcher }}
+      {% endif %}
+    </td>
+  </tr>
+{% endfor %}
+</table>
+
+
+
