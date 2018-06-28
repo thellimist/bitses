@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<h1>{{ page.name }}</h1>
+
+<h2>Researchers</h2>
+
+<ul>
+  {% for researcher in page.researchers %}
+  <li>
+    {{ researcher }}
+  </li>
+  {% endfor %}
+</ul>
+
+<h2>Analysis</h2>
+
+{{ page.content }}
+
+<h2>Conclusion</h2>
+
+<p>
+{{ page.conclusion | markdownify }}
+</p>
+
+

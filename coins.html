@@ -1,0 +1,34 @@
+---
+layout: default
+title: Coins
+permalink: /coins/index.html
+---
+
+
+<table id="coin-table">
+  <tr>
+    <th>Name</th>
+    <th>Summary</th>
+    <th>Score</th>
+    <th>Researchers</th>
+  </tr>
+
+{% for coin in site.coins %}
+  <tr>
+    <td>
+      <a href="{{ coin.url | prepend: site.baseurl }}">{{ coin.name }}</a>
+    </td>
+    <td>{{ coin.tldr }}</td>
+    <td>{{ coin.score }}</td>
+    <td>
+      {% for researcher in coin.researchers %}
+      {{ researcher }}
+      <br>
+      {% endfor %}
+    </td>
+  </tr>
+{% endfor %}
+</table>
+
+
+
