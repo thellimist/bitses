@@ -13,21 +13,28 @@ permalink: /analyses/index.html
     <th>Researchers</th>
   </tr>
 
+{% for coin in site.coins %}
 {% for analysis in site.analyses %}
+{% if analysis.coin == coin.slug %}
+{% for researcher in site.researchers %}
+{% if analysis.researcher == researcher.slug %}
   <tr>
     <td>
-      <a href="{{ analysis.url | prepend: site.baseurl }}">{{ analysis.coin }}</a>
+      <a href="{{ coin.url | prepend: site.baseurl }}">{{ coin.name }}</a>
     </td>
-    <td>{{ analysis.tldr }}</td>
+    <td>
+      <a href="{{ analysis.url | prepend: site.baseurl }}">{{ analysis.tldr }}</a>
+    </td>
     <td>{{ analysis.score }}</td>
     <td>
-      {% if analysis.twitter %}
-      <a href="https://twitter.com/{{ analysis.twitter }}">{{ analysis.researcher }}</a>
-      {% else %}
-      {{ analysis.researcher }}
-      {% endif %}
+      <a href="{{ researcher.url | prepend: site.baseurl }}">{{ researcher.name }}</a>
     </td>
   </tr>
+{% endif %}
+{% endfor %}
+{% endif %}
+
+{% endfor %}
 {% endfor %}
 </table>
 

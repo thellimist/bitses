@@ -1,5 +1,5 @@
 ---
-layout: coin
+layout: analysis
 coin: mithril
 tldr: "Mining with social media activity"
 score: 0
