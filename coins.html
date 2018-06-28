@@ -20,7 +20,13 @@ permalink: /coins/index.html
     </td>
     <td>{{ coin.tldr }}</td>
     <td>{{ coin.score }}</td>
-    <td>{{ coin.researcher }}</td>
+    <td>
+      {% if coin.twitter %}
+      <a href="https://twitter.com/{{ coin.twitter }}">{{ coin.researcher }}</a>
+      {% else %}
+      {{ coin.researcher }}
+      {% endif %}
+    </td>
   </tr>
 {% endfor %}
 </table>

@@ -5,6 +5,8 @@ cmc_id: mithril
 tldr: "Mining with social media activity"
 score: 0
 researcher: Demi Yilmaz
+twitter: "demiculus"
+date: 2018-05-04
 
 conclusion: "- This shows that they don't intend on becoming a protocol but creating a new social network. Where if they can migrate their old users it'll be a start.
 \n- Miths usefulness will grow according to the app.

@@ -5,6 +5,8 @@ cmc_id: monero
 tldr: "Privacy coin"
 score: 3
 researcher: Kan Yilmaz
+twitter: "thellimist"
+date: 2018-04-30
 
 ---
 
