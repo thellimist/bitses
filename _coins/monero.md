@@ -4,8 +4,7 @@ name: Monero
 cmc_id: monero
 tldr: "Privacy coin"
 score: 3
-researchers:
-  - Kan Yilmaz
+researcher: Kan Yilmaz
 
 ---
 

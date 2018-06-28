@@ -20,12 +20,7 @@ permalink: /coins/index.html
     </td>
     <td>{{ coin.tldr }}</td>
     <td>{{ coin.score }}</td>
-    <td>
-      {% for researcher in coin.researchers %}
-      {{ researcher }}
-      <br>
-      {% endfor %}
-    </td>
+    <td>{{ coin.researcher }}</td>
   </tr>
 {% endfor %}
 </table>

@@ -4,18 +4,16 @@ layout: default
 
 <h1>{{ page.name }}</h1>
 
+<p><b>Researcher:</b>{{ page.researcher }}</p>
+<!-- <h2>Researchers</h2> -->
 
-<h2>Researchers</h2>
+<!-- <ul> -->
+<!--   <li> -->
+<!--     {{ page.researcher }} -->
+<!--   </li> -->
+<!-- </ul> -->
 
-<ul>
-  {% for researcher in page.researchers %}
-  <li>
-    {{ researcher }}
-  </li>
-  {% endfor %}
-</ul>
-
-<h2>Relevant Links</h2>
+<!-- <h2>Relevant Links</h2> -->
 
 {% if page.cmc_id %}
 <a href="https://coinmarketcap.com/currencies/{{ page.cmc_id }}/" target="_blank">CoinMarketCap Profile</a>
