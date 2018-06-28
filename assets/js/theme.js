@@ -107,3 +107,7 @@ if (window.localStorage && localStorage['currentTheme']) {
 } else {
   el.className = iconForTheme();
 }
+
+updateTheme(LightTheme)
+el.className = iconForTheme(LightTheme.themeName)
+

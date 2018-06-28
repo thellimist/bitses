@@ -4,6 +4,7 @@ layout: default
 
 <h1>{{ page.name }}</h1>
 
+
 <h2>Researchers</h2>
 
 <ul>
@@ -14,14 +15,21 @@ layout: default
   {% endfor %}
 </ul>
 
+<h2>Relevant Links</h2>
+
+{% if page.cmc_id %}
+<a href="https://coinmarketcap.com/currencies/{{ page.cmc_id }}/" target="_blank">CoinMarketCap Profile</a>
+{% endif %}
+
 <h2>Analysis</h2>
 
 {{ page.content }}
 
+{% if page.conclusion %}
 <h2>Conclusion</h2>
 
 <p>
 {{ page.conclusion | markdownify }}
 </p>
-
+{% endif %}
 
