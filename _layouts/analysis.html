@@ -2,9 +2,27 @@
 layout: default
 ---
 
-<h1>{{ page.name }}</h1>
+{% for coin in site.coins %}
+{% if coin.slug == page.coin %}
+<h1>{{ coin.name }}</h1>
+{% endif %}
+{% endfor %}
 
-<p><b>Researcher:</b>&nbsp;{{ page.researcher }}</p>
+{% for researcher in site.researchers %}
+{% if researcher.slug == page.researcher %}
+<p><b>Researcher:</b>&nbsp;
+  {% if researcher.twitter %}
+  <a href="https://twitter.com/{{ researcher.twitter }}">{{ researcher.name }}</a>
+  {% else %}
+  {{ researcher.name }}
+  {% endif %}
+</p>
+{% endif %}
+{% endfor %}
+<p><b>Date:</b>&nbsp;
+  {{ page.date | date: '%B %d, %Y' }}
+</p>
+
 <!-- <h2>Researchers</h2> -->
 
 <!-- <ul> -->
