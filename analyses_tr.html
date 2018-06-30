@@ -1,0 +1,52 @@
+---
+layout: default
+title: Coin Research
+permalink: /tr/analyses/index.html
+---
+
+
+<table id="coin-table" class="sortable">
+  <tr>
+    <th>İsim</th>
+    <th>Özet</th>
+    <th>Puan</th>
+    <th>Tarih</th>
+    <th>Araştırmacı</th>
+  </tr>
+
+{% for coin in site.coins %}
+{% for analysis in site.analyses_tr %}
+{% if analysis.coin == coin.slug %}
+{% for researcher in site.researchers %}
+{% if analysis.researcher == researcher.slug %}
+  <tr>
+    <td>
+      <!-- <a href="{{ coin.url | prepend: site.baseurl }}">{{ coin.name }}</a> -->
+      {{ coin.name }}
+    </td>
+    <td>
+      <a href="{{ analysis.url | prepend: site.baseurl }}">{{ analysis.tldr }}</a>
+    </td>
+    <td>{{ analysis.score }}</td>
+    <td sorttable_customkey="{{ analysis.date | date: '%Y%m%d000000' }}">
+      {{ analysis.date | date: '%d.%m.%Y' }}
+    </td>
+    <td>
+      <!-- <a href="{{ researcher.url | prepend: site.baseurl }}">{{ researcher.name }}</a> -->
+      {% if researcher.twitter %}
+      <a href="https://twitter.com/{{ researcher.twitter }}">{{ researcher.name }}</a>
+      {% else %}
+      {{ researcher.name }}
+      {% endif %}
+    </td>
+  </tr>
+{% endif %}
+{% endfor %}
+{% endif %}
+
+{% endfor %}
+{% endfor %}
+</table>
+
+
+
