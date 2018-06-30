@@ -1,11 +1,11 @@
 # Base blog settings
-baseurl                      : "/site/" # the subpath of your site,                         # e.g. /blog/
+baseurl                      : "" # the subpath of your site,                         # e.g. /blog/
                               # set to '' in case of hosting on GitHub
-url                          : "" # the base hostname & protocol for your site
+url                          : "http://bitses.org" # the base hostname & protocol for your site
                                   # `http://<username>.github.io` - for GitHub
 
 blog:
-  title                      : Breakpoint Labs
+  title                      : Bitses
   # description                  : >
                                # this should contain a proper description
 
@@ -67,6 +67,9 @@ collections:
   analyses:
     output: true
     permalink: /analyses/:path/
+  analyses_tr:
+    output: true
+    permalink: /tr/analyses/:path/
   coins:
     output: true
     permalink: /coins/:path/
