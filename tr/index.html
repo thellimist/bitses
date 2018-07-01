@@ -31,15 +31,15 @@ title: Bitses
 
 <table id="coin-table" class="sortable">
   <tr>
-    <th>Name</th>
-    <th>Summary</th>
-    <th>Score</th>
-    <th style="width: 8em;">Date</th>
-    <th>Researcher</th>
+    <th>İsim</th>
+    <th>Özet</th>
+    <th>Puan</th>
+    <th style="width: 8em;">Tarih</th>
+    <th>Araştırmacı</th>
   </tr>
 
 {% for coin in site.coins %}
-{% for analysis in site.analyses %}
+{% for analysis in site.analyses_tr %}
 {% if analysis.coin == coin.slug %}
 {% for researcher in site.researchers %}
 {% if analysis.researcher == researcher.slug %}
@@ -53,7 +53,7 @@ title: Bitses
     </td>
     <td>{{ analysis.score }}</td>
     <td sorttable_customkey="{{ analysis.date | date: '%Y%m%d000000' }}">
-      {{ analysis.date | date: '%B %d, %Y' }}
+      {{ analysis.date | date: '%d.%m.%Y' }}
     </td>
     <td>
       <!-- <a href="{{ researcher.url | prepend: site.baseurl }}">{{ researcher.name }}</a> -->
