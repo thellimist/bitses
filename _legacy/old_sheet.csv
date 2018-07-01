@@ -1,0 +1,747 @@
+Cmc Link,Cmc_id,Date,Researcher,Notes,Result,Time_spent,TLDR,Conclusion
+https://coinmarketcap.com/currencies/chronobank,chronobank,2018-05-11,Demi,"- ERC20 token
+- 90% of their code is javascript
+- They haven't been doing a lot of coding in the past year but in the past month they have updated all of the repos.
+- Finished their ICO in Feb'17(raised $5M) and in the market since Mar'18 (mcap = $10M)
+- They have put the techs they have used for their dapps as partners in their site. (ex: waves, ethereum, 0x..)
+- Founder have put himself as Advisor to SingularityNet, but on singularity net website he isn't listed, I emailed singularity team.
+- Telegram has 55k members (skycoin 8k) has 1/100 of activity that skycoin has
+- 2k subs on reddit, almost 0 activity
+- Means they haven't been able to build a community for 1 year
+- they say that they are building a stable token called Labor hour which is semi-centralized which will be used to pay the freelancers. ",-1,Less than 1 hour,Coin used to hire workers for freelance/labor jobs,"Shitcoin, but they've started marketing more agressively the past month thus there can be an increase in the price if they succeed. If they don't it'll be a waste. So it would only be a gamble according to their marketing skills. "
+https://coinmarketcap.com/currencies/mintcoin,mintcoin,2018-05-11,Demi,"- Fork of Novacoin which is fork of Bitcoin
+- The developers have long abbandoned the coin
+- Shane Kerr saw this coin and decided to take over in Feb: https://github.com/shane-kerr/MintCoin-Development-Updates/blob/master/2018-02-01.md
+- He has been publishing weekly updates to the wallet ever since and is thinking about teaming up/merging/doing partnerships with other small timer coins.
+- He has just been updating the desktop wallet by himself but nothing new has been added to the coin yet.
+- Has market cap of $10M",-1,Less than 1 hour,One of the first POS projects in 2014,"If Shane gets more people working on this coin, they can get the coin up 5-10x from where it is in to the top 300, 200.
+But since the tech is old and doesn't provide a good innovation they will not be able to penaterate the top coins ever. Thus shit coin."
+https://coinmarketcap.com/currencies/aigang,aigang,2018-05-15,Demi,"- Built on top of ethereum
+- White paper looks ameteur, they didn't invent most concepts but no referrals are given
+- Github sucks, no real development can be seen
+- It has been more than 6 months and their docs still have todos everywhere: https://aigang.readthedocs.io/en/latest/platform/predictions.html
+- They don't look like they have anyone in the team capable of building a protocol",-1,Less than 1 hour,Insurance Protocol,"They look like they have just did ICO, took money and did nothing else."
+https://coinmarketcap.com/currencies/amoveo,amoveo,2018-05-15,Demi,"- is not on any exchange, did not do ico
+- Governance model includes increasing block reward to not over-reward the earlier miners, which may kind of make it a stable coin
+- Founder (zack) implemented Augur & Aeternity which stil have not launched. Amoveo has launched in Mar'18
+- Zack is a solo founder, doesn't have a team, needs a business/marketing guy to make this project grow faster
+- Has managed to attract good developers & built a strong early community
+- Naval & Nick Szabo follows him on twitter
+- They do everything from github, there is no website or anything like that.
+- Mcap is at $6M but it has only been mined for 2 months. Thus a lot of the coins have not been created.
+- This means that the market cap will increase dramatically but not the coin price. Also there is an in built governance system where people decide how many coins are going to be generated.
+- Which means miners will capture most of the value not investors.
+- They create a prediction market where people bet on predictions and the results are concluded with oracles.
+- Uses pow (nakamoto consensus)
+- In their mission statement they say Amoveo is for derivatives: https://github.com/zack-bitcoin/amoveo/blob/master/docs/mission_statement.md
+- Derivative markets are highly developed in developed countries so their target market is southeast asia & africa
+- They have 2 way channels & also lightning network for multi people trades
+- Smart contracts are in channels
+- Amoveo has derivatives not subcurrencies where you can exchance euro, lira, bitcoin, wheat, coffee, oil etc. which are the same price as real market
+- Nash equilibrium makes sure people are hones in oracles, when people are dishonest forks people who think the right way will just move to the right fork, miners will defend the right fork for more capial gain
+- Zack has lived with Jae Kwon creator of tendermint for a couple months.
+
+Questions
+1) does game theory work?
+2) How many txps does prediction market needs? How many does Amoveo do?
+3) Current inflation rate per year?
+4) Why does Zack want to create ASIC?
+
+Answers
+1) In theory, game theory should work: https://github.com/zack-bitcoin/amoveo/blob/master/docs/design/oracle_motivations.md
+2) Prediction market needs 1tx per person per month. With big blocks and sharding it can scale up to 10B Tx per month. It is not the best solution but a solution that would work: https://github.com/zack-bitcoin/amoveo/blob/master/docs/design/scalability.md
+3) Inflation rate will be near optimal: https://www.reddit.com/r/Amoveo/comments/8kqhwn/what_is_the_estimated_inflation_rate_of_amoveo/
+4) He wants miners to only be able to mine Amoveo. Asked if why https://www.reddit.com/r/Amoveo/comments/8kqk1n/why_does_amoveo_want_asics/",3,More than 5 hours,Oracle Machine,"Tech seems to be strong but the path to market domination is not clear. Zack has some ideas here: https://www.reddit.com/r/Amoveo/comments/8j91ik/good_tech_but_what_is_the_path_to_market/ so we need to watch & see how it evolves.
+I believe it will increase in price as people discover this gem."
+https://coinmarketcap.com/currencies/atlant,atlant,2018-05-17,Demi,"- ERC20 token
+- They plan on doing ICOs for shopping malls and other real estates. So people can buy & trade a fraction of the mall.
+- Their white paper looks very legit (work has been put in to it)
+- The coin price is 20% of the ico price where ICO happened in 1 Nov
+- Up until the ICO they tweeted daily after the ICO they tweet once a month
+- They push new code about once a week.
+- They are far behind their road map but have not update their road map.
+- They seem to be more focused on regulatory things than the actual tech.
+- In telegram the admin said when they finalize the regulatory problems they will update the site and then do the product release which I think will probably increase the token price by a lot.
+- They go to blockchain events take pics with famous people (like vinny)
+- The method of tokenizing a proprety goes like this: They buy a property, put it in to a special purpose company, then tokenize that company. I'm not sure why ATL is needed here.
+- It might be better if they just tokenize properties without having their own coin. Thus they become a service company.
+- Emailed Maxim(https://github.com/xlab) who implemented their node: https://github.com/AtlantPlatform/atlant-go . He said that he is a freelancer who is working on atlant and another project at the time. And his hourly rate is $40.",0,Less than 5 hours,Real estate blockchain (make ICOs for real estates & decentralized airbnb),We need to have digital assets tokenized before having real estates tokenized. They are too early. Also I'm not sure if the team can handle the challenge. 
+https://coinmarketcap.com/currencies/crowdcoin,crowdcoin,2018-05-18,Demi,"- They are pretty active for a coin their size
+- They have forked a coin and don't seem to have done any innovation
+- They've been updating their github rigorously the past few days.
+- They have published a new whitepaper (a few days ago) which looked really legit at the first glance but as I read more into it, it is a business paper not a technical paper which doesn't include game theories & other formulas solving problems.
+- Sent them email, the email adress doesn't exists.",-1,Less than 1 hour,Building an ecosystem to learn/invest/news/exchange/fund cryptos.,"They are basically giving ICO/investment advice & helping people do ICO's. Thus they are actually a consultancy firm which has created their own coin, where I didn't understand why they needed the coin in the first place. Since they are updating & publishing more stuff their price can increase in the short term, but I see no long term value for this coin."
+https://coinmarketcap.com/currencies/aeternity,aeternity,2018-05-19,Doruk,"-Yanislav (CEO) is one of the earliest ethereum developers and core eth team member (he calls himself even “godfather of ethereum” https://medium.com/@yanislav/king-of-bitcoin-godfather-of-ethereum-a9af9ecf56d5
+-PoW+PoS hybrid consensus algorithm will use Cuckoo Cycle as PoW which is energy efficient and runs on RAM. They claim even smartphones can mine ae in the future. Delegated voting will be used for PoS governance.
+-This blockchain will use “oracles” as tamper proof data bridges which contracts can act upon. Contracts can pull real world data like the price of real world assets(ie gold), election results, weather conditions etc.
+-State channels are offchain solutions, not a real essential breaktrough though but it’s important for businesses.
+-Erlang has been used in aeternity’s architecture.
+-AE is still ERC20 now which will be swapped to its native infrastracture coins, its ICO had two phases (april and june 2017). First phase price was $0.042 and second was $0.28 per token. (I contributed in both phases)
+-Long wait for token distribution, lots of corporate tragedy (two CTOs have been fired, first one Zack is also one of the creators of aeternity’s whitepaper, and he is one of the earliest characters in cryptosphere but he acted very unprofessional on the process IMHO- childish hack threats on medium posts etc, he’s now making his own project called AMOVEO)
+-It has a high level, OCaml based scripting language called Sophia which can be formally verified. It has also a simpler language called Varna. Both will support contracts and oracles.
+-It will have its own dapps called aepps, not sure how much developer support can it take. Their team is quite competent indeed. (They have few PhD erlang devs)
+-Euro-centered project, no asian hype, at least for now.
+-Despite all of its corporate tragedy ae price has done well since ICO, I believe Yani’s strong ethereum connections are responsible in that.
+-They must be in an independent security audit these days, after that mainnet release and token swap will be expected.",1,More than 5 hours,smart contracts interfacing with real world data,"The only real competitor of AE will be its oldest CTO’s solo project Amoveo which lacks a market existence, for now."
+https://coinmarketcap.com/currencies/zilliqa,zilliqa,2018-05-19,Doruk,"-Zilliqa leverages PoW for sybil attacks, establishing identities and performing sharding. However it achieves consensus through practical BFT in each shard.
+-The most unique speciality of Zilliqa is linear scalability which means it processes more tps as more mining nodes join the network. It’s the opposite in almost every blockchain project.
+-Very qualified team with a strong academic background. (one of my highschool friends took a class with their CSA Prateek Saxona at Berkeley in 2009 and he calls him pretty smart guy) Amrit Kumar is also a well known name in crypto-academic circles
+-Zilliqa is developing a non Turing complete, I/O Automata based smart contract language called Scilla, they claim that not all apps require a Turing complete language and it becomes possible to prove interesting safety and liveness properties about a non-Turing complete program such as the funds never get locked, etc. Interesting approach IMHO
+-The biggest critic comes from eth devs and they say that there is no state sharding in Zilliqa (Ethereum is planning to use state sharding in the future) However Zil’s team’s conclusion was that there still isn’t a state sharding scheme that is secure enough, but they are open for future implementations.
+-They have Bluzelle and Genaro partnerships (Distributed storage) NEO also invested in Zilliqa
+-Lately Indonesian bank BNI said that they will use a private blockchain system called Anquan which is powered by Zilliqa for remittances and trade finance.
+-Lack of strong marketing, too much(asian level) nerdy team. Anyways their community is getting stronger everyday.",2,More than 5 hours,A secure sharding adaptation in blockchain,Zilliqa may be a real permissionless high throughput blockchain solution with its unique linear scalability. I expect an ADA like run from it when its mainnet release approaches (sometime in q3) %5-10 of all portfolio can be invested imho (mine is %11)
+https://coinmarketcap.com/currencies/holo,holo,2018-05-20,Goku,"Holochain and blockchain are built for fundamentally different use cases. Blockchain is relatively good for systems where it’s absolutely necessary to maintain global consensus. Holochain is much better than blockchain at anything that requires less than universal consensus:
+1. It’s faster: Since Holochain apps don’t have to sync everyone on the network for every change that happens, they can run much faster than apps on blockchains.
+2. It’s more efficient: With no global syncing or mining, Holochain is exponentially more efficient and affordable than blockchain. This means it can be used for things like accounting for microtransactions that blockchains cannot address.
+3. It’s scalable: Holochain can support applications with billions of simultaneous users thanks to its parallel architecture.
+4. It’s adaptable: Users can adapt apps and protocols to meet their needs.
+5. It’s extendable: Users can extend applications by linking them to other applications.  Anything a user can read out of one app, they can write into another.
+
+- Holochain is the main project. Holo is the holofuel token on top. Hypetoken now, will bestable asset based coin in future.
+- Made Holoport indiegogo campaign and raised $1M. Raised about $25M in ICO. 6x up from ICO.
+- Distributes tokens with proof-of-service for serving your computing resources.
+- Runs on linux for all computers.
+- Every person has their own chain, signed by the user, each action is recorded.
+- The 2 founders have been experimenting, writing, coding alternative currencies since 2007. They founded an open source project called metacurrency.
+- First they are going to license their people to use their platform. Later they plan on opening to everyone.
+- Their main engineers are very good.
+- Sizhao Yang & Richard Burton following Holochain. Ryan Singer follow CEO. Mozilla CFO and Co-Founder of Netflix said good things.
+- Funny quote from benchmarks: It's probably best to stick to ""HODLing"" your ETH, because it's a waste to try to do any computing with it. Running code and storing data on this ""global computer"" currently costs 100,000,000x to 1,000,000,000x the cost of doing the same computing on Amazon Web Services
+- Circulating/Total Supply: 75% circulating, 25% is owned by the team.
+- With few developers they do have, they care about what they are doing and are working hard.
+
+- Red flag: There are too many people for marketing and evangelizing this project. Not many engineers. But their lead engineer seems like someone who can code everything by himself. Maybe this is a good thing?
+- Red flag: Anonymity is very hard to achieve with Holo, which makes illegal activity less desirable.
+- Red flag: No scientist for a complex system.
+- Question: Holochain is supposed to be 10000x cheaper than blockchain, design makes sense but will it actually work?
+- Tech: Haven't read the whitepaper and validated tech.",3,Less than 5 hours,Distributed Computing Resources,"- Seems like a guaranteed top 50 coin. Probably will be top 20. Has a shot at top 3.
+- Still fairly new in the market, the only proper exchange is IDEX.
+- Good location for company in Gibraltar."
+https://coinmarketcap.com/currencies/amoveo,amoveo,2018-05-20,Goku,"- Zack followed by Nick Szabo, Naval, Richard Burton
+- Zack is in hero mode and developing everything by himself. He's been developing for more than 1.5 years and did more work than most other blockchain projects.
+11K ERL. 8K JS.
+- Project is very new, very unknown expect hard core long term blockchain enthusiasts.
+- Looks like the market cap was over $6 million. (Maybe?)
+- VEO/BTC exchange is being built.
+======
+The 2 previous blockchain projects I founded:
+* raised tens of millions in ICO.
+* hired dozens of people.
+* have not launched main net yet.
+* mediocre growth
+
+Amoveo:
+* raised $0 in funding.
+* hired no one.
+* launched main net 2 months ago
+* rapid growth
+======
+- Question: How do we buy/mine this? If we want to buy it, we might get scammed because we don't know how to navigate private sales.",2,Less than 1 hour,Oracle Blockchain,"Risky revenge coin. High potential like 10-100x increase. But good chance to go to zero. No more than 5%, should easily gamble 0.5%. "
+https://coinmarketcap.com/currencies/nexo,nexo,2018-06-17,Demi,"- They get your btc, eth and they give loans in $ values.
+- It is similar to using leverage in trading. But you're able to use the extra leverage on other investments in the mean time.
+- They have interest rates on each month of your loan.
+- Nexo is used to decrease interests by using it as collateral or as loan payments.
+- Nexo token holders are paid dividends from 30% of the revenue.
+- Thus the nexo token is more like BNB token.
+- They are centralized, you need to trust them.
+- Ranked 130 with mcap $100M
+- Michael Arrington (co founder of techchrunch) is their advisor
+- CEO doesn't look awesome, but okay.
+- We can invest according to the growth of nexo platform: https://www.reddit.com/r/Nexo/comments/8phfdz/where_to_obtain_stats_about_nexo_platform/
+- Their risk system
+- Founder seems to be a shill business guy type. Where I wouldn't trust doing business with him. (unlike CZ)
+- In CEO's talk he invites a pretty girl on stage to explain some parts of the token. (he should be doing all of that by himself, huge red flag) https://youtu.be/UC8sJ0lu5YY?t=584",0,Less than 5 hours,Crypto Loans,"- They are too shiny in marketing but we don't know if their business is working because they haven't shared their data.
+- From what I have seen there is a high probability that people don't use their product.
+- I've tried to get their data from social media, emailed them etc, no luck."
+https://coinmarketcap.com/currencies/harmony,harmony,2018-05-25,Demi,"- Uses OmniLedger
+- Team has ex-google/apple & phds
+- Founder sold company spotsetter to apple
+- Uses block-Dag instead of blockchain ??
+- They have emphisized too much on the team but it looks like the team had no prior blockchain experience. They saw an oppourtunity and decided they could make a lot of money from it.
+- I believe this team is smart & that they can raise some amount of money but I don't believe they will be able to create the next all working blockchain.
+- They have just gotten together(May 2018), have done near no prior coding, they have researched many techs but I believe their advisors told them to to just use tech X, tech Y.
+- In Sep 2017 they've written a shitty new language which I couldn't see a nitch/specific use case. It is ugly and they haven't updated it since October 2017.
+- As I understood the founder has been developing the coding language for 10 years. But the lang has no community, no users, so it is shit, just a marketing ploy.
+- Their white paper looks pretty good.
+    - It is not like a technical white paper but they mostly mention how they are going to use which tech to include in to their system.
+    - They're not doing innovation in core tech but they've spent time selecting the best ones to use (which they probably just got the names from advisors and didn't even research all the possibilities themselves)
+    - Their innovation is in location based oracles (sounds like marketing ploy)
+    - Another innovation is in their own programming language (I didn't understand if the language will be actually useful or shit) It had things like better syntax for sql, html, javascript which I believe makes it shit)
+- Their token economic model shows me that they plan on dumping their coins slowly and in a few years all become filthy fucking rich and exit the market.
+- They get a percentage of the coins every month, only %28 is locked up for 4 years. They might do their exit scam before the 4 years is up. They already have salaries from the ICO money, they have no justification to release %1.5 of their coins every month)
+
+http://simple-rules.com/tech
+https://icodrops.com/harmony/
+
+- 2018 Q3 they will do private sale which will have 20% bonus
+- 2018 Q4 they will do final sale
+- 2018 Q4 public mining will be ready
+- 2019 list on exchanges",0,Less than 5 hours,Highly scalable consensus platform,"- They will probably be able to do a version of a blockchain (by using other peoples tech)
+- I don't believe they will be one of the standing blockchains after this era has passed.
+- I do believe (80%) they will be able to pump their token price.
+- It might be wise to buy some in the private sale from our trading account and then dump when we feel like it has pumped enough
+- It has a really high chance of being a top 100 coin or even top 50 coin. "
+https://coinmarketcap.com/currencies/pirl,pirl,2018-05-29,Demi,"- Their tagline is by people for people (but so is all the other open source projects)
+- Their unique selling point is that they are creating a marketplace on the blockchain
+- They never needed a new blockchain to create a marketplace, they can use btc or eth or any other blockchain.
+- They've just forked ethereum code and haven't built much on top of it
+- They haven't updated the core for more than a month",-1,Less than 10 min,Pow blockchain,"- Fork of ETH, has no unique value, shit coin"
+https://coinmarketcap.com/currencies/ellaism,ellaism,2018-05-29,Demi,"- Their tagline is a fair ethereum, which means they copied eth, but they haven't premined or have dev fees.
+- Having no dev fees makes the coin worse not better.
+- Having no premine is not exactly a plus. The creators & investors need incentive to create & invest. ",-1,Less than 10 min,Ethereum Network (copy of eth),"- Fork of ETH, has no unique value, shit coin"
+https://coinmarketcap.com/currencies/xdag,xdag,2018-05-31,Demi,"- No pre-mine, no ICO
+- Hidden dev (like satoshi)
+- Looks like the original dev left? https://www.reddit.com/r/xdag/comments/8n5f1l/where_is_cheatoshin/
+- Everything seems to be maintained by the community.
+- The miners mine the coin and look for people to sell it just like in Veo, no actual forseable usecase?
+- Isn't in any exchange. Except for a few shitty chinese exchanges.
+- There are main blocks and transaction blocks, I didn't quite get the main block.
+- It doesn't look like they have a niche
+- The whitepaper etc are all shallow. They don't explain much. ",0,Less than 1 hour,Dag based currency with blocks & smart contracts (in the future),"- The dev just created a currency and left, there is no way of market penetration that I see.
+- Since the idea sounds okay and there isn't a lot of technical documentation, I couldn't understand if the idea their Dag system was shit or not so I gave it 0."
+https://coinmarketcap.com/currencies/purk,purk,2018-06-01,Demi,"- Uses ring signatures & Diffie-Hellman for privacy
+- Their selling point is; people can tip content creators. (sounds like shit)
+- Has only 1 person modifying the code.
+- Their usage documentations are really good.
+- They've created an api where it is really easy to put donate button in websites.
+- No pre-mine or ico
+- It isn't on any exchange",0,Less than 1 hour,Asic resistant private coin,- No real niche for the coin but they seem to be working on & developing it regardless. It might increase a lot like xvg but who knows. There needs to be a reason a hype creation but nothing like that at the moment. 
+https://coinmarketcap.com/currencies/nebulas-token,nebulas-token,2018-06-02,Onur Erkin,"- Founder is one of the exfounders of Antshares(NEO) and former director of Ant Financial’s Blockchain operation.
+- Their github is one of the most active githubs in crypto space.
+- They started a incentive program with 5M$ price pool. They are aiming to get developers’ attention.
+- They do not focus on marketing right now, it seems development is their priority.
+- Whitepaper is very comprehensive.
+- Partnerships with GIFTO and Dolphin Browser.
+- Three core elements of Nebulas, Nebulas Force(NF), Nebulas Rank(NR) and Nebulas Incentive(NI) will be online in 2018.
+- In terms of exchange listing, their CEO said they will end up in binance and bithumb sooner or later. ( https://twitter.com/HittersXu/status/990256163320094720 )
+
+My thoughts and concerns:
+- They are aiming to be a 3rd generation blockchain but most people know them as just a search engine. This should change.
+- 3rd generation blockchain market is very competitive, they are relatively unknown compared to their competitors.
+- PoD algorithm should be investigated, how they are going to determine “influential” users and will it be really different from PoS’s “rich gets richer” phenomena.
+- They are trying to get developer’s attention by incentive program, I think this is a very good strategy.
+- Their marketing has been terrible so far. The reason might be they heavily focused on product development and mainnet release.
+- I think project can climb up to top 20 or even top 10 if they keep delivering and start proper marketing.",3,More than 5 hours,Decentralized search engine and 3rd generation blockchain.,"- The project is legit, I believe that this project has the potential of being a top 10 coin in CMC."
+https://coinmarketcap.com/currencies/huobi-token,huobi-token,2018-06-17,Demi,"- https://coinsutra.com/crypto-exchange-coins-dividends-fees-reductions/
+
+0.81x
+Coin: https://coinmarketcap.com/currencies/kucoin-shares/ 30M
+Exchange: https://coinmarketcap.com/exchanges/kucoin/ 37M
+
+0.35x
+Coin: https://coinmarketcap.com/currencies/huobi-token/ 285M
+Exchange: https://coinmarketcap.com/exchanges/huobi/ 800M
+
+1.5x
+Coin: https://coinmarketcap.com/currencies/binance-coin/ 1.8B
+Exchange: https://coinmarketcap.com/exchanges/binance/ 1.2B
+
+0.94x
+Coin: https://coinmarketcap.com/currencies/bibox-token/ 168M
+Exchange: https://coinmarketcap.com/exchanges/bibox/ 178M
+
+0.2x
+Coin: https://coinmarketcap.com/currencies/cryptopiafeeshares 1.4M
+Exchange: https://coinmarketcap.com/exchanges/cryptopia/ 7M
+
+27.5x
+Coin: https://coinmarketcap.com/currencies/cobinhood/ 22M
+Exchange: https://coinmarketcap.com/exchanges/cobinhood/ 800K
+
+Decentralized Exchanges (Dex)
+228x
+Coin: https://coinmarketcap.com/currencies/0x/ 685M (dex)
+Exchange: https://0xtracker.com/ 3M (dex)
+
+50x
+Coin: https://coinmarketcap.com/currencies/bridgecoin/ 50M (dex)
+Exchange: https://coinmarketcap.com/exchanges/cryptobridge/ 1M (dex)
+
+2x
+Coin: https://coinmarketcap.com/currencies/aurora-dao/ 20M (dex)
+Exchange: https://coinmarketcap.com/exchanges/idex/ 10M (dex)
+
+90x
+Coin: https://coinmarketcap.com/currencies/waves/ 450M (dex)
+Exchange: https://coinmarketcap.com/exchanges/waves-dex/ 5M (dex)
+
+570x
+Coin: https://coinmarketcap.com/currencies/bitshares/ 570M (dex)
+Exchange: https://coinmarketcap.com/exchanges/openledger/ 1M (dex)
+
+33750x
+Coin: https://coinmarketcap.com/currencies/stellar/ 5.4B (dex)
+Exchange: https://coinmarketcap.com/exchanges/stellar-decentralized-exchange/ 160K (dex)
+
+Huobi token is in the same category as binance, kucoin, bibox thus it wouldn't be too far off to say that it easily has the potential to increase 2x+
+Huobi token will also be used the same way as bnb token though since they aren't claiming they are making a dex it is normal for it not to be as valuable or as hyped as bnb.",2,Less than 1 hour,Used in huobi exchange,It is currently undervalued and it wouldn't be a false assumption if it increased 2x in price according to the market.
+https://coinmarketcap.com/currencies/shipit,shipit,2018-06-04,Goku,"- Their old product website is Russian. They have a new ICO website in English.
+- The company location shows both in Russia, Chile and San Francisco. In different platforms?
+- Doesn't seem to have a proper location.
+- Company founded in 2015 as a norma startup, then turned into an ICO soon.
+- They have ICO advisors and temporary or fake team members to raise money.
+- Most team doesn't state they are working on this, in Linkedin or somewhere else. Except their website and ICO page.
+- Team has 4 on operations, 5 on tech, 5 on marketing.
+- They are spending a lot of time going to conferences and networking.
+- Does this business need a token? No.
+- Is it a protocol or platform? No.
+- No code written in Github.
+- Raising soft cap of $3M and hard cap of $24M. They are too early startup for anything over $5M.
+- Uses shipit tokens for payments, they believe a decentralized currency will have benefits shipping internationally.
+- Private sale will continue until June 30th of 2018. At this point, the company will enter the pre-sale portion of the process. Has a 55% bonus.
+- Private sale min amount $10K
+- They have a iOS app with only 1 review. Google Play app with 500 downloads. Its live and updated since 2016, don't know why no one is using them.
+- They say they won't ship drugs and illegal things. Which seems like a good thing, its risky for the shippers.
+- 12 useless advisors, red flag.
+- They seem to have friends or fake accounts boosting their topic on bitcoinforumtalk.
+- The claim to be 2x cheaper and faster than other platforms, it does make sense. The operations model could work.",0,Less than 1 hour,People who are traveling ship packages,Semi legit startup going after a good market with high chance of failure because of slow execution speed. But also an ICO opportunist.
+https://coinmarketcap.com/currencies/monero,monero,2018-06-05,Goku,"-Secure, private untraceable cryptocurrency.
+-No way to link transactions, trace history.
+-Seems to be better store of value and transaction system than Bitcoin.
+-Bytecoin fork.
+-Totally legit distribution.
+-Development funded by opening requests and users funding them.
+-Anon coin has mostly anonymous team.
+-No leader, no one is really taking charge in the project.
+-No team is working fulltime on the project.
+- Has inflation
+-All blockchains being open and transparent might lead to countries spying and taxing users. This might lead everyone to adopt more anonymous coins and Monero might get into top 3 because of this.",3,Less than 5 hours,Private digital currency,Most legit store of value coin after BTC. But it probably won't increase in rank and not a good investment.
+https://coinmarketcap.com/currencies/orchid,orchid,2018-06-06,Kan,"- Team is awesome
+- Investors are awesome
+- In their whitepaper they don't mention if the weak spot of privacy which is Ethereum can be solved in production manner. They mention every possible attack, every possible scenerio in the whitepaper. They definitely know what they are doing however I'm sceptical if the solutions of the privacy part will work cheap enough in Ethereum blockchain..
+- Sharding on Ethereum is a must for Orchid.
+- It has the potential to be the most used dApp on Ethereum.
+
+Questions:
+- Will the gas cost be low enough for people to use?
+- Even if the gas cost is high, will it be better and more attractive than Tor?
+",2,Less than 5 hours,TOR with economic incentives,This team is probably best suited to do something like this if it's possible on Ethereum blockchain. It is probably expensive to buy. The ROI won't be huge but there still good room here.
+https://coinmarketcap.com/currencies/Helix,Helix,2018-06-07,Demi,"- https://hlx.ai/
+- I couldn't understand exactly what they wanted to do
+- There isn't any info on the internet, their twitter doesn't work, they dont have reddit or any other announcements, couldn't find their whitepaper etc.",0,Less than 1 hour,TLDR: Dag crypto currency,"- They are probably too early to start a community and start marketing. They look like they are still gathering their team and setting up their system
+- Need to look at them when they improve a bit more."
+https://coinmarketcap.com/currencies/ravencoin,ravencoin,2018-06-07,Demi,"- Fork of bitcoin
+- They are trying to be like bitcoin/amoveo where no team member is listed because it is a truly open source project.
+- On twitter CZ, Mark Andreesen, Sizhao, Nick Szabo, Joseph lubin + 10 other good guys follows Bruce. (CZ only follows 16 people one of them is Bruce) https://twitter.com/cz_binance/following which means could get in to binance sooner or later.
+- Bruce is like virtual CEO of raven coin
+- Rank 240 $36M market cap (jun 6 2018)
+- A really active community for a rank 240 coin
+- They try to prevent asics
+- Will support unique assets where Game_Server_N:321343 can be a unique item in a game. Or Art:Monalisa could be a real life item.
+- They have rewards where people who received Game_DawnOfCrafting tokens could be rewarded with RVN if the business is going well
+- Creator of the token could message all token holders.
+- But they haven't added these yet
+- Their github seems to be all readme updates, they claim they are working on private but it looks fishy: https://www.reddit.com/r/Ravencoin/comments/8oxsh2/where_is_the_real_code/
+- They've explained their concepts really well. Anyone can easily understand how their blockchain will be used.",1,Less than 5 hours,Issue & Transfer Assets,"- They have a strong shill as CEO which can easily propell this coin in to top 100 which is 4x increase
+- Since I haven't seen their whitepaper concepts developed I have the urge to wait and see if they can make it.
+- Their whitepaper concepts sound really easy. Even I can code those in to the blockchain.
+- Need to compare this to other asset blockchains before deciding."
+https://coinmarketcap.com/currencies/orchid,orchid,2018-06-07,Goku,"- Distributed marketplace for computation, storage, bandwidth.
+- They are hiring and building a team fast.
+- Sequoia, A16Z, DFJ, Metastable, Polychain, Blockchain invested in this. Thats every legit crypto fund in the world except USV. (Verified)
+- Uses an overlay network built upen the existing internet.
+- Gavin Wood is an advisor.
+- They already raised $41M privately.
+- Goktug: ""I was emailing with founder about investing into them. I got a response at April 16. I said I'll check later. They raised $36M on April 20 without me. Fuck.""
+- Private SAFT Fundraise Closing Friday, June 22. Aim to complete sale with a final target of up to $125m. $90M more will be sold.
+- In private alpha, will be open sourced late 2018
+- CEO has PhD from Cambridge. Worked on AI, search, storage, venture capital. IPO'ed a company, worked in Sun Microsystems, Pantera Capital, invested in Bitstamp, Xapo, 21, Chain, Circle, Korbit, Civic, Zcash, Polychain, Veem, Firestartr.
+- CEO is very well connected. Just from my linkedin knows ONT founder, Baris Ozistek, Shellpay founder, Softbank VCs etc..
+- CTO Brian wrote GNU Bash Shell, maintained GNU Emacs, wrote the first online banking software for Wells Fargo, created an open source election system. A+ engineer. Also been working on anonymous, secure internet since 2009. First open source foundation employee in the world.
+- Cofounder, Gustav was core developer at ETH. 159 commits(2M lines) on go ethereum in 2015. 9th top commiter. Worked in Dfinity, Erlang, Sumup.
+- Cofounder Jay made Cydia, iPhone jailbroken appstore. A+ engineer. 500K twitter followers.
+- Cofounder Stephen founded a few tech companies. 2 VC companies. Mostly in Asia.
+- Paper states their competitor I2P and Tor lack widespread adoption because lack of economic incentives.
+- Has ""bandwidth mining""
+- Couple founders seem to be very active in reddit and hacker news.
+- A blockchain-based stochastic payment mechanism with transaction costs on the order of a packet
+- Has a fully distributed anonymous commodity bandwidth market
+- Exit Nodes can have whitelists to prevent traffic from viewing illegal content via their Exit Node
+- Orchid’s underlying payments system utilizes ERC20 tokens
+- Technical problem? Peddlers on the Orchid Market must change keys every 100 Ethereum blocks.
+- Note: Didn't understand Orchid Market completely.
+- Using a PoW like mechanism to discourage attackers. Exploring Proof of Space.
+- Fixed amount of 1 billion ERC20 Orchid Tokens.
+- Protocols like Orchid have no judgement of their own, and so cannot tell if they are routing traffic for a freedom fighter or a terrorist, villain or hero.
+- Possible future stuff: File sharin, messaging service, mderation service, static website hosting.
+- 200M tokens are sold. 35% network incentives, future sales, 35% SAFT, 12% employees, 18% founders.
+- There will be no ICO, all funds will be raised privately.
+- Need to go through Coinlist KYC process.
+- The applicable exchange rate shall be the closing price of Bitcoin or Ether in U.S. Dollars according to coinmarketcap.com on the day immediately preceding the date that the SAFT becomes effective.
+- The private presale round TOKEN price was 0.03$ USD and the private sale 0.70$
+- $50K minimum to enter the round. In some cases they accepted $25K.
+
+SAFT Options (choose one):
+$0.50/token SAFT: $0.50/token, lockup: 1/2 unlocks 12 months after Network Launch, 1/12 unlocks each month from months 13-18
+$0.70/token SAFT:  $0.70/token, lockup: full amount unlocks 12 months after Network Launch
+
+Questions:
+
+- How will ERC20 tokens provide enough TPS to make this system work at scale? Is it going to batched? Like 1000 packets per Orchid token?",3,More than 5 hours,TOR with economic incentives,"They will probably raise $125M already and would possibly be too overvalued. But they might not reach the higher limit because no one is working on marketing this coin. This is an insta top 50 coin which can bring market cap to $350M. Easily 3x with high possibility of going top 10 ($4B), which means 25x realistic upside. Not the best investment but less risky. Any amount invested is locked up for at least 1 year. They have a lot of competition in this space."
+https://coinmarketcap.com/currencies/karbowanec,karbowanec,2018-06-18,Onur Solmaz,"- From whitepaper: ""In Karbo project we set a goal of creating such decentralised, community oriented medium of
+exchange, a stable cryptocurrency with low price volatility by introducing new to crypto world
+technics of regulating coin supply to stabilize its market price and exchange rate.""
+- Seeks to bring stability by implementing a variable supply mechanism as defined in Vitalik's stablecoin article: https://blog.ethereum.org/2014/11/11/search-stable-cryptocurrency/
+See the section ""Endogenous Solution""
+- Team is Ukrainian, kind of like the e-akce project of Turkey
+- Monero is also based on cryptonote. Since Monero's inception, a guy called Zawy came up with a better difficulty algorithm: https://github.com/zawy12/difficulty-algorithms/issues/3
+There are a bunch of projects that just fork old ones and apply the new algorithm, and call themselves original projects.
+Karbo is not one of them since it is _also_ trying to implement a variable supply mechanism.
+- Team members do not show themselves on the Karbo webpage. They don't seem very keen on marketing.
+They say they won't do an ICO and there is no premine/instamine. Karbo development is supported by donations.
+Talked with admins on telegram, they told me ""there is no ICO, fuck off"", when I tried to ask their background.
+Code development seems slow. Devs don't seem very ambitious.",0,Less than 5 hours,"Decentralized stablecoin, also a privacycoin based on cryptonote","Whitepaper seemed promising, but lack of activity dissuaded me from further research. I would be surprised if they made it to top 200."
+https://coinmarketcap.com/currencies/masari,masari,2018-06-18,Onur Solmaz,"- Admin replied: ""Just the same as Monero currently, with a few minor changes and a few experimental features like zawy's lwma difficulty algorithm
+also homogenous ringsize, and technically better anonymity since we've been on the current privacy standard since day 1""",-1,Less than 1 hour,Same as Monero but with a different difficulty algorithm.,I can't see a reason for this project to get into the first 200.
+https://coinmarketcap.com/currencies/metronome,metronome,2018-06-18,Goku,"Idea:
+* 8M/10M tokens available for sale.
+* Company blogging since November 2017.
+* Metronome attempts to create a stable, predictable money supply ad infinitum, using daily descending price auctions to distribute the token supply at market prices.  Through the Auction contract, an initial 8,000,000 MTN are sold in a 7-day initial descending price auction, followed by 2,880 MTN per day minted and sold in the daily auctions (through year ~30, where mintage hits a 2%-per-year inflation floor).
+* Descending price Auction. The price descends by 0.0001984320568 ETH every 60 seconds. Users will have the option of buying Metronome at any price target they want until it reaches a minimum of 0.0000033 ETH. The starting price is 2 ETH. 2 ETH price = $8B raised. 0.0000033 ETH = $13K.
+* All Ethereums collected in Metronome smart contracts can be sold back to Metronome buyers.
+* Can move METs across different blockchains. Like ETH, ETC. Extra validators are needed to ensure which chain is the correct one while swapping between chains.
+* Compares itself to and is competitor to BTC, LTC, ETH, XRP, ZEC as a currency.
+* Has the ability to subscribe to a decentralized network by making weekly standard payments.
+
+* Self-Governance: MTN tokens will be managed by its user community, with the system managed by autonomous smart contracts. There will be no third party with any special privileges either within the system or in the MTN marketplace.
+* Reliability: Metronome was architected to provide rapid market price discovery, prioritize predictability and provide a steadiness to the MTN token supply over time.
+* Portability: Metronome’s cross-blockchain capability uses a proof-of-exit receipt when users leave one blockchain, which enables them to enter another. The MTN token will be issued first on the Ethereum network, with Ethereum Classic, Rootstock on Bitcoin and Qtum support expected to follow. This will allow users to select the blockchain that suits their requirements for governance and security, or even upgrade the MTN contract if needed.
+
+Team:
+* Matthew Roszak, founder worked in Keystone Capital in 1995(Acquired by Coinbase), Was board member of a company that IPOd. Founded and worked 15 years in a company that raised $200M. Then founded a private investment firm that invests and acquires businesses for large moneys like $50M. Board member of a lot of late stage startups and companies, has strong networks in Chicago, NY, Toronto. Seems like producer or investor in The Rise and Rise of Bitcoin documentary. One of first investors in Blockchain Capital. Founded Chicago Blockchain Center. Chiairman of digital commerce. Founded Tally Capital that only invests in crypto stuff. Estimated to be a billionare. Started getting into ICOs since 2013. Gave Richard Branson and Bill Clinton their first BTCs. Andreas, Charles, Erik, Charlie, Nick all follow him in twitter.
+* Founders invested in Dragonchain, Civic, Poet, Rivetz, Genaro recently.
+* Jeff Garzik CEO is legendary in bitcointalk forum. Was Bitcoin core developer in Bitpay since May 2013 for 2 years.
+* Founder shares, 75% of 2M MET are locked for 3 years.
+* Gustav (Orchid cofounder, ETH core dev), Don Tapscott (Blockchain Revolution Author), Vinny (Civic) are advisors.
+* Their Chief Cryptographer is founder of Coinlab, Bitcoin foundation. And advisor to DFJ, lightspeed, pantera etc..
+* Some people say these founders have a lot of red flags, like having controversial issues about technology, lawsuits etc..
+* A lot of the team is from Chicago and Toronto. Developers in github seem to be from Argentina.
+
+Opinion:
+* Not sure if incentives will make sure this is stable, it might just go moon.
+* Its very possible that a lot of dumb people will go FOMO in without understanding the economics. And will pay 2 ETH for what will end up to be worth a 0.02 ETH coin. Losing 100x of their money. Clever way of scamming idiots. evolution at work.
+* I'm guessing the first 2M will be sold very slowly. The next 4M will be sold faster, and the last 2M might deplete in 1 hour. Economically if we buy in the first 3M we will definitely lose money, in the first 5M we will probably lose money, in the last 3M, we will probably make money.
+* I value this somewhere around $100M-$30M. So somewhere between 0.025 ETH - 0.0074 ETH entry price is good. Any higher than 0.025 might not worth it. If its near 0.0074, going all 10% of portfolio in might be worth it. If it goes below 0.002466667 for some reason, going more than 10% of portfolio might make sense. It will come to buyable price range in about 5 days.
+* Presale starts Monday, should be ready to invest by Tuesday probably.
+* It seems like because of economic incentives the price will be tied very closely to the blockchain market, so kind of like a stable coin, stabilizing based on the coin markets.
+* This might be one of those coins to exit in 1 week or 6 months.
+* They won't be launching and maintaining a blockchain. They will launch a few smart contracts, tie blockchains together, and let the decentralized web take care of the rest.
+* Big innovation in fundraising and setting a fair price for all investors. There is no KYC, presale, whitelist or bonus.
+* Since all ether is locked in a proceeds contract, the valuation for this will be equal to the valuation of all ethers in contract/all metronomes. This is the only cryptocurrency where the net valuation is very very clear.
+* There could be serious fucking arbitrage opportunities in here. Via the daily auctions. First the opportunity will be big, then the market will get competitive and opportunity will get smaller.
+
+Questions:
+* Really have no idea how much this will or should be worth in the long term or which role it will serve in the marketplace.
+* The math part of the paper should be checked by Onur to find opportunities or weaknesses.",2,Less than 5 hours,Cross-blockchain Ethereum backed cryptocurrency.,The founders are too high profile to fuck up their brand. Definitely need to get ready to buy this because you can choose your own risk/valuation. Need to follow how fast the tokens are being sold if we want to participate.
+https://coinmarketcap.com/currencies/algorand,algorand,2018-06-23,Onur Erkin,"- Founder is Silvio Micali (turing award winner scientist.)
+-Team consist of Many PhDs mostly from MIT, the rest are from Stanford,Berkeley,Brown etc.
+-Alessandro Chiesa (founder of starkware) (expert in zk-proofs) is advisor.
+-Naval Ravikant (founder of metastable capital) is advisor.
+-Overall all star team and advisors.
+-Comprehensive and technical WP.
+-Solves the scalability issue but it is not clear that which protocol will win at the end.
+-Raised 4M$ during seed funding from Pillar and Union Square Ventures
+-There is no information regarding ICO, probably impossible to get an allocation as a regular investor.
+-They are raising 50M$ for %10 of the tokens.
+-2M$ is the minimum investment(need to verify this.)
+-There is no hype at the moment
+
+My concerns.
+Which protocol will win the race? (Avalanche, algorand etc.)
+500M$ valuation is a little bit too much.
+Min investment is too high, they only want whales to invest in.",0,Less than 5 hours,Scalable blockchain protocol,"They can solve the scalability issue and win the race against other protocols but the success rate is not clear now, also the valuation is too much so investing at this stage is too risky and not possible(2M$ min)"
+https://coinmarketcap.com/currencies/crowd-machine,crowd-machine,2018-06-23,Demi,"- They say they have a high scalable blockchain which there is no proof of. Probably a fork of some other blockchain.
+- They are saying that developers will create codes & then other devs will pay these devs for their codes. I don't see that happening.
+- Normal people will be able to create daaps by paying for dev codes.
+- Their UI looks shitty, it looks easier to code than to use their tool.
+- They will opensource their code in Q3 2018
+- Their whitepaper is a business plan not a white paper. But it is written well.
+- They've made similar tools (mostly saas) before in earlier companies.
+- The founders aren't awesome. They are medicore business guys who don't look capable of creating breakthrough tech.
+- CTO has worked in blockstream and cloudmining company before this. Blockstream is the #1 company which has contributed to bitcoin code.
+- But Ben Gorlic (CTO) has not contributed to bitcoin code directly.",-1,Less than 1 hour,Create decentralized apps without coding.,"- They need to be building these tools as centralized systems on top of the current blockchains, not create their own blockchains."
+https://coinmarketcap.com/currencies/trustedcars-flex,trustedcars-flex,2018-06-23,Demi,"- Their team isn't awesome
+- It is too early in the decentralized era to do car rental/sharing yet
+- This problem doesn't need it's own token, they are creating their own token for it. ",-1,Less than 10 min,Decentralized car rental,"- Timing too early, team not capable."
+https://coinmarketcap.com/currencies/perlin,perlin,2018-06-25,Goku,"There isn't much information about the coin.
+Reviewers seem to have tested this with 1600TPS on a network with 2000 nodes. But are those full notes or light nodes?
+
+Project Manager, is advising a couple of ICO projects. Doesn't look impressive at all, just a manager.
+CTO was CTO of a previous exchange, seems like it hasn't been launched yet.
+CTO was a engineer in big companies before, looks very young.Was a engineer in big companies before, looks very young.
+CTO 2nd place in EOS HK hackathon.
+Business dev guy was an investor, management consulting in a few companies.
+Andre Cronje did code review on 25 stuff. This is the 6th highest. After Holo, Quarkchain, Phantasma, Fantom, Hero. Looks good according to price.
+
+Andre Cronje also reviewed the white paper according to his words.
+PERLs acquired during this Private Sale process will be subject to a 2-month lock-up from the date of listing on a cryptocurrency exchange which is within the top ten globally in terms of daily trade volume. So we won't be able to sell it unless its on a global popular exchange? Maybe it won't ever get to that point? Or maybe it will be dumped until then?
+We are pleased to open up the Private Sale for 10 days until 30 June. During this time the Perlin Token (PERL) will have a 20% discount and will be US 20c per PERL (reduced from 25c). This Private Sale will have a 30K ETH hardcap so if you are interested to purchase PERLs, please respond to this email with an indication of how many PERLs you would like to buy.
+
+Doesn't look like a obvious scam. Just looks like a stealth project. But it can be a scam and we can never be sure about it.
+No one important is following them on twitter?
+Also no verified person is following them on twitter?
+
+It seems:
+Vincent Zhou - advisor, founding partner FBG capital, leading global crypto fund (Non verified)
+Taiyang Zhang — advisor, CEO of Republic blockchain developer, hacker, investor (Verified)
+Prof. Anup Malani — research, strategic & commercial partnerships global lead (Verified)
+
+How much will they raise in public ICO if they are raising $15M in private?",1,Less than 1 hour,[Stealth] High-throughput privacy-preserving compute network,"Very very risky, and we're in complete darkness here. But has possibility to pay off. Not sure, complete gamble."
+https://coinmarketcap.com/currencies/wemark,wemark,2018-06-28,Demi,"- They are starting with images
+- Creators will license their content while keeping their rights
+- Marketplace (blockchain) will take 15% fee... lol
+- They start with photos because in photos middleman get 85% of revenue while in apps/games 30%, music 30%, ebooks 40-60%
+- They are raising $1-8M
+- Founders are from israel
+- CEO was a digital marketer SEO guy,
+- Founders aren't awesome
+- ""In order to sell your photos on Wemark, you have to verify your account by uploading a copy of your identification certificate"" It is centralized
+- They have ""Content review & moderation"" - centralized!
+- Copyrights claims & disputes -> ""Wemark will communicate with all the relevant parties and use standard practices to determine the owner of each photo."" - centralized!
+- They got Lars Perkins (creator of picassa) and some other digittal photo people as advisors.
+- They have private VC funding
+- They clain they alread have thousands of photos and many photgraphers",-1,Less than 1 hour,Market place for digital content,"- It is highly centralized, I don't see any benefit from all their competitors other than decreased fees."
+https://coinmarketcap.com/currencies/online,online,2018-06-28,Demi,"- Founders aren't awesome/interesting.
+- Has false data on website
+- Tokens will be used to purchase stuff from merchants. (shittiest token usecase ever)
+- Websites can add online.io solution thus they don't show ads but they earn IOI token from their visitors according to the time spent on website.
+- No code in github repo",-1,Less than 10 min,Blocking ads & securing personal online data,"- Even if there is a way that proof of online becomes a solution for online data/ad problems this team, ICO show me any type of trust."
+https://coinmarketcap.com/currencies/sparkster,sparkster,2018-06-30,Demi,"- The first video I watched on their website didn't have background sound, it was very low quality. A good team won't put such a video on their site. It is really shitty: https://www.youtube.com/watch?v=PeVvUD5pCkw
+- They've made a tool where people can create apps without coding. Their main goal should be attracting talented developers not the opposite.
+- CEO literrally says he is a business guy who has hard time communicating with developers.. lol
+- Big team 100% indian
+- Team isn't S or A class. Team isn't awesome.
+- According to their linkedin CTO started working on the centralized product in 2014 where the CEO seems to have taken over it in 2016
+- The site is really ugly, one of the worst designs I've seen in the entire space
+- Their whitepaper is shallow
+- They have 0 open source code
+- They are raising 40M which is too much. Are they just greedy?
+
+Some comment I found (https://icodrops.com/sparkster/)
+Some things Sparkster don't want you to know
+1. This was already a failing web company just months ago. They changed the name, deleted all records of that company and pretended they were blockchain. They had 0 investors befor Baline came along
+2. Their CEO claims to be from CISCO. He worked there on a call centre two decades ago. He has zero experience in blockchain and has had nothing but small failed businesses in those 20 years
+3. They have a workforce in India that they pay peanuts to hang around their own telegram group telling people that this will 50x. Check their twitter and you will see about 100 fake comments under every tweet.
+4. They do not have any partnerships, have zero proper VC companies backing them. Only Ian Balina who is a paid shill. Not one staff member is from a blockchain background. Their ""development"" team are an outsourced tech sweatshop in Mumbai where they are paying around $500 per month wages.
+
+- I checked out the coin because it had 3 stars here: icoanalytics.net, their previous 3 stars had all performed well...",-1,Less than 1 hour,Create software without writing code,- This is probably a scam
+https://coinmarketcap.com/currencies/mithril,mithril,2018-05-04,Demi,"- Founder built a video streaming company(17 media) in 2015 with $33M in funding. (a different company than their blockchain company)
+- 17 Medias app has 100k stars on google play. (periscope 500k)
+- The white paper sounds amateur, doesn't say how, leaves too many questions unanswered. It feels like they are saying ""we will figure out on the way""
+- There is no protocol tech underneath.
+- Pantera capital has invested & Paul Veradittakit is an advisor
+- Top 100 holders hold more than 97% of the tokens: https://etherscan.io/token/tokenholderchart/0x3893b9422cd5d70a81edeffe3d5a1c6a978310bb
+- Their app lit is still in its infancy, lots of polishing needed
+- Their price is increasing because they are able to get their coin on many exchanges also only a few % of the coin is changing hands thus price manipulation is easy.
+- The concept has a few errors:
+1. Mithril is mined through social media popularity. This encourages like for like, view for view behavior. How is mithril overcoming this problem?
+2. As far as I've seen Lit is a centralized app. How can other social media developers integrate mithril to their platform? The blockchain needs to be able to process millions of micro transactions in order to validate each like/view, such scalaility does not exist yet on blockchains. From this I see that mith won't be useful until either they build their own scalable blockchain or ethereum ads sharding, where both solutions seem to have 2+ years. So will mith be any use in the next 2 years? If so what?
+3. Mithril will be used by merchants thus giving it value, why would merchants use mithril instead of btc/eth/ltc?
+- Telegram answer:
+1. Our team have foreseen that  like/view for like/view might happens, so we have our solution to this.
+2. We are building our own Mithril Ecosystem, and Lit is just the first product for it, so currently we are focusing on our to-do projects.
+3. Use BTC/ETH/LTC as a payment method is also good. And we believe MITH will become  a great option for everyone to pay for their daily life, too :)
+*Our fonder once said that “There will only be three crypto coin in the future: BTC, ETH, and MITH” :D",0,Less than 5 hours,Mining with social media activity,"- This shows that they don't intend on becoming a protocol but creating a new social network. Where if they can migrate their old users it'll be a start.
+- Miths usefulness will grow according to the app.
+- It is an appcoin not protocol"
+https://coinmarketcap.com/currencies/aeternity,aeternity,2018-05-06,Demi,"- Each account needs to be payed in order to keep open thus incentivices deleting accounts
+- Their whitepaper is technical in depth
+- They are using almost everything from already created techs.
+- Plagirsm %7 with lightning network, %6 with solidity
+- Their innovations are in
+1. oracles (binding real world data w blockchain data)
+2. They say state channels is innovation but it seems like a copy of lightning network
+3. Cuckoo Cycle Pow, John Tromp has created this and he is their advisor
+- Oracle creator stakes a coin to provide a yes/no question answer to the chain. If another person also provides an answer and if they are not the same the blockchain consensus decides who's data is right or wrong. Which may have a lot of risks in real world trials.
+- Really active github
+- Naval & nick szabo follows their old CTO Zack Hess
+- Their old CTO has left Aeternity to work on his new project where he tweeted this: which says his newer blockchain is better https://twitter.com/zack_bitcoin/status/990177154863378432
+- Here is progress report on oracle tech by Ex-CTO: https://github.com/zack-bitcoin/amoveo/blob/master/docs/progress_reports/April_2018.md
+- They have banned Zack from Aeternity: https://twitter.com/zack_bitcoin/status/904056622523138048
+- The founder Yanis looks more like soft core developer(like me), he doesn't seem to understand the tech very well.
+- Zack explains why he left, the team looks uncapable of holding good players: https://github.com/zack-bitcoin/amoveo/blob/master/docs/why_I_left.md
+
+Questions:
+1. What are the cases that could go wrong with the the oracles they have designed?
+2. Do the remaining members of this team have enough skill to develop a useful coin or would it be a gimmick?
+3. Can this team market the coin well so that it becomes the standard oracle blockchain?
+4. I didn't quite understand the tech and such kan needs to look. (look at Cuckoo Cycle Pow)
+
+If teamCanMarket() && techWork(): invest because they are early
+else: dontInvest()
+
+Doruk says they have changed another CTO after Zack. So their tech will probably never work.",-1,Less than 5 hours,Global Oracle Machine,"I think the team is doing an okay job at marketing. They've pumped the coin to top 30 and have a unique selling point so the coin could go much higher before people realize its tech doesn't work (if tech doesn't work)
+Overall I don't want this blockchain/team to become succesful."
+https://coinmarketcap.com/currencies/holo,holo,2018-05-10,Demi,"- Not a blockchain but a DHT like bittorent
+- They have strong connections (CFO of Mozilla & Co-founder of Netflix)
+- Project is in alpha but can still be built on using JS & Lisp
+- Holo fuel will be live in Q3 2018
+- It looks awesome on paper, anyone who looks at it for an hour will not see that token won't work. (we should invest at least 10%)
+- We can hodl until holo fuel becomes live
+- Founder(Arthur Brock) has been a CTO since 1996 and has been working on currencies since 2004
+- They are hiring devs
+- They've written protocol with Go
+- They are agent centric(like git) rather than data centric(like bitcoin). So when an agent create a git repo only he has the power to change it. But doesn't prevent anyone from forking it.
+- I didn't understand the technical part of the white paper, it may take me 5-10hours to think and understand it.
+- They have TODOs in their whitepaper
+- They have green paper & currency paper
+- They use mutual credit, which means the token supply is always zero. When someone creates tokesn someone else goes to negatives.
+- They use double entry ledger system, I'm not sure if it'll work.
+- They have put some normal weaknesses in their Currency paper saying that they don't have good solutions for some attack types.
+- Coins which have this much depth & tech with good marketing has a 99% chance of entering top 30 (which means increasing 4x from where it is right now)
+
+Looked 4 hrs",3,Less than 5 hours,Torrent for application hosting,"Questions:
+1. How does the distributed validation work? https://youtu.be/hyCtYrHJebs?t=4m30s
+2. There are more misc people on the team than developers, is this good?
+3. They say holo is not a token, not a coin but a mutual credit. I didn't understand the difference. https://www.youtube.com/watch?v=hn7aWuerBB8
+4. - ""App Providers go through real world identity verification when they sign their agreements for hosting apps on Holo."" how is it decentralized? (they also mention that it will start semi-centralized and gradually holo will stop existing and holochain will become completely decentralized."
+https://coinmarketcap.com/currencies/golos,golos,2018-05-11,Demi,"- Code forked from steemit
+- They have been in the market since the beginning of this year with a market cap of $10M (steemit: $870M)
+- Similarweb
+    - Visits: Steem - 30M, Golos -1.5M
+    - Global Rank: Steem - 1775, Golos - 39000
+    - Country Rank: Steem - 2000, Golos - 3960
+- Top posts have: Steem - $600-800, Golos - $30-60
+- Alexa
+    - Global rank: Steem: 1400 - Golos: 56000
+    - Country rank: Steem: 1500 - Golos: 8000
+- If they are able to increase their russian rank to 2k the token price will probably increase more than 4x.
+
+Questions:
+1. What is the projected growth of the site?
+2. What is the projected growth of the coin?",0,Less than 1 hour,Steemit for russia,"Steemit wasn't a good investment, too much coin generation thus while the market cap increases the investor doesn't benefit as much. Thus this coin will probably have a similar fate."
+https://coinmarketcap.com/currencies/nav-coin,nav-coin,2018-05-15,Demi,"- Came out in 2014
+- They built a blockchain company in 2015 which builds tools, gives seminars etc to their clients: https://encrypt-s.com/company/
+- They work on Nav-coin but also other stuff as well. So their coin doesn't seem to support their funding.
+- Navcoin is just incrementally better than bitcoin but doesn't look like it is better than ethereum
+- They have a really active github, reddit, telegram, twitter etc. ",0,Less than 1 hour,POS version of Bitcoin,Overall I don't see anything unique in this coin
+https://coinmarketcap.com/currencies/monero,monero,2018-04-30,Kan,"Is a fork of ByteCoin. Uses CryptoNote algorithm. Some community members of ByteCoin wanted to make it better and fixed tons of bugs and made good marketting. Non of the original technology is by Monero developers.
+
+Watch videoes for what this is.
+Ring Sig
+Ring CT
+Stealth Address
+Kovri (I2P Hide IP alternative for Tor)
+
+Extra info:
+- has inflation
+- ASIC hardware doesn't work for mining
+- Dashcoin is same as Bytecoin where as Dash is something totally different",3,Less than 5 hours,Privacy coin,
+https://coinmarketcap.com/currencies/zilliqa,zilliqa,2018-04-30,Kan,"- Rather than side chains, uses sharding to scale. Has smart contracts and will try to import ETH smart contracts automatically. 
+- Has done Mindshare ice deal
+- PoW to enter Epoch, then do pBFT in shard, winner tx in shards will be discussed in another shard where leaders of shards and make it to a final block.
+ - pBFT same as Ripple and Stellar 
+- PoW is done once every 20 hours for now.
+- NEO invested in Zilliqa",2,Less than 5 hours,First blockchain with sharding,There isn't a use case for 2000 txps yet. Would a partner use ZIlliqa in production to utilize that much txps? Seems there is no real life value for Zilliqa but only a technological innovation.
+https://coinmarketcap.com/currencies/aion,aion,2018-05-04,Kan,"- Aion solves interoperability problem using bridges. Their system is broadly well thought however the more you dive the harder and complicated it gets.
+- The way they look at the problem is better than Ark and Cardano. They plan to have bridge networks which can proxy other bridges rather than connecting all blockchains with each other.
+- They have good marketting material however its hard to understand how they are solving the problem. So technical content almost do not exist except for whitepaper.
+- Their solution doesnt work yet.
+- It looks like CEO is focussed on finding people who can solve the problem.
+
+Questions:
+- Can the team solve interoperability problem?",1,More than 5 hours,Interoperable Chain,Technology doesn’t exist yet. They need to figure out how to do it first. Who knows if they can actually pull it off. Interoperability is still a really hard problem.
+https://coinmarketcap.com/currencies/ontology,ontology,2018-05-08,Kan,"- Does everything NEO does but seems better.  Has a few improvements over NEO
+- Builds a layer called ONTO ID which is like Civic
+-  Builds multi layer system like internet where non-blockchain assets can connect to blockchain as well.
+-  Is more business oriented than public however it’s public ledger
+- They haven't decided on some key components like dPoS validator number or ONTG(Gas) generation algorithm etc.",2,Less than 5 hours,Better Neo,I believe it is a good investment and has the potential to surpass neo. It still has many x to increase before it reaches the same market cap as neo.
+https://coinmarketcap.com/currencies/mysterium,mysterium,2018-05-08,Kan,"- Is prone to MITM attacks. Can implement 3 hop like Tor but will be expensive
+- Discovery service will be shit on Blockchain. It'll cost too much gas. Hard problem to solve.
+- Public Ledger will hold every single payment you did. It's equal to ISP/Government seeing all your logs but instead of Government everyone can see it. Need ring-sginatures to fix this.
+- It does not provide any protections against Governments. Tor like features *might* be implemented but will take forever to build.
+- The team hasn't answered any of these problems that I'm aware of.
+- Team does not have security engineer.
+- The idea is great. Execution is meh. They probably need 5-7 years of development to be competitive
+- White paper is non technical. Almost 0 privacy related stuff.",-1,Less than 5 hours,,
+https://coinmarketcap.com/currencies/skycoin,skycoin,2018-05-08,Kan,"- Skycoin uses Obelisk, BFT like sync system using game theory to validate transactions. No PoW or anything, just consensus based on time.
+- Skywire share bandwidth but getting paid
+- SkyLedger, platform similiar to Ethereum’s ERC20 with individual chains for each smartcontract
+- It has the potential to Moon Mars. (Market potential is trillions of $)
+- Has tons of Apps
+- Has/Will have hardwares (Skyminer, SkyAnttenna, SkyWallet etc..)
+- They are super technically.
+- The SmartContract languages is Go like but it kinda sucks (like Solidy)
+- They say they have a few secrets which they haven't shared yet so market can't beat them
+- Core is based in China but has offices all around the world.
+- Has more than 80 people working.
+- Has been around for 7 years.
+- They have the core ledger built (blockchain). Almost everything else going to be built.
+- Has scientific papers around
+- Has Lead Dev from Ethereum and Core devs from Bitcoin (this needs validation)
+- Synth (CEO) is exteremely smart and troll",4,More than 5 hours,A network of VPNs on top of internet. Earn/spend money based on used bandwidth.,"Smart team, great tech, suck at marketing, the team is too troll which may hurt the coin & the ecosystem."
+https://coinmarketcap.com/currencies/stellar,stellar,2018-05-09,Goku,"-Protocol between different currencies
+-ICO platform
+-Has decentralized exchange
+-Transactions in 2-5 seconds
+-Can convert all currencies, can integrate with existing banking systems & crypto
+-Wants to distribute/airdrop XLM to nonprofits.
+-Has 1% inflation each year.
+-Their chief scientist who wrote white paper seems like a genius. Has more than 5 papers yearly since 2001.
+-They are opening their governence and numbers, tokens to everyone.
+-Stellar group will serve for lifetime. Jed, Patrick & Professor.
+-Has allstar directors and advisors.
+-Stellar executive director left in 2016 and it seems no one replaced her since.
+-Has a new CTO last 6 months.
+-Most team graduated from shit universities and had no experience before Stellar.
+-I didn't see the team answer anything in the community anytime soon.",4,More than 5 hours,Quick reliable cheap payments,This is one of the best coins everyone should have in their portfolio
+https://coinmarketcap.com/currencies/cardano,cardano,2018-05-09,Goku,"-Seems like improvement on Ethereum with scientific philosophy and research input.
+-Uses purely functional Haskell, this makes code harder to write but very bug free, ideal for blockchains.
+-First peer reviewed mathmatically proven PoS on large scale called Ouroboros.
+-System can be upgraded with soft forks.
+-Aimed to use in academy, government, companies.
+-Can add new layers and update the blockchain.
+-Can possibly kill Ethereum and take its place.
+-Minting coins, should need to be checked, is it minted to the company or token holders?
+-Chief scientist has more than 100 papers related to cryptography since 2001. At least 5 papers a year, lately 10+ papers a year.
+-Why part in their website shows a lot of work and incredible openness to the community.
+-Roadmap in their web page shows incredible openness with percentage completeness.
+-Team also works to maintain Ethereum Classic because forking is against blockchain philoshopy.
+-Does weekly reports.
+-Founder ex-CEO of Ethereum & ex-CEO of Bitshares.
+-Has an army of PhDs.
+-Seems to have an investment firm in the holding companies.",4,More than 5 hours,Programmable updatable blockchain,Most open blockchain there is. Smartest team gathered. I expect great things from the culture & intelligence around this coin. A must have for every portfolio.
+https://coinmarketcap.com/currencies/pascal-coin,pascal-coin,2018-05-09,Kan,"- It's an R&D coin
+- It will never have really use case.
+- The only thing they do is trim blockchain data with cost of total 2^32 account limit
+- Written in Pascal...",-1,Less than 5 hours,Standard Coin,Shitcoin
+https://coinmarketcap.com/currencies/library-credit,library-credit,2018-05-09,Kan,"- Blockchain with torrent protocol. Blockchain allows you to decrypto the data you fetched from torrent.
+- Will be able to support all kinds of content but mainly focussed on video. It can support streaming as well.
+- It has lightning network for scalability
+- It has metadata for content discovery systems to be built on top of the protocol to compete with Youtube, Netflix
+Cons
+- Doesn't have a white paper. Rather has multiple blogs posts explaining how the system works not scientificly approached)
+- Users have to consistantly monitor the names they bought for first 3 months to disallow someone else buying it
+- Since it works like bittorrent, people need to download the content for it to be served. Currently they have servers to help serve content of people however when it scales, every user has to deal with their own content until it's popular.",2,More than 5 hours,Better Bittorrent,
+https://coinmarketcap.com/currencies/ontology,ontology,2018-05-09,Goku,"## Red Flag:
+https://coinmarketcap.com/currencies/ontology/
+Supply Information Update: The Circulating Supply has been adjusted to exclude all privately allocated and team controlled tokens.
+
+112,521,513/1,000,000,000
+Circulating/Total
+90% of it is owned by team & investors. Only 10% is being publicly traded.
+
+Details: https://www.reddit.com/r/OntologyNetwork/comments/8etdg5/ontology_supply/
+
+Onchain->NEO
+Onchain->Ontology
+
+Founder of Ontology is also the founder of Onchain & its chief Architect
+
+Ontology value will grow if NEO grows. Finishing the roadmap might take 5-10 years.
+
+High activity on github. Most of their developers still work on Onchain? They are contributing to Onchains DNA repo.
+
+NEO developerlariyla farklilar gibi, 1-2 kisi haric. Birde farki NEO developerlari calismiyor, ONT developerlari cok iyi calisiyor.
+
+VCleri teyit ettim, cidden yatirim yapmislar. Partnerler hatta 20-50 sirkete yatirmis ama sadece 5 sirkette fulltime investor gibi yazmislar linkedine. Onlardan biri Ontology, en inandiklari projelerden biri bu gibi duruyor.
+
+Twitterda takip ettigim hic kimse Ontologyden haberdar degil, genel olarak cin projelerinden haberdar degiller, NEOdan haberdarlar. ADA ve NAS hakkinda yeni haberdar oluyorlar. ONT, SKY vs haberdar degiller hala. Yani upside i yuksek duruyor. Bear markette girdi, henuz kimse bilmiyor, inceleyen insanlar incelemeyi birakti. Boyle cok yuksekte baslayan projeler genelde daha yuksegede cikiyor. Top 15 likely duruyor. Top 50dende cikmaz gibi.
+
+Teknolojisi, tam anlamadim, emin olamadim ama potansiyelli duruyor.
+
+Team Page: https://ont.io/team
+
+Team kim oldugu cok net degil, birkac adam cok net digerleri western networklarda cikmiyorlar. Ama kesin aralarinda akademisyen ve blockchain tecrubeli insanlar var.
+",3,Less than 5 hours,NEO with tech rewritten and upgraded,

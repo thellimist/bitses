@@ -5,9 +5,7 @@ tldr: "Oracle Machine"
 score: 3
 researcher: demiculus
 date: 2018-05-15
-conclusion: "Tech seems to be strong but the path to market domination is not
-clear. He has some ideas [here](https://www.reddit.com/r/Amoveo/comments/8j91ik/good_tech_but_what_is_the_path_to_market/),
-so we need to watch & see how it evolves."
+conclusion: "Tech seems to be strong but the path to market domination is not clear. Zack has some ideas here: https://www.reddit.com/r/Amoveo/comments/8j91ik/good_tech_but_what_is_the_path_to_market/ so we need to watch & see how it evolves.\nI believe it will increase in price as people discover this gem."
 ---
 
 - is not on any exchange, did not do ico
@@ -30,3 +28,14 @@ so we need to watch & see how it evolves."
 - Nash equilibrium makes sure people are hones in oracles, when people are dishonest forks people who think the right way will just move to the right fork, miners will defend the right fork for more capial gain
 - Zack has lived with Jae Kwon creator of tendermint for a couple months.
 
+Questions
+1) does game theory work?
+2) How many txps does prediction market needs? How many does Amoveo do?
+3) Current inflation rate per year?
+4) Why does Zack want to create ASIC?
+
+Answers
+1) In theory, game theory should work: https://github.com/zack-bitcoin/amoveo/blob/master/docs/design/oracle_motivations.md
+2) Prediction market needs 1tx per person per month. With big blocks and sharding it can scale up to 10B Tx per month. It is not the best solution but a solution that would work: https://github.com/zack-bitcoin/amoveo/blob/master/docs/design/scalability.md
+3) Inflation rate will be near optimal: https://www.reddit.com/r/Amoveo/comments/8kqhwn/what_is_the_estimated_inflation_rate_of_amoveo/
+4) He wants miners to only be able to mine Amoveo. Asked if why https://www.reddit.com/r/Amoveo/comments/8kqk1n/why_does_amoveo_want_asics/

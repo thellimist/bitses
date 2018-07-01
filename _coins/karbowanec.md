@@ -1,4 +1,4 @@
 ---
 layout: coin
-name: Chronobank
+name: Karbowanec
 ---

@@ -5,6 +5,7 @@ tldr: "Privacy coin"
 score: 3
 researcher: thellimist
 date: 2018-04-30
+conclusion: ""
 ---
 
 Is a fork of ByteCoin. Uses CryptoNote algorithm. Some community members of ByteCoin wanted to make it better and fixed tons of bugs and made good marketting. Non of the original technology is by Monero developers.
@@ -19,4 +20,3 @@ Extra info:
 - has inflation
 - ASIC hardware doesn't work for mining
 - Dashcoin is same as Bytecoin where as Dash is something totally different
-

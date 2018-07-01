@@ -5,7 +5,7 @@ tldr: "Coin used to hire workers for freelance/labor jobs"
 score: -1
 researcher: demiculus
 date: 2018-05-11
-conclusion: "Shitcoin, but they've started marketing more agressively the past month thus there can be an increase in the price if they succeed. If they don't it'll be a waste. So it would only be a gamble according to their marketing skills."
+conclusion: "Shitcoin, but they've started marketing more agressively the past month thus there can be an increase in the price if they succeed. If they don't it'll be a waste. So it would only be a gamble according to their marketing skills. "
 ---
 
 - ERC20 token
@@ -17,5 +17,4 @@ conclusion: "Shitcoin, but they've started marketing more agressively the past m
 - Telegram has 55k members (skycoin 8k) has 1/100 of activity that skycoin has
 - 2k subs on reddit, almost 0 activity
 - Means they haven't been able to build a community for 1 year
-- they say that they are building a stable token called Labor hour which is semi-centralized which will be used to pay the freelancers.
-
+- they say that they are building a stable token called Labor hour which is semi-centralized which will be used to pay the freelancers. 
