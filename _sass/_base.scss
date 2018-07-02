@@ -20,12 +20,20 @@ body {
 
 .page {
       margin-bottom: 8em;
-      }
+}
+
 .wrapper {
     max-width: 48rem;
     // margin: 4rem auto 4rem auto;
     margin: 1rem auto 4rem auto;
 }
+
+.wrapper-index {
+    max-width: 48rem;
+    // margin: 4rem auto 4rem auto;
+    margin: 1rem auto 0 auto;
+}
+
 
 
 @media (max-width: 48rem) {
