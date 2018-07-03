@@ -30,13 +30,13 @@ We were already doing research for our investments. But the more we've seen our 
 
 - Help out your friends by sharing Bitses. 
 - [Sign up](https://bitses.us18.list-manage.com/subscribe?u=90c9898998c741447ea4ac3ff&id=bc6ad7989e) to our newsletter to get weekly research summaries.
-- If you want to contribue & share your own research, fill out our form. https://goo.gl/forms/lVwFi8lR0YtOyhBQ2
+- If you want to contribue & share your own research, [fill out our form](https://goo.gl/forms/lVwFi8lR0YtOyhBQ2).
 - If you want to translate our research to your language reach out from telegram @demiculus
 
 ## Other Projects
 
-We're building an exchange for Amoveo, one of the most undervalued coins that we know which is currently being traded by OTC. You may register at https://amoveo.exchange/ to learn when it is launched.
+We're building [an exchange for Amoveo](https://amoveo.exchange/), one of the most undervalued coins that we know which is currently being traded by OTC. You may register at [amoveo.exchange](https://amoveo.exchange/) to learn when it is launched.
 
-We're also working on a wallet holder. You can get your username at http://mywallets.co/ before anyone else gets it. 
+We're also working on [a wallet holder](http://mywallets.co/). You can get your username at [mywallets.co](http://mywallets.co/) before anyone else gets it. 
 
 </div>
