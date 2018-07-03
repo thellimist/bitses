@@ -1,11 +1,12 @@
 ---
 layout: analysis
 coin: mysterium
-tldr: ""
+tldr: "VPN which is worse than centralized VPNs"
 score: -1
 researcher: thellimist
 date: 2018-05-08
-conclusion: ""
+conclusion: ""Needs at least 6-8 years development to be useful
+Shitcoin""
 ---
 
 - Is prone to MITM attacks. Can implement 3 hop like Tor but will be expensive

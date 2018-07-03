@@ -5,7 +5,7 @@ tldr: "Better Bittorrent"
 score: 2
 researcher: thellimist
 date: 2018-05-09
-conclusion: ""
+conclusion: "Low value, high potential, high risk. It needs to be better than the old market and they need to figure out how to conquor the old market."
 ---
 
 - Blockchain with torrent protocol. Blockchain allows you to decrypto the data you fetched from torrent.

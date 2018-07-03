@@ -11,7 +11,7 @@ https://youtu.be/hyCtYrHJebs?t=4m30s
 \n2. There are more misc people on the team than developers, is this good?
 \n3. They say holo is not a token, not a coin but a mutual credit. I didn't
 understand the difference. https://www.youtube.com/watch?v=hn7aWuerBB8
-\n4. - 'App Providers go through real world identity verification when they sign their agreements for hosting apps on Holo.' how is it decentralized? (they also mention that it will start semi-centralized and gradually holo will stop existing and holochain will become completely decentralized."
+\n4. 'App Providers go through real world identity verification when they sign their agreements for hosting apps on Holo.' how is it decentralized? (they also mention that it will start semi-centralized and gradually holo will stop existing and holochain will become completely decentralized."
 ---
 
 - Not a blockchain but a DHT like bittorent
