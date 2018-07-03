@@ -8,11 +8,12 @@ date: 2018-05-09
 conclusion: "This is one of the best coins everyone should have in their portfolio"
 ---
 
--Protocol between different currencies  
--ICO platform  
--Has decentralized exchange  
--Transactions in 2-5 seconds  
--Can convert all currencies, can integrate with existing banking systems & crypto  
+-Protocol between different currencies.  
+-ICO platform.  
+-Has decentralized exchange.  
+-Transactions in 2-5 seconds.  
+-Can convert all currencies, can integrate with existing banking systems & crypto.  
+-The tech behind Stellar is real and groundbreaking. 
 -Wants to distribute/airdrop XLM to nonprofits.  
 -Has 1% inflation each year.  
 -Their chief scientist David who wrote white paper seems like a genius. Has more than 5 papers yearly since 2001.  
