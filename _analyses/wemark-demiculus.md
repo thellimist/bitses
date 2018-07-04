@@ -14,7 +14,7 @@ conclusion: "- It is highly centralized, I don't see any benefit from all their 
 - They start with photos because in photos middleman get 85% of revenue while in apps/games 30%, music 30%, ebooks 40-60%
 - They are raising $1-8M
 - Founders are from israel
-- CEO was a digital marketer SEO guy,
+- CEO was a digital marketer SEO guy, 
 - Founders aren't awesome
 - "In order to sell your photos on Wemark, you have to verify your account by uploading a copy of your identification certificate" It is centralized
 - They have "Content review & moderation" - centralized!

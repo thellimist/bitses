@@ -19,8 +19,8 @@ conclusion: "- The project is legit, I believe that this project has the potenti
 
 My thoughts and concerns:
 - They are aiming to be a 3rd generation blockchain but most people know them as just a search engine. This should change.
-- 3rd generation blockchain market is very competitive, they are relatively unknown compared to their competitors.
+- 3rd generation blockchain market is very competitive, they are relatively unknown compared to their competitors.  
 - PoD algorithm should be investigated, how they are going to determine “influential” users and will it be really different from PoS’s “rich gets richer” phenomena.
 - They are trying to get developer’s attention by incentive program, I think this is a very good strategy.
-- Their marketing has been terrible so far. The reason might be they heavily focused on product development and mainnet release.
+- Their marketing has been terrible so far. The reason might be they heavily focused on product development and mainnet release. 
 - I think project can climb up to top 20 or even top 10 if they keep delivering and start proper marketing.

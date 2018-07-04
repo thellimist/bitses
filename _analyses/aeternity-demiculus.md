@@ -12,7 +12,7 @@ conclusion: "I think the team is doing an okay job at marketing. They've pumped 
 - Their whitepaper is technical in depth
 - They are using almost everything from already created techs.
 - Plagirsm %7 with lightning network, %6 with solidity
-- Their innovations are in
+- Their innovations are in 
 1. oracles (binding real world data w blockchain data)
 2. They say state channels is innovation but it seems like a copy of lightning network
 3. Cuckoo Cycle Pow, John Tromp has created this and he is their advisor

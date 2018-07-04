@@ -18,7 +18,7 @@ conclusion: "Steemit wasn't a good investment, too much coin generation thus whi
 - Alexa
     - Global rank: Steem: 1400 - Golos: 56000
     - Country rank: Steem: 1500 - Golos: 8000
-- If they are able to increase their russian rank to 2k the token price will probably increase more than 4x.
+- If they are able to increase their russian rank to 2k the token price will probably increase more than 4x. 
 
 Questions:
 1. What is the projected growth of the site?

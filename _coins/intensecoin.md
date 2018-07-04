@@ -1,0 +1,4 @@
+---
+layout: coin
+name: Intensecoin
+---

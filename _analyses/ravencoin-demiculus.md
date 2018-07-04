@@ -15,7 +15,7 @@ conclusion: "- They have a strong shill as CEO which can easily propell this coi
 - Rank 240 $36M market cap (jun 6 2018)
 - A really active community for a rank 240 coin
 - They try to prevent asics
-- Will support unique assets where Game_Server_N:321343 can be a unique item in a game. Or Art:Monalisa could be a real life item.
+- Will support unique assets where Game_Server_N:321343 can be a unique item in a game. Or Art:Monalisa could be a real life item. 
 - They have rewards where people who received Game_DawnOfCrafting tokens could be rewarded with RVN if the business is going well
 - Creator of the token could message all token holders.
 - But they haven't added these yet

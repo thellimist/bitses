@@ -5,13 +5,7 @@ tldr: "Torrent for application hosting"
 score: 3
 researcher: demiculus
 date: 2018-05-10
-conclusion: "Questions:
-\n 1. How does the distributed validation work?
-https://youtu.be/hyCtYrHJebs?t=4m30s
-\n2. There are more misc people on the team than developers, is this good?
-\n3. They say holo is not a token, not a coin but a mutual credit. I didn't
-understand the difference. https://www.youtube.com/watch?v=hn7aWuerBB8
-\n4. 'App Providers go through real world identity verification when they sign their agreements for hosting apps on Holo.' how is it decentralized? (they also mention that it will start semi-centralized and gradually holo will stop existing and holochain will become completely decentralized."
+conclusion: "Questions:\n1. How does the distributed validation work? https://youtu.be/hyCtYrHJebs?t=4m30s\n2. There are more misc people on the team than developers, is this good?\n3. They say holo is not a token, not a coin but a mutual credit. I didn\'t understand the difference. https://www.youtube.com/watch?v=hn7aWuerBB8\n4. - \"App Providers go through real world identity verification when they sign their agreements for hosting apps on Holo.\" how is it decentralized? (they also mention that it will start semi-centralized and gradually holo will stop existing and holochain will become completely decentralized."
 ---
 
 - Not a blockchain but a DHT like bittorent
@@ -32,3 +26,4 @@ understand the difference. https://www.youtube.com/watch?v=hn7aWuerBB8
 - They have put some normal weaknesses in their Currency paper saying that they don't have good solutions for some attack types.
 - Coins which have this much depth & tech with good marketing has a 99% chance of entering top 30 (which means increasing 4x from where it is right now)
 
+Looked 4 hrs

@@ -5,7 +5,7 @@ tldr: "Distributed Computing Resources"
 score: 3
 researcher: esqarrouth
 date: 2018-05-20
-conclusion: "- Seems like a guaranteed top 50 coin. Probably will be top 20. Has a shot at top 3.\n- Still fairly new in the market, the only proper exchange is IDEX.\n- Good location for company in Gibraltar."
+conclusion: "- Seems like a guaranteed top 50 coin. Probably will be top 20. Has a shot at top 3. \n- Still fairly new in the market, the only proper exchange is IDEX.\n- Good location for company in Gibraltar."
 ---
 
 Holochain and blockchain are built for fundamentally different use cases. Blockchain is relatively good for systems where it’s absolutely necessary to maintain global consensus. Holochain is much better than blockchain at anything that requires less than universal consensus:
@@ -19,14 +19,14 @@ Holochain and blockchain are built for fundamentally different use cases. Blockc
 - Made Holoport indiegogo campaign and raised $1M. Raised about $25M in ICO. 6x up from ICO.
 - Distributes tokens with proof-of-service for serving your computing resources.
 - Runs on linux for all computers.
-- Every person has their own chain, signed by the user, each action is recorded.
+- Every person has their own chain, signed by the user, each action is recorded. 
 - The 2 founders have been experimenting, writing, coding alternative currencies since 2007. They founded an open source project called metacurrency.
 - First they are going to license their people to use their platform. Later they plan on opening to everyone.
-- Their main engineers are very good.
+- Their main engineers are very good. 
 - Sizhao Yang & Richard Burton following Holochain. Ryan Singer follow CEO. Mozilla CFO and Co-Founder of Netflix said good things.
-- Funny quote from benchmarks: It's probably best to stick to "HODLing" your ETH, because it's a waste to try to do any computing with it. Running code and storing data on this "global computer" currently costs 100,000,000x to 1,000,000,000x the cost of doing the same computing on Amazon Web Services
-- Circulating/Total Supply: 75% circulating, 25% is owned by the team.
-- With few developers they do have, they care about what they are doing and are working hard.
+- Funny quote from benchmarks: It's probably best to stick to "HODLing" your ETH, because it's a waste to try to do any computing with it. Running code and storing data on this "global computer" currently costs 100,000,000x to 1,000,000,000x the cost of doing the same computing on Amazon Web Services 
+- Circulating/Total Supply: 75% circulating, 25% is owned by the team. 
+- With few developers they do have, they care about what they are doing and are working hard. 
 
 - Red flag: There are too many people for marketing and evangelizing this project. Not many engineers. But their lead engineer seems like someone who can code everything by himself. Maybe this is a good thing?
 - Red flag: Anonymity is very hard to achieve with Holo, which makes illegal activity less desirable.

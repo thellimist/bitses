@@ -11,7 +11,7 @@ conclusion: "Shitcoin, but they've started marketing more agressively the past m
 - ERC20 token
 - 90% of their code is javascript
 - They haven't been doing a lot of coding in the past year but in the past month they have updated all of the repos.
-- Finished their ICO in Feb'17(raised $5M)
+- Finished their ICO in Feb'17(raised $5M) and in the market since Mar'18 (mcap = $10M)
 - They have put the techs they have used for their dapps as partners in their site. (ex: waves, ethereum, 0x..)
 - Founder have put himself as Advisor to SingularityNet, but on singularity net website he isn't listed, I emailed singularity team.
 - Telegram has 55k members (skycoin 8k) has 1/100 of activity that skycoin has

@@ -1,5 +1,5 @@
 ---
 layout: researcher
-name: "Doruk Balkan"
-twitter: "dorukbalkan"
+name: "Doruk Oguz"
+twitter: "https://twitter.com/dorukoguz"
 ---

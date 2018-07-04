@@ -9,7 +9,7 @@ researcher_dict = {
     'Demi': 'demiculus',
     'Goku': 'esqarrouth',
     'Onur Erkin': 'onurerkinsucu',
-    'Doruk': 'dorukbalkan',
+    'Doruk': 'dorukoguz',
     'Kan': 'thellimist',
     'Onur Solmaz': 'osolmaz',
 

@@ -10,11 +10,11 @@ conclusion: "Most legit store of value coin after BTC. But it probably won't inc
 
 -Secure, private untraceable cryptocurrency.
 -No way to link transactions, trace history.
--Seems to be better store of value and transaction system than Bitcoin.
--Bytecoin fork.
--Totally legit distribution.
+-Seems to be better store of value and transaction system than Bitcoin.        
+-Bytecoin fork.        
+-Totally legit distribution. 
 -Development funded by opening requests and users funding them.
--Anon coin has mostly anonymous team.
+-Anon coin has mostly anonymous team.        
 -No leader, no one is really taking charge in the project.
 -No team is working fulltime on the project.
 - Has inflation
