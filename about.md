@@ -18,8 +18,25 @@ published: true
 
 {% include page/title.html title=page.title subtitle=page_subtitle %}
 
-## Some heading 
+## The Team 
 
-I'll alert the crew. Sure. You'd be surprised how far a hug goes with Geordi, or Worf. Did you come here for something in particular or just general Riker-bashing? You did exactly what you had to do. You considered all your options, you tried every alternative and then you made the hard choice. Your shields were failing, sir. Well, that's certainly good to know. A surprise party? Mr. Worf, I hate surprise parties. I would *never* do that to you. And blowing into maximum warp speed, you appeared for an instant to be in two places at once. How long can two people talk about nothing? I recommend you don't fire until you're within 40,000 kilometers. Congratulations - you just destroyed the Enterprise. Worf, It's better than music. It's jazz. Yes, absolutely, I do indeed concur, wholeheartedly! What's a knock-out like you doing in a computer-generated gin joint like this? I can't. As much as I care about you, my first duty is to the ship. Some days you get the bear, and some days the bear gets you.
+We're a team of developers, analysts, investors & fund managers. We've been in the cryptocurrency space since 2013. Our teams are based in Toronto, Istanbul & Ankara. 
+
+## Why This Site Exists
+
+We were already doing research for our investments. But the more we've seen our friends get scammed by icos the more we felt the need to share our knowledge hence here we are. We're open sourcing all of our data. We're hoping we can contribue to the field by being the most honest research group & exposing scams as much as possible.  
+
+## What You Can Do
+
+- Help out your friends by sharing Bitses. 
+- [Sign up](https://bitses.us18.list-manage.com/subscribe?u=90c9898998c741447ea4ac3ff&id=bc6ad7989e) to our newsletter to get weekly research summaries.
+- If you want to contribue & share your own research, [fill out our form](https://goo.gl/forms/lVwFi8lR0YtOyhBQ2).
+- If you want to translate our research to your language reach out from telegram @demiculus
+
+## Other Projects
+
+We're building [an exchange for Amoveo](https://amoveo.exchange/), one of the most undervalued coins that we know which is currently being traded by OTC. You may register at [amoveo.exchange](https://amoveo.exchange/) to learn when it is launched.
+
+We're also working on [a wallet holder](http://mywallets.co/). You can get your username at [mywallets.co](http://mywallets.co/) before anyone else gets it. 
 
 </div>

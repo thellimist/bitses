@@ -5,7 +5,7 @@ tldr: "Privacy coin"
 score: 3
 researcher: thellimist
 date: 2018-04-30
-conclusion: ""
+conclusion: "Best private coin, already a monopoly, but is a safe invesment, probably won't return high multiples."
 ---
 
 Is a fork of ByteCoin. Uses CryptoNote algorithm. Some community members of ByteCoin wanted to make it better and fixed tons of bugs and made good marketting. Non of the original technology is by Monero developers.

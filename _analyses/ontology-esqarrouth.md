@@ -5,7 +5,7 @@ tldr: "NEO with tech rewritten and upgraded"
 score: 3
 researcher: esqarrouth
 date: 2018-05-09
-conclusion: ""
+conclusion: "Will probably increase in rank"
 ---
 
 ## Red Flag:
