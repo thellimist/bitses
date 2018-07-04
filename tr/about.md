@@ -15,25 +15,17 @@ oluşmaktadır. 2013'ten beri kriptopara piyasasındayız. Takımımız Toronto,
 
 ## Bitsesin Varoluş Amacı
 
-We were already doing research for our investments. But the more we have seen our
-friends get scammed by ICOs, the more we felt the need to share our knowledge.
-We are open sourcing all of our data. We are hoping we can
-contribute to the field by being the most honest research group and exposing scams
-as much as possible.
+Kendi yatırımlarımızı araştırmalarımızı kullanarak hali hazırda yapmaktaydık, fakat arkadaşlarımızın doldandırılıp durduğunu gördükçe bilgimizi daha fazla paylaşma ihtiyacı hissettik. Sonuç olarak bütün araştırmamızı düzenli olarak burada paylaşacağız. En dürüst araştırma grubu olup dolandırıcılıkları gün yüzüne çıkararak ekosisteme olabildiğince faydalı olmaya çalışacağız.
 
-## What You Can Do
+## Yapabilecekleriniz
 
-- Help out your friends by sharing Bitses.
-- [Sign up](https://bitses.us18.list-manage.com/subscribe?u=90c9898998c741447ea4ac3ff&id=bc6ad7989e) to our newsletter to get weekly research summaries.
-- If you want to contribue & share your own research, [fill out our form](https://goo.gl/forms/lVwFi8lR0YtOyhBQ2).
-- If you want to translate our research to your language reach out from telegram @demiculus
+- Arkadaşlarınız ile Bitses'i paylaşın
+- E-posta listemize [kayıt olun](https://bitses.us18.list-manage.com/subscribe?u=90c9898998c741447ea4ac3ff&id=253fafc06b).
+- Siz de araştırmalarınızı paylaşıp katkı sağlamak istiyorsanız [formumuzu doldurun](https://docs.google.com/forms/d/e/1FAIpQLSfeHHfamN48Io-3xqqjpy9dAbLjmQ7u9R3Q7rng2BazjuFS5A/viewform).
+- Araştırmalarımızı tercüme etmek istiyorsanız telegram üzerinden @demiculus'a ulaşabilirsiniz.
 
-## Other Projects
+## Diğer Projelerimiz
 
-We're building [an exchange for Amoveo](https://amoveo.exchange/), one of the
-most undervalued coins that we know which is currently being traded by OTC. You
-may register at [amoveo.exchange](https://amoveo.exchange/) to learn when it is
-launched.
+Amoveo için [değişim sitesi](https://amoveo.exchange/) yapıyoruz. Amoveo bildiğimiz en potansiyelli kriptopara ve şu anda tezgah üstü usulü takas ediliyor. [Buradan](https://amoveo.exchange/) kayıt olabilirsiniz. 
 
-We're also working on [a wallet holder](http://mywallets.co/). You can get your
-username at [mywallets.co](http://mywallets.co/) before anyone else gets it.
+Aynı zamanda [kripto cüzdan tutucu](http://mywallets.co/) yapıyoruz. Erkenden girerek kendi kullanıcı adınızı [mywallets.co'dan](http://mywallets.co/) başkaları kapmadan kapabilirsiniz.
