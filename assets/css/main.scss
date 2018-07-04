@@ -5,29 +5,29 @@ sitemap:
 ---
 @charset "utf-8";
 
-@import "mixins";
+// @import "mixins";
 @import "variables";
 
-@import "base";
+// @import "base";
 
 @import "header";
-@import "articles";
-@import "titles";
-@import "hero";
+// @import "articles";
+// @import "titles";
+// @import "hero";
 
-@import "components";
+// @import "components";
 
-@import "notices";
-@import "blockquote";
-@import "table";
-@import "code";
+// @import "notices";
+// @import "blockquote";
+// @import "table";
+// @import "code";
 
-@import "404";
-@import "jekyll-github";
-@import "pagination";
-@import "footer";
+// @import "404";
+// @import "jekyll-github";
+// @import "pagination";
+// @import "footer";
 
-@import "icons";
+// @import "icons";
 
 
 #coin-table th, td {
@@ -37,12 +37,12 @@ sitemap:
 
 .flag {
     margin: 0;
-    display: inline;
+    // display: inline;
 }
 
 .flag-other {
     margin: 0;
-    display: inline;
+    // display: inline;
     opacity: 0.4;
 }
 
@@ -55,88 +55,77 @@ sitemap:
     text-align: center;
 }
 
-.call-to-action h1 {
+.call-to-action  h1 {
     font-size: 2rem;
+    color: white;
+    font-weight: bold;
 }
 
 .call-to-action p {
     color: white;
 }
 
-.cta-btn {
-  background: #ffffff;
-  background-image: -webkit-linear-gradient(top, #ffffff, #f5f5f5);
-  background-image: -moz-linear-gradient(top, #ffffff, #f5f5f5);
-  background-image: -ms-linear-gradient(top, #ffffff, #f5f5f5);
-  background-image: -o-linear-gradient(top, #ffffff, #f5f5f5);
-  background-image: linear-gradient(to bottom, #ffffff, #f5f5f5);
-  -webkit-border-radius: 6;
-  -moz-border-radius: 6;
-  border-radius: 6px;
-  color: #1c1c1c !important;
-  padding: 10px 20px 10px 20px;
-  text-decoration: none!important;
+.call-to-action button {
+    white-space: inherit!important;
 }
 
-.cta-btn:hover {
-  background: #fafafa;
-  background-image: -webkit-linear-gradient(top, #fafafa, #f2f2f2);
-  background-image: -moz-linear-gradient(top, #fafafa, #f2f2f2);
-  background-image: -ms-linear-gradient(top, #fafafa, #f2f2f2);
-  background-image: -o-linear-gradient(top, #fafafa, #f2f2f2);
-  background-image: linear-gradient(to bottom, #fafafa, #f2f2f2);
-  text-decoration: none!important;
-}
 
-.tooltip {
-    position: relative;
-    display: inline-block;
-    border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
-}
-
-/* Tooltip text */
-.tooltip .tooltiptext {
-    visibility: hidden;
-    width: 400px;
-    background-color: black;
-    color: #fff;
+footer {
     text-align: center;
-    padding: 5px 0;
-    border-radius: 6px;
-
-    /* Position the tooltip text - see examples below! */
-    position: absolute;
-    z-index: 1;
 }
 
-/* Show the tooltip text when you mouse over the tooltip container */
-.tooltip:hover .tooltiptext {
-    visibility: visible;
-}
 
-:root {
-    // --bg-color: #1c1c1c;
-    // --text-color: #c4c4c4;
-    // --text-color-light: #777;
-    // --link-color: #f1f1f1;
-    // --metadata-color: #666;
-    // --post-title: #fff;
-    // --code-bg-color: #252525;
-    // --code-border: #222;
-    // --table-border-color: #292929;
-    // --table-header-color: #505050;
-    // --shadow-color: rgba(255, 255, 255, 0.1);
+// .tooltip {
+//     position: relative;
+//     display: inline-block;
+//     border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
+// }
 
-    --bg-color: #eee;
-    --text-color: #484848;
-    --text-color-light: #828282;
-    --link-color: #000;
-    --metadata-color: #999;
-    --post-title: #313131;
-    --code-bg-color: #fff;
-    --code-border: #f5f5f5;
-    --table-border-color: #e5e5e5;
-    --table-header-color: #fefefe;
-    --shadow-color: rgba(0, 0, 0, 0.1);
-}
+// /* Tooltip text */
+// .tooltip .tooltiptext {
+//     visibility: hidden;
+//     width: 400px;
+//     background-color: black;
+//     color: #fff;
+//     text-align: center;
+//     padding: 5px 0;
+//     border-radius: 6px;
 
+//     /* Position the tooltip text - see examples below! */
+//     position: absolute;
+//     z-index: 1;
+// }
+
+// /* Show the tooltip text when you mouse over the tooltip container */
+// .tooltip:hover .tooltiptext {
+//     visibility: visible;
+// }
+
+// :root {
+//     // --bg-color: #1c1c1c;
+//     // --text-color: #c4c4c4;
+//     // --text-color-light: #777;
+//     // --link-color: #f1f1f1;
+//     // --metadata-color: #666;
+//     // --post-title: #fff;
+//     // --code-bg-color: #252525;
+//     // --code-border: #222;
+//     // --table-border-color: #292929;
+//     // --table-header-color: #505050;
+//     // --shadow-color: rgba(255, 255, 255, 0.1);
+
+//     --bg-color: #eee;
+//     --text-color: #484848;
+//     --text-color-light: #828282;
+//     --link-color: #000;
+//     --metadata-color: #999;
+//     --post-title: #313131;
+//     --code-bg-color: #fff;
+//     --code-border: #f5f5f5;
+//     --table-border-color: #e5e5e5;
+//     --table-header-color: #fefefe;
+//     --shadow-color: rgba(0, 0, 0, 0.1);
+// }
+
+
+@import "bootstrap/bootstrap";
