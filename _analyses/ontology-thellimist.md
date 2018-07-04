@@ -10,6 +10,6 @@ conclusion: "I believe it is a good investment and has the potential to surpass 
 
 - Does everything NEO does but seems better.  Has a few improvements over NEO
 - Builds a layer called ONTO ID which is like Civic
--  Builds multi layer system like internet where non-blockchain assets can connect to blockchain as well. 
+-  Builds multi layer system like internet where non-blockchain assets can connect to blockchain as well.
 -  Is more business oriented than public however it’s public ledger
 - They haven't decided on some key components like dPoS validator number or ONTG(Gas) generation algorithm etc.

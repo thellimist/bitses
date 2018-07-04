@@ -20,8 +20,11 @@
 
     <div class="col-auto align-bottom">
       <nav class="nav nav-masthead justify-content-center">
+        {% if site_lang == 'en' %}
         <a class="nav-link" href="{{ '/about' | prepend: site.baseurl }}">About</a>
-
+        {% else %}
+        <a class="nav-link" href="{{ '/tr/about' | prepend: site.baseurl }}">Hakkında</a>
+        {% endif %}
 
         {% if site_lang == 'en' %}
         <a class="nav-link"

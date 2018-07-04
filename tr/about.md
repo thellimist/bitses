@@ -1,19 +1,19 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Hakkında
+permalink: /tr/about/
 published: true
 ---
 
-# About Us
+# Hakkımızda
 
-## The Team
+## Takımımız
 
-We are a team of developers, analysts, investors and fund managers. We have been in
-the cryptocurrency space since 2013. Our team is based in Toronto, Istanbul and
-Ankara.
+Takımımız geliştiriciler, analistler, yatırımcılar ve fon yöneticilerinden
+oluşmaktadır. 2013'ten beri kriptopara piyasasındayız. Takımımız Toronto,
+İstanbul ve Ankara'da ikamet etmektedir.
 
-## Why Bitses Exists
+## Bitsesin Varoluş Amacı
 
 We were already doing research for our investments. But the more we have seen our
 friends get scammed by ICOs, the more we felt the need to share our knowledge.
@@ -37,4 +37,3 @@ launched.
 
 We're also working on [a wallet holder](http://mywallets.co/). You can get your
 username at [mywallets.co](http://mywallets.co/) before anyone else gets it.
-

@@ -9,11 +9,11 @@ conclusion: "Risky revenge coin. High potential like 10-100x increase. But good 
 ---
 
 - Zack followed by Nick Szabo, Naval, Richard Burton
-- Zack is in hero mode and developing everything by himself. He's been developing for more than 1.5 years and did more work than most other blockchain projects.  
+- Zack is in hero mode and developing everything by himself. He's been developing for more than 1.5 years and did more work than most other blockchain projects.
 11K ERL. 8K JS.
-- Project is very new, very unknown expect hard core long term blockchain enthusiasts. 
+- Project is very new, very unknown expect hard core long term blockchain enthusiasts.
 - Looks like the market cap was over $6 million. (Maybe?)
-- VEO/BTC exchange is being built. 
+- VEO/BTC exchange is being built.
 ======
 The 2 previous blockchain projects I founded:
 * raised tens of millions in ICO.

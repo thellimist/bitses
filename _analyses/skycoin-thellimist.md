@@ -14,10 +14,10 @@ conclusion: "Smart team, great tech, suck at marketing, the team is too troll wh
 - It has the potential to Moon Mars. (Market potential is trillions of $)
 - Has tons of Apps
 - Has/Will have hardwares (Skyminer, SkyAnttenna, SkyWallet etc..)
-- They are super technically. 
+- They are super technically.
 - The SmartContract languages is Go like but it kinda sucks (like Solidy)
 - They say they have a few secrets which they haven't shared yet so market can't beat them
-- Core is based in China but has offices all around the world. 
+- Core is based in China but has offices all around the world.
 - Has more than 80 people working.
 - Has been around for 7 years.
 - They have the core ledger built (blockchain). Almost everything else going to be built.

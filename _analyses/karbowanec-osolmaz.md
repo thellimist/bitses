@@ -15,7 +15,7 @@ technics of regulating coin supply to stabilize its market price and exchange ra
 See the section "Endogenous Solution"
 - Team is Ukrainian, kind of like the e-akce project of Turkey
 - Monero is also based on cryptonote. Since Monero's inception, a guy called Zawy came up with a better difficulty algorithm: https://github.com/zawy12/difficulty-algorithms/issues/3
-There are a bunch of projects that just fork old ones and apply the new algorithm, and call themselves original projects. 
+There are a bunch of projects that just fork old ones and apply the new algorithm, and call themselves original projects.
 Karbo is not one of them since it is _also_ trying to implement a variable supply mechanism.
 - Team members do not show themselves on the Karbo webpage. They don't seem very keen on marketing.
 They say they won't do an ICO and there is no premine/instamine. Karbo development is supported by donations.
