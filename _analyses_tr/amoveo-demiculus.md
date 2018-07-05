@@ -5,7 +5,7 @@ tldr: "Oracle Makinesi"
 score: 3
 researcher: demiculus
 date: 2018-05-15
-conclusion: "Teknoloji güçlü gözüküyor ama market egemenliğine giden yol net değil. Zack(kurucu)'in bununla alakalı fikirleri var. Yani bekleyip görmemiz gerekiyor neler olacağını. Fiyatının genel olarak artacağını düşünüyorum insanlar bunu keşfettikçe. Rahat bir şekilde coinmarketcap.com'de ilk 100e girer, muhtemelen ilk 30a da girer.
+conclusion: "Teknoloji güçlü gözüküyor ama market egemenliğine giden yol net değil. Zack(kurucu)'in bununla alakalı fikirleri var. Yani bekleyip görmemiz gerekiyor neler olacağını. Fiyatının genel olarak artacağını düşünüyorum insanlar bunu keşfettikçe. Rahat bir şekilde coinmarketcap.com'de ilk 100e girer, muhtemelen ilk 30a da girer."
 ---
 
 - Hiç bir borsada yok. ICO yapmadı.
