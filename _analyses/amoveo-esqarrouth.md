@@ -14,7 +14,7 @@ conclusion: "Risky revenge coin. High potential like 10-100x increase. But good 
 - Project is very new, very unknown expect hard core long term blockchain enthusiasts.
 - Looks like the market cap was over $6 million. (Maybe?)
 - VEO/BTC exchange is being built.
-======
+
 The 2 previous blockchain projects I founded:
 * raised tens of millions in ICO.
 * hired dozens of people.
@@ -26,5 +26,5 @@ Amoveo:
 * hired no one.
 * launched main net 2 months ago
 * rapid growth
-======
+
 - Question: How do we buy/mine this? If we want to buy it, we might get scammed because we don't know how to navigate private sales.

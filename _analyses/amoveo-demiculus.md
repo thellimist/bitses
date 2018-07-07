@@ -9,7 +9,6 @@ conclusion: "Tech seems to be strong but the path to market domination is not cl
 ---
 
 - is not on any exchange, did not do ico
-- Governance model includes increasing block reward to not over-reward the earlier miners, which may kind of make it a stable coin
 - Founder (zack) implemented Augur & Aeternity which stil have not launched. Amoveo has launched in Mar'18
 - Zack is a solo founder, doesn't have a team, needs a business/marketing guy to make this project grow faster
 - Has managed to attract good developers & built a strong early community
