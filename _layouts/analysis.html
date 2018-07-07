@@ -10,7 +10,12 @@ layout: default
 
 {% for researcher in site.researchers %}
 {% if researcher.slug == page.researcher %}
-<p><b>Researcher:</b>&nbsp;
+<p>
+  {% if site_lang == 'en' %}
+  <b>Researcher:</b>&nbsp;
+  {% else %}
+  <b>Araştırmacı:</b>&nbsp;
+  {% endif %}
   {% if researcher.twitter %}
   <a href="https://twitter.com/{{ researcher.twitter }}">{{ researcher.name }}</a>
   {% else %}
@@ -19,8 +24,14 @@ layout: default
 </p>
 {% endif %}
 {% endfor %}
-<p><b>Date:</b>&nbsp;
+<p>
+  {% if site_lang == 'en' %}
+  <b>Date:</b>&nbsp;
   {{ page.date | date: '%B %d, %Y' }}
+  {% else %}
+  <b>Tarih:</b>&nbsp;
+  {{ page.date | date: '%d.%m.%Y' }}
+  {% endif %}
 </p>
 
 <!-- <h2>Researchers</h2> -->
@@ -37,12 +48,20 @@ layout: default
 <!-- <a href="https://coinmarketcap.com/currencies/{{ page.cmc_id }}/" target="_blank">CoinMarketCap Profile</a> -->
 <!-- {% endif %} -->
 
+{% if site_lang == 'en' %}
 <h2>Analysis</h2>
+{% else %}
+<h2>Analiz</h2>
+{% endif %}
 
 {{ page.content }}
 
 {% if page.conclusion %}
+{% if site_lang == 'en' %}
 <h2>Conclusion</h2>
+{% else %}
+<h2>Sonuç</h2>
+{% endif %}
 
 <p>
 {{ page.conclusion | markdownify }}
