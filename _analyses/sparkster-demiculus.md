@@ -26,4 +26,7 @@ Some things Sparkster don't want you to know
 3. They have a workforce in India that they pay peanuts to hang around their own telegram group telling people that this will 50x. Check their twitter and you will see about 100 fake comments under every tweet.
 4. They do not have any partnerships, have zero proper VC companies backing them. Only Ian Balina who is a paid shill. Not one staff member is from a blockchain background. Their "development" team are an outsourced tech sweatshop in Mumbai where they are paying around $500 per month wages.
 
-- I checked out the coin because it had 3 stars here: icoanalytics.net, their previous 3 stars had all performed well...
+- I checked out the coin because it had 3 stars here: icoanalytics.net, their previous 3 stars had all performed well. 
+- Also sparkster is IAN Balinas top pick. He is shilling it a lot. Thus IAN Balina should not be trusted with any review.
+
+Edit: icoanalytics.net later on updated their stars and gave it a 1 star.
