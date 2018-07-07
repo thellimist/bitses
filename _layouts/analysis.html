@@ -2,6 +2,15 @@
 layout: default
 ---
 
+{% assign first_path = page.url | slice: 0, 4 %}
+
+{% if first_path == '/tr/' %}
+{% assign site_lang = 'tr' %}
+{% else %}
+{% assign site_lang = 'en' %}
+{% endif %}
+
+
 {% for coin in site.coins %}
 {% if coin.slug == page.coin %}
 <h1>{{ coin.name }}</h1>
