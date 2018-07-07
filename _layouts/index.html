@@ -41,7 +41,7 @@ layout: compress
 
       </div>
       <button type="button" class="btn btn-lg btn-light mb-3">
-        <a href="http://eepurl.com/dzMEbf">
+        <a href="http://eepurl.com/dzMEbf" target="_blank">
           {% if site_lang == 'en' %}
           Subscribe to get weekly research updates
           {% else %}
@@ -51,7 +51,7 @@ layout: compress
       </button>
       <br>
       <button type="button" class="btn btn-lg btn-light">
-        <a href="https://goo.gl/forms/lVwFi8lR0YtOyhBQ2">
+        <a href="https://goo.gl/forms/lVwFi8lR0YtOyhBQ2" target="_blank">
           {% if site_lang == 'en' %}
           Apply to become a researcher
           {% else %}
@@ -129,7 +129,9 @@ layout: compress
               {{ coin.name }}
             </td>
             <td>
-              <a href="{{ analysis.url | prepend: site.baseurl }}">{{ analysis.tldr }}</a>
+              <a href="{{ analysis.url | prepend: site.baseurl }}" target="_blank">
+                {{ analysis.tldr }}
+              </a>
             </td>
             <td>{{ analysis.score }}</td>
             <td sorttable_customkey="{{ analysis.date | date: '%Y%m%d000000' }}">
@@ -142,7 +144,9 @@ layout: compress
             <td>
               <!-- <a href="{{ researcher.url | prepend: site.baseurl }}">{{ researcher.name }}</a> -->
               {% if researcher.twitter %}
-              <a href="https://twitter.com/{{ researcher.twitter }}">{{ researcher.name }}</a>
+              <a href="https://twitter.com/{{ researcher.twitter }}" target="_blank">
+                {{ researcher.name }}
+              </a>
               {% else %}
               {{ researcher.name }}
               {% endif %}
