@@ -3,7 +3,7 @@ layout: analysis
 coin: zilliqa
 tldr: "A secure sharding adaptation in blockchain"
 score: 2
-researcher: dorukbalkan
+researcher: dorukoguz
 date: 2018-05-19
 conclusion: "Zilliqa may be a real permissionless high throughput blockchain solution with its unique linear scalability. I expect an ADA like run from it when its mainnet release approaches (sometime in q3) %5-10 of all portfolio can be invested imho (mine is %11)"
 ---

@@ -3,7 +3,7 @@ layout: analysis
 coin: aeternity
 tldr: "smart contracts interfacing with real world data"
 score: 1
-researcher: dorukbalkan
+researcher: dorukoguz
 date: 2018-05-19
 conclusion: "The only real competitor of AE will be its oldest CTO’s solo project Amoveo which lacks a market existence, for now."
 ---
