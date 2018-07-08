@@ -18,9 +18,9 @@ layout: compress
   </head>
 
   <body>
-    <div class="container">
-      {% include main/header.html %}
+    {% include main/header.html %}
 
+    <div class="container mt-3">
 
       {% for coin in site.coins %}
       {% if coin.slug == page.coin %}
@@ -30,7 +30,8 @@ layout: compress
 
       {% for researcher in site.researchers %}
       {% if researcher.slug == page.researcher %}
-      <p>
+      <ul style="list-style-type: none; padding: 0;">
+      <li>
         {% if site_lang == 'en' %}
         <b>Researcher:</b>&nbsp;
         {% else %}
@@ -41,10 +42,20 @@ layout: compress
         {% else %}
         {{ researcher.name }}
         {% endif %}
-      </p>
+      </li>
       {% endif %}
       {% endfor %}
-      <p>
+
+      <li>
+        {% if site_lang == 'en' %}
+        <b>Score:</b>&nbsp;
+        {% else %}
+        <b>Puan:</b>&nbsp;
+        {% endif %}
+        {{ page.score }}
+      </li>
+
+      <li>
         {% if site_lang == 'en' %}
         <b>Date:</b>&nbsp;
         {{ page.date | date: '%B %d, %Y' }}
@@ -52,8 +63,8 @@ layout: compress
         <b>Tarih:</b>&nbsp;
         {{ page.date | date: '%d.%m.%Y' }}
         {% endif %}
-      </p>
-
+      </li>
+      </ul>
       <!-- <h2>Researchers</h2> -->
 
       <!-- <ul> -->
@@ -91,23 +102,23 @@ layout: compress
       </div>
 
 
-    <div class="call-to-action my-5">
-      <div class="mb-3">
+    <div class="call-to-action my-4 py-3 bg-gradient-info">
+      <!-- <div class="mb-3"> -->
 
-        <h1>
-          {% if site_lang == 'en' %}
-          Fundamental Analysis of 100+ Crypto Assets
-          {% else %}
-          100+ Kripto Varlığın Temel Analizi
-          {% endif %}
-        </h1>
+      <!--   <\!-- <h1> -\-> -->
+      <!--   <\!--   {% if site_lang == 'en' %} -\-> -->
+      <!--   <\!--   Fundamental Analysis of 100+ Crypto Assets -\-> -->
+      <!--   <\!--   {% else %} -\-> -->
+      <!--   <\!--   100+ Kripto Varlığın Temel Analizi -\-> -->
+      <!--   <\!--   {% endif %} -\-> -->
+      <!--   <\!-- </h1> -\-> -->
 
-      </div>
+      <!-- </div> -->
       <button type="button" class="btn btn-lg btn-light">
         {% if site_lang == 'en' %}
-        <a href="/">
+        <a href="/" class="text-dark">
         {% else %}
-        <a href="/tr">
+        <a href="/tr" class="text-dark">
         {% endif %}
           {% if site_lang == 'en' %}
           Check out more Reviews

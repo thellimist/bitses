@@ -6,18 +6,28 @@
 {% assign site_lang = 'en' %}
 {% endif %}
 
+<div class="bg-dark">
+  <div class="container">
+
 <header>
-  <div class="pt-5 row align-items-end">
+  <div class="pt-3 pb-2 row align-items-end">
 
     <div class="col-auto mr-auto">
 
       <!-- <a href="{{ '/' | prepend: site.baseurl }}">{{ site.blog.title }}</a> -->
       {% if site_lang == 'en' %}
-      <a href="{{ '/' | prepend: site.baseurl }}">
-      {% else %}
-      <a href="{{ '/tr' | prepend: site.baseurl }}">
-      {% endif %}
-        <img class="logosvg" src="{{ '/assets/img/bitses_logo.svg' | prepend: site.baseurl }}">
+      <a href="{{ '/' | prepend: site.baseurl }}" class="text-light">
+        {% else %}
+        <a href="{{ '/tr' | prepend: site.baseurl }}" class="text-light">
+          {% endif %}
+          <img class="logosvg" src="{{ '/assets/img/bitses_logo_light.svg' | prepend: site.baseurl }}">
+          <div>
+            {% if site_lang == 'en' %}
+            Fundamental Analysis of 100+ Crypto Assets
+            {% else %}
+            100+ Kripto Varlığın Temel Analizi
+            {% endif %}
+          </div>
       </a>
       <!-- <object type="image/svg+xml" data="{{ site.blog.logo_path | relative_url }}" class="logosvg">Your browser does not support svg images</object> -->
     </div>
@@ -25,9 +35,9 @@
     <div class="col-auto align-bottom">
       <nav class="nav nav-masthead justify-content-center">
         {% if site_lang == 'en' %}
-        <a class="nav-link" href="{{ '/about' | prepend: site.baseurl }}">About</a>
+        <a class="nav-link text-light" href="{{ '/about' | prepend: site.baseurl }}">About</a>
         {% else %}
-        <a class="nav-link" href="{{ '/tr/about' | prepend: site.baseurl }}">Hakkında</a>
+        <a class="nav-link text-light" href="{{ '/tr/about' | prepend: site.baseurl }}">Hakkında</a>
         {% endif %}
 
         {% if site_lang == 'en' %}
@@ -36,10 +46,10 @@
           <img class="flag" src="{{ '/assets/img/tr_flag.svg' | prepend: site.baseurl }}">
         </a>
         {% else %}
-        <div
-          onclick="location.href='{{ page.url | remove: '/tr/' | prepend: site.baseurl | prepend: '/' }}'">
+        <a class="nav-link"
+          href="{{ page.url | remove: '/tr/' | prepend: site.baseurl | prepend: '/' }}">
           <img class="flag" src="{{ '/assets/img/en_flag.svg' | prepend: site.baseurl }}">
-        </div>
+        </a>
         <!-- <a href="{{ page.url | remove: '/tr/' | prepend: site.baseurl | prepend: '/' }}">en</a> -->
         <!-- <img class="flag" src="{{ '/assets/img/en_flag.svg' | prepend: site.baseurl }}"> -->
         {% endif %}
@@ -49,6 +59,8 @@
 
     </div>
   </div>
-  <div class="row py-3">
-  </div>
+  <!-- <div class="row py-3"> -->
+  <!-- </div> -->
 </header>
+  </div>
+</div>

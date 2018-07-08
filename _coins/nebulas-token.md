@@ -1,4 +1,4 @@
 ---
 layout: coin
-name: Nebulas Token
+name: Nebulas
 ---
