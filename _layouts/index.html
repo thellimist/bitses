@@ -11,9 +11,7 @@ layout: compress
   </head>
 
   <body>
-    <div class="container">
-      {% include main/header.html %}
-    </div>
+    {% include main/header.html %}
 
     {% if site_lang == 'en' %}
     {% assign analyses = site.analyses %}
@@ -21,32 +19,25 @@ layout: compress
     {% assign analyses = site.analyses_tr %}
     {% endif %}
 
-    <div class="call-to-action mb-5">
-      <div class="mb-3">
+    <div class="call-to-action mb-4 py-3 bg-gradient-info">
+      <!-- <div class="mb-2"> -->
 
-        <h1>
-          {% if site_lang == 'en' %}
-          Exhaustive Crypto Analytics
-          {% else %}
-          Kapsamlı Kripto Analizi
-          {% endif %}
-        </h1>
-        <p>
-          {% if site_lang == 'en' %}
-          Fundamental Analysis of 100+ Crypto Assets
-          {% else %}
-          100+ Kripto Varlığın Temel Analizi
-          {% endif %}
-        </p>
+      <!--   <\!-- <h1> -\-> -->
+      <!--   <\!--   {% if site_lang == 'en' %} -\-> -->
+      <!--   <\!--   Exhaustive Crypto Analytics -\-> -->
+      <!--   <\!--   {% else %} -\-> -->
+      <!--   <\!--   Kapsamlı Kripto Analizi -\-> -->
+      <!--   <\!--   {% endif %} -\-> -->
+      <!--   <\!-- </h1> -\-> -->
 
-      </div>
-      <button type="button" class="btn btn-lg btn-light mb-3">
+      <!-- </div> -->
+      <button type="button" class="btn btn-lg btn-light">
           {% if site_lang == 'en' %}
-          <a href="http://eepurl.com/dzMEbf" target="_blank">
+          <a class="text-dark" href="http://eepurl.com/dzMEbf" target="_blank">
             Subscribe to get weekly research updates
           </a>
           {% else %}
-          <a href="http://eepurl.com/dzMEIP" target="_blank">
+          <a class="text-dark" href="http://eepurl.com/dzMEIP" target="_blank">
             Haftalık yeni araştırmaları almak için abone ol
           </a>
           {% endif %}
@@ -68,7 +59,7 @@ layout: compress
     <div class="container">
       <div>
       <!-- <div class="table-responsive"> -->
-        <table id="coin-table" class="sortable table table-light table-striped">
+        <table id="coin-table" class="sortable table table-light table-striped table-bordered">
           <thead>
           <tr>
             <th>
