@@ -1,11 +1,11 @@
 ---
 layout: analysis
 coin: algorand
-tldr: "Ölçülebilir blok zinciri protokolü"
+tldr: "Ölçeklenebilir blok zinciri protokolü"
 score: 0
 researcher: onurerkinsucu
 date: 2018-06-23
-conclusion: "Ölçülebilirlik sorununu çözebilir ve diğer protokollerle olan rekabette öne geçebilirler, fakat şuan için başarı oranı belli değildir, ayrıca biçilen değer çok yüksektir ve şu aşamada yatırım yapmak oldukça risklidir ve mümkün değildir (minimum 2 Milyon dolar)"
+conclusion: "Ölçeklenebilirlik sorununu çözebilir ve diğer protokollerle olan rekabette öne geçebilirler, fakat şuan için başarı oranı belli değildir, ayrıca biçilen değer çok yüksektir ve şu aşamada yatırım yapmak oldukça risklidir ve mümkün değildir (minimum 2 Milyon dolar)"
 ---
 
 - Kurucusu Silvio Micali’dir (Turing Ödülü sahibi bilim adamı).
@@ -13,13 +13,13 @@ conclusion: "Ölçülebilirlik sorununu çözebilir ve diğer protokollerle olan
 - Alessandro Chiesa (Starware kurucusu) (Sıfır Bilgi İspatı alanında uzmandır) danışman olarak yer almaktadır.
 - Naval Ravikant (Metastable Capital kurucusu) danışman olarak yer almaktadır.
 - Genel olarak oldukça yetenekli bir ekip ve danışmanlardan oluşmaktadır.
-- Kapsamlı ve teknik makaleleri var.
-- Ölçülebilirlik sorununu çözüyor, fakat sonuç olarak hangi protokolün kazanacağı belirli değil.
-- Pillar ve Union Square Ventures tarafından 4 Milyon dolarlık başlangıç fonu topladı
+- Kapsamlı ve teknik tanıtım belgesi.
+- Ölçeklenebilirlik sorununu çözüyor, fakat sonuç olarak hangi protokolün kazanacağı belirli değil.
+- Pillar ve Union Square Ventures tarafından 4 Milyon dolarlık başlangıç fonu topladı.
 - ICO konusunda herhangi bir bilgi yoktur, normal bir yatırımcı olarak pay almak muhtemelen imkansızdır.
 - Tokenlerin %10’u için 50 Milyon dolar talep edilmektedir.
 - Minimum yatırım 2 Milyon dolardır (bu bilginin onaylanması gerekmektedir).
-- Şuan için herhangi bir yüksek talep yoktur
+- Şuan için herhangi bir yüksek talep yoktur.
 
 Endişelerim.
 Hangi protokol yarışı kazanacaktır? (Avalanche, algorand vb.)
