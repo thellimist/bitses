@@ -4,7 +4,7 @@ coin: trusttoken
 tldr: "Distributed Cloud Computing and Storage (AWS competitor)"
 score: 0
 researcher: thellimist
-date: 2018-07-06
+date: 2018-07-09
 conclusion: "They are competing with really big players and they haven’t shown 10x improvement. DADI might succeed moderately but I don’t think it’ll be a billion dollar company. "
 ---
  - Dadi tries to be a competitor to AWS
