@@ -46,7 +46,7 @@ conclusion: "They are competing with really big players and they haven’t shown
 
  Neutral
 
-It’s not a decentralized system. There is a company who controls DADI. I'm not saying this a bad thing. This is an alright business. It might be worth investment. Not everything should be decentralized. 
+- It’s not a decentralized system. There is a company who controls DADI. I'm not saying this a bad thing. This is an alright business. It might be worth investment. Not everything should be decentralized. 
 
  Questions
 
