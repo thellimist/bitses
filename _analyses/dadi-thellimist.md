@@ -1,6 +1,6 @@
 ---
 layout: analysis
-coin: trusttoken
+coin: dadi
 tldr: "Distributed Cloud Computing and Storage (AWS competitor)"
 score: 0
 researcher: thellimist
