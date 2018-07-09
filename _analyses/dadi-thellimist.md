@@ -23,12 +23,14 @@ conclusion: "They are competing with really big players and they haven’t shown
 - They have well written documentations on a lot of different topics including migrating old system. 
 - The website owner will pay end of month via BTC, ETH, Fiat or DADI. The DADI foundation converts it to DADI token and distributes to the stake holders. 
 - Team looks good at first glance. Might need more research.
+
  Pros
  - They are working well. Technology design, design, tools, libraries, website, documentations and support are all A level. I want to emphasy this more. The results are amazing. 
 - They have been working for 4 years
 - They already have customers and revenue
 - Market they tackle is huge. 
 - They have entered the market from the correct niche. CDN. Although it looks like their revenues are more from websites. This might need to be checked. 
+
  Cons
 
 - It’s not decentralised.
@@ -39,6 +41,7 @@ conclusion: "They are competing with really big players and they haven’t shown
 - DADI foundation has the right to determine the revenue of actors. They claim that they’ll update the rewards of actors at least once per quarter. If they mess this up, they might actually ruin peoples lives. There is not a free market and I don’t know why they made a decision like this. This might need to be rechecked
 - The libraries they built are public on github, however, stargate, gateway and host code are not public. 
 - They have plagiarized SONM whitepaper early 2018 and been criticized by the community.
+
  Questions
  - Not sure if every website or system can be hosted on DADI. They claim they can do AI and machine learning apps as well. 
 - Not sure how Gateway handles resilience, reliability and consistency of Hosts. They have solved harder problems so I don't worry about this much.
