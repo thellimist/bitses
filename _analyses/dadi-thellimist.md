@@ -10,7 +10,8 @@ conclusion: "They are competing with really big players and they haven’t shown
 
 - Dadi tries to be a competitor to AWS
 - It has 4 different actors, website owner, stargate, gateway, host. A company or a person can be any of these or all. 
-- Website owner is the one who pays others to host their content. - Stargate is permissioned with max limit. Computers with Stargate title are high powered high bandwidth. They are same as gateway with DNS.
+- Website owner is the one who pays others to host their content.
+- Stargate is permissioned with max limit. Computers with Stargate title are high powered high bandwidth. They are same as gateway with DNS.
 - Gateway can be thought like a load balancer but it's not. The hosts pull the request from a queue inside Gateway. 
 - Host is the mini computers which does most processing. Hosts may have min 20% uptime.
 - Everything runs in docker containers encrypted on Host machines.
