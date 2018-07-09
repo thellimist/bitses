@@ -7,7 +7,8 @@ researcher: thellimist
 date: 2018-07-09
 conclusion: "They are competing with really big players and they haven’t shown 10x improvement. DADI might succeed moderately but I don’t think it’ll be a billion dollar company. "
 ---
- - Dadi tries to be a competitor to AWS
+
+- Dadi tries to be a competitor to AWS
 - It has 4 different actors, website owner, stargate, gateway, host. A company or a person can be any of these or all. 
 - Website owner is the one who pays others to host their content. - Stargate is permissioned with max limit. Computers with Stargate title are high powered high bandwidth. They are same as gateway with DNS.
 - Gateway can be thought like a load balancer but it's not. The hosts pull the request from a queue inside Gateway. 
@@ -25,7 +26,8 @@ conclusion: "They are competing with really big players and they haven’t shown
 - Team looks good at first glance. Might need more research.
 
  Pros
- - They are working well. Technology design, design, tools, libraries, website, documentations and support are all A level. I want to emphasy this more. The results are amazing. 
+
+- They are working well. Technology design, design, tools, libraries, website, documentations and support are all A level. I want to emphasy this more. The results are amazing. 
 - They have been working for 4 years
 - They already have customers and revenue
 - Market they tackle is huge. 
@@ -43,5 +45,6 @@ conclusion: "They are competing with really big players and they haven’t shown
 - They have plagiarized SONM whitepaper early 2018 and been criticized by the community.
 
  Questions
- - Not sure if every website or system can be hosted on DADI. They claim they can do AI and machine learning apps as well. 
+
+- Not sure if every website or system can be hosted on DADI. They claim they can do AI and machine learning apps as well. 
 - Not sure how Gateway handles resilience, reliability and consistency of Hosts. They have solved harder problems so I don't worry about this much.
