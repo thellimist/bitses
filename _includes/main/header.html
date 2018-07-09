@@ -41,14 +41,14 @@
         {% endif %}
 
         {% if site_lang == 'en' %}
-        <a class="nav-link"
+        <a class="nav-link text-light"
           href="{{ page.url | prepend: '/tr' | prepend: site.baseurl }}">
-          <img class="flag" src="{{ '/assets/img/tr_flag.svg' | prepend: site.baseurl }}">
+          <b>en</b>/tr
         </a>
         {% else %}
-        <a class="nav-link"
+        <a class="nav-link text-light"
           href="{{ page.url | remove: '/tr/' | prepend: site.baseurl | prepend: '/' }}">
-          <img class="flag" src="{{ '/assets/img/en_flag.svg' | prepend: site.baseurl }}">
+          en/<b>tr</b>
         </a>
         <!-- <a href="{{ page.url | remove: '/tr/' | prepend: site.baseurl | prepend: '/' }}">en</a> -->
         <!-- <img class="flag" src="{{ '/assets/img/en_flag.svg' | prepend: site.baseurl }}"> -->

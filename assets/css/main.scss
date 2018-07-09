@@ -7,8 +7,9 @@ sitemap:
 
 // @import "mixins";
 @import "variables";
+@import "bootstrap/bootstrap";
 
-// @import "base";
+@import "base";
 
 @import "header";
 // @import "articles";
@@ -128,4 +129,3 @@ footer {
 // }
 
 
-@import "bootstrap/bootstrap";

@@ -1,10 +1,10 @@
 ---
 layout: analysis
-coin: shitcoin
-tldr: "A shitty coin"
+coin:
+tldr: ""
 score: 0
 researcher: demiculus
-date: 2018-05-04
+date: 2018-01-01
 conclusion: ""
 published: False
 ---
