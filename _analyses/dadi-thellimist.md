@@ -22,7 +22,8 @@ conclusion: "They are competing with really big players and they haven’t shown
 - They have designed it simple enough. Just follow the tutorial. It also uses NPM packages which makes installing simple as well. 
 - They have well written documentations on a lot of different topics including migrating old system. 
 - The website owner will pay end of month via BTC, ETH, Fiat or DADI. The DADI foundation converts it to DADI token and distributes to the stake holders. 
-- Team looks good at first glance. Might need more research.  Pros
+- Team looks good at first glance. Might need more research.
+ Pros
  - They are working well. Technology design, design, tools, libraries, website, documentations and support are all A level. I want to emphasy this more. The results are amazing. 
 - They have been working for 4 years
 - They already have customers and revenue

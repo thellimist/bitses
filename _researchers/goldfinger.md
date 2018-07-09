@@ -1,5 +1,5 @@
 ---
 layout: researcher
-name: "Doga Seker"
+name: "Gold Finger"
 twitter: ""
 ---
