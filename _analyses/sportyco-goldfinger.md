@@ -3,7 +3,7 @@ layout: analysis
 coin: sportyco
 tldr: "Sport investment platform"
 score: 0
-researcher: dogaseker
+researcher: goldfinger
 date: 2018-07-05
 conclusion: "Sounds interesting, but the game mechanics don't work."
 ---
