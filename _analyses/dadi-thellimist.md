@@ -17,9 +17,9 @@ conclusion: "They are competing with really big players and they haven’t shown
 - Everything runs in Docker containers encrypted on Host machines.
 - Dadi does not use Blockchain or DHT for storage of computation. They have their own system with load balancers. The blockchain is only used for the payments system. Users can stake their tokens to be a Host, Gateway, Stargate. There are systems like Proof of Availability to track the uptime of these actors and give payment accordingly. 
 - Dadi Foundation is a centralized company who has control over the whole system. The foundation earns 5% of the networks' revenue.
-- DADI token is an ERC20 token used for staking and rewarding. 
+- DADI token is an ERC20 token used for staking and rewarding. [Details](https://docs.google.com/document/d/1lEIfZZtI2QITG0AHxZsAdWsKMwmZaLBhOEVq6wZ4B2w/edit#)
 - The total revenue of the system will be divided among all the actors based on their uptime.
-- The foundation mentioned they have $180k in revenue yearly. DADI token market cap is $10M where 20% of the tokens belong to the team thus $8M is the amount that has been staked to earn $180k revenue. Not a good business to be in as a Host, however, if the actors have extra capacity and bandwidth thus it's free money for them. It's actually a nice ROI. There are other projects which target extra bandwidth, CPU, storage of users. I'm not sure if DADI will be profitable compared to others. This might need extra research.
+- The foundation mentioned they have $180k in revenue yearly. DADI token market cap is $10M where 20% of the tokens belong to the team thus $8M is the amount that has been staked to earn $180k revenue. Not a good business to be in as a Host, however, if the actors have extra capacity and bandwidth thus it's free money for them. It's actually a nice ROI. There are other projects which target extra bandwidth, CPU, storage of users. I'm not sure if DADI will be profitable compared to others. This might need extra research. 
 - It doesn’t work with every language or stack however they may support it in the future.
 - They have designed it simple enough. Just follow the tutorial. It also uses NPM packages which makes installing simple as well. 
 - They have well-written documentation on a lot of different topics including migrating old system. 
