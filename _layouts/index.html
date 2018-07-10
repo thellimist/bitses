@@ -20,19 +20,92 @@ layout: compress
     {% assign analyses = site.analyses_tr %}
     {% endif %}
 
-    <div class="call-to-action py-3 bg-gradient-primary">
-      <button type="button" class="btn btn-light">
+    <div class="call-to-action py-3">
+      <button type="button" class="btn btn-light" data-toggle="modal" data-target="#subscribeModal">
         {% if site_lang == 'en' %}
-        <a class="text-dark" href="http://eepurl.com/dzMEbf" target="_blank">
-          Subscribe to get weekly research updates
-        </a>
+        Subscribe to get weekly research updates
         {% else %}
-        <a class="text-dark" href="http://eepurl.com/dzMEIP" target="_blank">
-          Haftalık yeni araştırmaları almak için abone ol
-        </a>
+        Haftalık yeni araştırmaları almak için abone ol
         {% endif %}
       </button>
-      <br>
+
+      <!-- Modal -->
+<div class="modal fade" id="subscribeModal" tabindex="-1" role="dialog" aria-labelledby="subscribeModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <!-- <div class="modal-header"> -->
+      <!--   <h5 class="modal-title" id="subscribeModalLabel">Modal title</h5> -->
+      <!--   <button type="button" class="close" data-dismiss="modal" aria-label="Close"> -->
+      <!--     <span aria-hidden="true">&times;</span> -->
+      <!--   </button> -->
+      <!-- </div> -->
+      <div class="modal-body">
+        <div class="text-left">
+          {% if site_lang == 'en' %}
+          1. We send a report of our latest research every week.
+          {% else %}
+          1. Haftalık araştırmalarımızı mail olarak gönderiyoruz.
+          {% endif %}
+        </div>
+        <div class="text-center">
+          <button type="button" class="btn btn-primary my-3" >
+            {% if site_lang == 'en' %}
+            <a class="text-light" href="http://eepurl.com/dzMEbf" target="_blank">
+              <span class="fa fa-envelope"></span>
+              Subscribe to our Mailing List
+            </a>
+            {% else %}
+            <a class="text-light" href="http://eepurl.com/dzMEIP" target="_blank">
+              <span class="fa fa-envelope"></span>
+              Mail Listemize Abone Ol
+            </a>
+            {% endif %}
+          </button>
+        </div>
+        <div class="text-left">
+          {% if site_lang == 'en' %}
+          2. We share news on our Telegram channel.
+          {% else %}
+          2. Anlık yenilikleri Telegram kanalımızda paylaşıyoruz.
+          {% endif %}
+        </div>
+        <div class="text-center">
+          <button type="button" class="btn btn-primary my-3" >
+            <a class="text-light" href="https://t.me/bitses" target="_blank">
+              <span class="fa fa-telegram"></span>
+              {% if site_lang == 'en' %}
+              Join our Telegram Channel
+              {% else %}
+              Telegram Kanalımıza Katıl
+              {% endif %}
+            </a>
+          </button>
+        </div>
+        <div class="text-left">
+          {% if site_lang == 'en' %}
+          2. We share updates on our Twitter.
+          {% else %}
+          2. Anlık güncellemeleri Twitter'da paylaşıyoruz.
+          {% endif %}
+        </div>
+        <div class="text-center">
+          <button type="button" class="btn btn-primary my-3" >
+            <a class="text-light" href="https://twitter.com/bitsesorg" target="_blank">
+              <span class="fa fa-twitter"></span>
+              {% if site_lang == 'en' %}
+              Follow our Twitter
+              {% else %}
+              Bizi Twitter'dan Takip Et
+              {% endif %}
+            </a>
+          </button>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
     </div>
 
 
