@@ -20,48 +20,36 @@ layout: compress
     {% assign analyses = site.analyses_tr %}
     {% endif %}
 
-    <div class="call-to-action mb-4 py-3 bg-gradient-info">
-      <!-- <div class="mb-2"> -->
-
-      <!--   <\!-- <h1> -\-> -->
-      <!--   <\!--   {% if site_lang == 'en' %} -\-> -->
-      <!--   <\!--   Exhaustive Crypto Analytics -\-> -->
-      <!--   <\!--   {% else %} -\-> -->
-      <!--   <\!--   Kapsamlı Kripto Analizi -\-> -->
-      <!--   <\!--   {% endif %} -\-> -->
-      <!--   <\!-- </h1> -\-> -->
-
-      <!-- </div> -->
+    <div class="call-to-action py-3 bg-gradient-primary">
       <button type="button" class="btn btn-light">
-          {% if site_lang == 'en' %}
-          <a class="text-dark" href="http://eepurl.com/dzMEbf" target="_blank">
-            Subscribe to get weekly research updates
-          </a>
-          {% else %}
-          <a class="text-dark" href="http://eepurl.com/dzMEIP" target="_blank">
-            Haftalık yeni araştırmaları almak için abone ol
-          </a>
-          {% endif %}
+        {% if site_lang == 'en' %}
+        <a class="text-dark" href="http://eepurl.com/dzMEbf" target="_blank">
+          Subscribe to get weekly research updates
+        </a>
+        {% else %}
+        <a class="text-dark" href="http://eepurl.com/dzMEIP" target="_blank">
+          Haftalık yeni araştırmaları almak için abone ol
+        </a>
+        {% endif %}
       </button>
       <br>
-      <!-- <button type="button" class="btn btn-lg btn-light"> -->
-      <!--   <a href="https://goo.gl/forms/lVwFi8lR0YtOyhBQ2" target="_blank"> -->
-      <!--     {% if site_lang == 'en' %} -->
-      <!--     Apply to become a researcher -->
-      <!--     {% else %} -->
-      <!--     Araştırmacı olmak için başvur -->
-      <!--     {% endif %} -->
-      <!--   </a> -->
-      <!-- </button> -->
-    </div>
     </div>
 
 
-    <div class="container">
-      <div>
-      <!-- <div class="table-responsive"> -->
-        <table id="coin-table" class="sortable table table-light table-striped table-bordered">
-          <thead>
+    <div class="container mb-4">
+      <div class="text-center mt-5 mb-4">
+        <h1 class="h3">
+        {% if site_lang == 'en' %}
+        Fundamental Analysis of 100+ Crypto Assets
+        {% else %}
+        100+ Kripto Varlığın Temel Analizi
+        {% endif %}
+        </h1>
+      </div>
+
+
+      <table id="coin-table" class="sortable table responsive">
+        <thead>
           <tr>
             <th>
               {% if site_lang == 'en' %}
@@ -71,7 +59,7 @@ layout: compress
               {% endif %}
             </th>
 
-            <th>
+            <th class="text-center">
               {% if site_lang == 'en' %}
               Summary
               {% else %}
@@ -79,7 +67,7 @@ layout: compress
               {% endif %}
             </th>
 
-            <th data-toggle="tooltip" data-placement="top" data-html="true" title="
+            <th class="text-center" data-toggle="tooltip" data-placement="top" data-html="true" title="
 4: Definitely buy this coin.
 <br>
 3: This is one of the best coins I’ve seen.
@@ -98,14 +86,14 @@ layout: compress
               {% endif %}
             </th>
 
-            <th style="width: 8em;">
+            <th class="text-center">
               {% if site_lang == 'en' %}
               Date
               {% else %}
               Tarih
               {% endif %}
             </th>
-            <th>
+            <th class="text-center">
               {% if site_lang == 'en' %}
               Researcher
               {% else %}
@@ -126,20 +114,20 @@ layout: compress
               <!-- <a href="{{ coin.url | prepend: site.baseurl }}">{{ coin.name }}</a> -->
               {{ coin.name }}
             </td>
-            <td>
+            <td class="text-center">
               <a href="{{ analysis.url | prepend: site.baseurl }}" target="_blank">
                 {{ analysis.tldr }}
               </a>
             </td>
-            <td>{{ analysis.score }}</td>
-            <td sorttable_customkey="{{ analysis.date | date: '%Y%m%d000000' }}">
+            <td class="text-center">{{ analysis.score }}</td>
+            <td class="text-center">
               {% if site_lang == 'en' %}
               {{ analysis.date | date: '%B %d, %Y' }}
               {% else %}
               {{ analysis.date | date: ' %d.%m.%Y' }}
               {% endif %}
             </td>
-            <td>
+            <td class="text-center">
               <!-- <a href="{{ researcher.url | prepend: site.baseurl }}">{{ researcher.name }}</a> -->
               {% if researcher.twitter %}
               <a href="https://twitter.com/{{ researcher.twitter }}" target="_blank">
@@ -157,13 +145,10 @@ layout: compress
           {% endfor %}
           {% endfor %}
           </tbody>
-        </table>
-      </div>
+      </table>
     </div>
 
-    <div class="container">
-      {% include main/footer.html %}
-    </div>
+    {% include main/footer.html %}
 
     {% include externals/scripting.html %}
 </body>

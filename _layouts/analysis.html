@@ -21,11 +21,11 @@ layout: compress
   <body>
     {% include main/header.html %}
 
-    <div class="container mt-3">
+    <div class="container mt-4">
 
       {% for coin in site.coins %}
       {% if coin.slug == page.coin %}
-      <h1>{{ coin.name }}</h1>
+      <h1 class="h3">{{ coin.name }}</h1>
       {% endif %}
       {% endfor %}
 
@@ -81,18 +81,18 @@ layout: compress
       <!-- {% endif %} -->
 
       {% if site_lang == 'en' %}
-      <h2>Analysis</h2>
+      <h2 class="h4">Analysis</h2>
       {% else %}
-      <h2>Analiz</h2>
+      <h2 class="h4">Analiz</h2>
       {% endif %}
 
       {{ page.content }}
 
       {% if page.conclusion %}
       {% if site_lang == 'en' %}
-      <h2>Conclusion</h2>
+      <h2 class="h4">Conclusion</h2>
       {% else %}
-      <h2>Sonuç</h2>
+      <h2 class="h4">Sonuç</h2>
       {% endif %}
 
       <p>
@@ -103,7 +103,7 @@ layout: compress
       </div>
 
 
-    <div class="call-to-action my-4 py-3 bg-gradient-info">
+    <div class="call-to-action mt-4 py-3 bg-gradient-primary">
       <!-- <div class="mb-3"> -->
 
       <!--   <\!-- <h1> -\-> -->
@@ -130,9 +130,7 @@ layout: compress
       </button>
     </div>
 
-    <div class="container">
-      {% include main/footer.html %}
-    </div>
+    {% include main/footer.html %}
 
     {% include externals/scripting.html %}
   </body>

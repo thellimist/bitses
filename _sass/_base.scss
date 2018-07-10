@@ -158,3 +158,50 @@ button > a, button > a:hover, button > a:focus {
 .nounderline {
     text-decoration: none!important;
 }
+
+// #coin-table th, td {
+//     // text-align: center;
+//     // border-bottom: 1px solid #ddd;
+// }
+
+.flag {
+    margin: 0;
+    // display: inline;
+}
+
+.flag-other {
+    margin: 0;
+    // display: inline;
+    opacity: 0.4;
+}
+
+
+.call-to-action {
+    // padding: 2em;
+    // background-color: #5e5e5e;
+    // width: 130%;
+    // margin-bottom: 3em;
+    text-align: center;
+}
+
+.call-to-action  h1 {
+    font-size: 2rem;
+    color: white;
+    font-weight: bold;
+}
+
+.call-to-action p {
+    color: white;
+}
+
+.call-to-action button {
+    white-space: inherit!important;
+}
+
+
+
+.custom-shadow {
+    -webkit-box-shadow: 0px 0px 4px 1px rgba(194,194,194,1);
+    -moz-box-shadow: 0px 0px 4px 1px rgba(194,194,194,1);
+    box-shadow: 0px 0px 4px 1px rgba(194,194,194,1);
+}
