@@ -1,7 +1,7 @@
 ---
 layout: analysis
 coin: aeternity
-tldr: "smart contracts interfacing with real world data"
+tldr: "Smart Contracts Interfacing with Real World Data"
 score: 1
 researcher: dorukoguz
 date: 2018-05-19
