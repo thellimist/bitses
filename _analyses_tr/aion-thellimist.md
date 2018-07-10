@@ -16,4 +16,3 @@ conclusion: "Technology doesn’t exist yet. They need to figure out how to do i
 
 Questions:
 - Can the team solve interoperability problem?
-hahahtaeahaeadfdfgdjjlk
