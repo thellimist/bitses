@@ -185,12 +185,11 @@ layout: compress
           <tr>
             <td data-order="{{ coin.name }}" class="align-middle">
               <!-- <a href="{{ coin.url | prepend: site.baseurl }}">{{ coin.name }}</a> -->
-              <!-- <img src="{{ '.png' | prepend: coin.slug | prepend: '/assets/img/icons/16x16/' | prepend: site.baseurl }}" height="16" width="16"> -->
-              {% if coin.cmc_idx %}
-              <img class="logo-sprite" src="{{ '.png' | prepend: coin.cmc_idx | prepend: 'https://s2.coinmarketcap.com/static/img/coins/16x16/' }}" height="16" width="16">
-              {% else %}
-              <img class="logo-sprite" src="{{ '/assets/img/16x16_placeholder.png' | prepend: site.baseurl }}" height="16" width="16">
-              {% endif %}
+              <!-- {% if coin.cmc_idx %} -->
+              <!-- <img class="logo-sprite" src="{{ '.png' | prepend: coin.cmc_idx | prepend: 'https://s2.coinmarketcap.com/static/img/coins/16x16/' }}" height="16" width="16"> -->
+              <!-- {% else %} -->
+              <!-- <img class="logo-sprite" src="{{ '/assets/img/16x16_placeholder.png' | prepend: site.baseurl }}" height="16" width="16"> -->
+              <!-- {% endif %} -->
               <span>{{ coin.name }}</span>
             </td>
             <td class="text-center align-middle">
