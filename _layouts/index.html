@@ -110,25 +110,30 @@ layout: compress
           {% for researcher in site.researchers %}
           {% if analysis.researcher == researcher.slug %}
           <tr>
-            <td>
+            <td data-order="{{ coin.name }}" class="align-middle">
               <!-- <a href="{{ coin.url | prepend: site.baseurl }}">{{ coin.name }}</a> -->
-              <!-- <img class="logosvg" src="{{ '.png' | prepend: coin.slug | prepend: '/assets/img/icons/16x16/' | prepend: site.baseurl }}" height="16" width="16"> -->
-              {{ coin.name }}
+              <!-- <img src="{{ '.png' | prepend: coin.slug | prepend: '/assets/img/icons/16x16/' | prepend: site.baseurl }}" height="16" width="16"> -->
+              {% if coin.cmc_idx %}
+              <img class="logo-sprite" src="{{ '.png' | prepend: coin.cmc_idx | prepend: 'https://s2.coinmarketcap.com/static/img/coins/16x16/' }}" height="16" width="16">
+              {% else %}
+              <img class="logo-sprite" src="{{ '/assets/img/16x16_placeholder.png' | prepend: site.baseurl }}" height="16" width="16">
+              {% endif %}
+              <span>{{ coin.name }}</span>
             </td>
-            <td class="text-center">
+            <td class="text-center align-middle">
               <a href="{{ analysis.url | prepend: site.baseurl }}" target="_blank">
                 {{ analysis.tldr }}
               </a>
             </td>
-            <td class="text-center">{{ analysis.score }}</td>
-            <td class="text-center">
+            <td class="text-center align-middle">{{ analysis.score }}</td>
+            <td class="text-center align-middle" data-order="{{ analysis.date | date: '%Y%m%d' }}">
               {% if site_lang == 'en' %}
               {{ analysis.date | date: '%B %d, %Y' }}
               {% else %}
               {{ analysis.date | date: ' %d.%m.%Y' }}
               {% endif %}
             </td>
-            <td class="text-center">
+            <td class="text-center align-middle">
               <!-- <a href="{{ researcher.url | prepend: site.baseurl }}">{{ researcher.name }}</a> -->
               {% if researcher.twitter %}
               <a href="https://twitter.com/{{ researcher.twitter }}" target="_blank">

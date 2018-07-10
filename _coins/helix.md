@@ -1,4 +1,4 @@
 ---
 layout: coin
-name: helix
+name: Helix
 ---

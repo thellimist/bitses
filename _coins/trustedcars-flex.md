@@ -1,4 +1,4 @@
 ---
 layout: coin
-name: Trustedcars Flex
+name: TrustedCars Flex
 ---

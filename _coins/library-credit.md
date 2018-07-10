@@ -1,4 +1,5 @@
 ---
 layout: coin
-name: Library Credit
+name: Library Credits
+cmc_idx: 1298
 ---
