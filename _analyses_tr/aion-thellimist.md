@@ -1,18 +1,17 @@
-﻿---
+---
 layout: analysis
 coin: aion
-tldr: "Interoperable Chain"
+tldr: "Birlikte işlerlik zincir"
 score: 1
 researcher: thellimist
 date: 2018-05-04
-conclusion: "Technology doesn’t exist yet. They need to figure out how to do it first. Who knows if they can actually pull it off. Interoperability is still a really hard problem."
+conclusion: "Teknolojileri yok. İlk önce onu nasıl yapacaklarını çözmeleri lazım. Gerçekten yapılabilir olduğuna emin değilim çünki birlikte işlerlik çok zor bir problem."
 ---
 
-- Aion solves interoperability problem using bridges. Their system is broadly well thought however the more you dive the harder and complicated it gets.
-- The way they look at the problem is better than Ark and Cardano. They plan to have bridge networks which can proxy other bridges rather than connecting all blockchains with each other.
-- They have good marketting material however its hard to understand how they are solving the problem. So technical content almost do not exist except for whitepaper.
-- Their solution doesnt work yet.
-- It looks like CEO is focussed on finding people who can solve the problem.
+- Aion birlikte işlerlik problemini çözmek için köprü kullanıyor. Sİstemleri ayrıntılı olarak güzelce düşünülmüş ama derine gittikce daha zor ve komplike bir hal alıyor. 
+- Probleme yanaşmaları Ark ve Cardano’dan daha iyi. Bütün blok zincirlerini bir-birine bağlamak yerine diğer köprülere vekil sunucu(Proxy) ola bilecek bir köprü ağı yapmayı planlıyorlar. 
+- Güzel pazarlama malzemeleri olsa da problemi nasıl çözdüklerini anlamak zor. Yani teknik içerik teknik tanıtım belgesinden uzağa gitmemiş. 
+- Çözümleri daha çalışmıyor. 
+- İcra kurulu başkanı(CEO) problemi çözecek birilerini arıyor gibi görünüyor. 
 
-Questions:
-- Can the team solve interoperability problem?
+- Soru: Takım birlikte işlerlik problemini çöze bilir mi?
