@@ -117,9 +117,9 @@ layout: compress
       <!-- </div> -->
       <button type="button" class="btn btn-light">
         {% if site_lang == 'en' %}
-        <a href="/" class="text-dark">
+        <a href="{{ '/' | prepend: site.baseurl }}" class="text-dark">
         {% else %}
-        <a href="/tr" class="text-dark">
+        <a href="{{ '/tr' | prepend: site.baseurl }}" class="text-dark">
         {% endif %}
           {% if site_lang == 'en' %}
           Check out more Reviews
