@@ -21,7 +21,7 @@ Artılar
 Eksiler 
 
 - Ne yapmak istediklerini tam anlayamadım. 
-- internetten haklarında hiç bir bilgi edinemedim. Twritter hesapları çalışmıyor, Reddit hesapları yok, her hangi bir duyuruları yok, teknik tanıtım belgeleri yok.
+- Internetten haklarında hiç bir bilgi edinemedim. Twritter hesapları çalışmıyor, Reddit hesapları yok, her hangi bir duyuruları yok, teknik tanıtım belgeleri yok.
 
 
 
