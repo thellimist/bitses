@@ -1,7 +1,7 @@
 ---
 layout: analysis
 coin: harmony
-tldr: "Büyük ölçüde ölçeklenebilir oybirliği platform"
+tldr: "Büyük ölçüde ölçeklenebilir oybirliği platformu"
 score: 0
 researcher: demiculus
 date: 2018-05-25
@@ -24,20 +24,20 @@ Kaynaklar
 
 Artılar
 
-- Takımda eskiden Google'da ve Apple'da çalışmış insanlar,doktora öğrencileri var.
-- Kurucu Spotsetter Şirketini  Apple'a satmış.
+- Takımda eskiden Google'da ve Apple'da çalışmış insanlar ve doktoralılar var.
+- Kurucu Spotsetter şirketini Apple'a satmış.
 
 Eksiler
 
-- Takımı çok vurgulamışlar ama takımın blok zinciri tecrübesi varmış gibi görünmüyor. Bir fırsat görüp, burdan çok para kazanabileceklerini düşünüp atlamışa benziyorlar.
-- Takımın akıllı olduğunu ve belirli bir miktar para toplayabileceğini düşünüyorum ama her şeyiyle çalışan sonrakı blok zinciri yaratabileceklerini düşünmüyorum.
-- Takım yeni biraraya gelmiş(Mayıs 2018). Blokzinciri öncelikli bir kodlama yapmamışlar. Bir çok teknoloji araştırmışlar ama bizim başkalarına teknoloji seçmekte danışmanlık yaptığımız gibi onların da danışmanı X ya da Y teknolojisini kullanmalarını söylemiş. 
-- Eylül 2017'de yeni çöp bir yazılım dili yaratmışlar ama spesifik olarak kullanıla bileceği bir alan göremedim. Ekim 2017'den beri de güncellememişler.
-- Anladığım kadarı ile kurucu yazılım dilini 10 yıldır geliştiriyor. Ama dilin hiç bir topluluğu, kullanıcıları yok. Bu da yazılım dilinin tam bir çöp ve pazarlama oyunu olduğunu gösteriyor. 
+- Tanıtımlarında takımı çok vurguluyorlar ama takımın blok zinciri tecrübesi varmış gibi görünmüyor. Bir fırsat görüp, burdan çok para kazanabileceklerini düşünüp atlamışa benziyorlar.
+- Takımın akıllı olduğunu ve belirli bir miktar para toplayabileceğini düşünüyorum ama her şeyiyle çalışan ve kullanılan yenilikçi bir blok zinciri yaratabileceklerini düşünmüyorum.
+- Takım yeni biraraya gelmiş(Mayıs 2018). Nerdeyse hiç bir kodlama yapmamışlar. Bir çok teknoloji araştırmışlar ama bizim başkalarına teknoloji seçmekte danışmanlık yaptığımız gibi onların da danışmanı X ya da Y teknolojisini kullanmalarını söylemiş gibiler.
+- Eylül 2017'de yeni çöp bir yazılım dili yaratmışlar ama spesifik olarak kullanılabileceği bir alan göremedim. Ekim 2017'den beri de güncellememişler.
+- Anladığım kadarı ile kurucu yazılım dilini 10 yıldır geliştiriyor. Ama dilin hiç bir tapikçisi, kullanıcısı yok. Bu da yazılım dilinin tam bir çöp ve pazarlama oyunu olduğunu gösteriyor. 
 - Teknik tanıtım belgeleri güzel görünüyor. 
     - Ama tam teknik tanıtım belgesi gibi de değil. Çoğunlukla hangi teknolojiyi sistemlerine nasıl dahil edeceklerini anlatmışlar.
     - Teknolojinin özünde bir innovasyon yapmasalar da en iyi teknolojiyi seçmek için zaman ayırmışlar(muhtemelen isimlerini danışmanlarından alıp en iyi olasılıkları kendileri araştırmamışlardır)
     - İnovasyonları konum bazlı kahin(oracle) yapmaları (pazarlama oyununa benziyor.)
-    - Diğer bir inovasyonları kendi yazılım dilleri olması(Bu yazılım dilinin gerçekten yararlı mı yoksa çöp mü olduğunu tam kestiremedim) SQL,HTML,Javascript için daha iyi sintaksı olduğunu söylüyor ve ben bunun bir çöp olduğuna inanıyorum)A
-- Token ekonomi modelleri bana bir kaç yıla bütün koinlerini satacaklarını, her kes zengin olduktan sonra marketten çıkacaklarını söylüyor.
-- Her ay koinlerden faiz alıyorlar, sadece %28'i 4 yıllık kitli. Çıkma sahtekarlığını 4 yıl bitmeden yapa bilirler. ICO'dan maaş parası alıyorlar.Her ay koinlerinin %1.5'ini piyasaya sürmek için hiç bir gerekçeleri yok.
+    - Diğer bir inovasyonları kendi yazılım dilleri olması(Bu yazılım dilinin gerçekten yararlı mı yoksa çöp mü olduğunu tam kestiremedim) SQL,HTML,Javascript için daha iyi sintaksı olduğunu söylüyor ve ben bunun bir çöp olduğuna inanıyorum)
+- Token ekonomi modelleri bana bir kaç yıla bütün koinlerini satacaklarını ve ekipteki herkes zengin olduktan sonra marketten çıkacaklarını gösteriyor.
+- Her ay kilitli koinlerinin belli bir %sini alıyorlar. Sadece %28'i 4 yıllık kitli. 4 yıl bitmeden projeyi bırakıp paralarla kaçabilirler. ICO'dan maaş parası alıyorlar. Her ay koinlerinin %1.5'ini piyasaya sürmek için hiç bir gerekçeleri yok.
