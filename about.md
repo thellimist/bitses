@@ -19,7 +19,7 @@ We were already doing research for our investments. But the more we have seen ou
 friends get scammed by ICOs, the more we felt the need to share our knowledge.
 We are open sourcing all of our data. We are hoping we can
 contribute to the field by being the most honest research group and exposing scams
-as much as possible.
+as much as possible. (Disclaimer: Bitses does not reflect individual researchers opinion)
 
 ## What You Can Do
 
@@ -37,4 +37,3 @@ launched.
 
 We're also working on [a wallet holder](http://mywallets.co/). You can get your
 username at [mywallets.co](http://mywallets.co/) before anyone else gets it.
-
