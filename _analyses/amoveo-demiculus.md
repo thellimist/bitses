@@ -8,24 +8,32 @@ date: 2018-05-15
 conclusion: "Tech seems to be strong but the path to market domination is not clear. Zack(founder) has some ideas here: https://www.reddit.com/r/Amoveo/comments/8j91ik/good_tech_but_what_is_the_path_to_market/ so we need to watch & see how it evolves.\nI believe it will increase in price as people discover this gem. Could easily get to top 100 and probably top 30 on coinmarketcap.com."
 ---
 
-- is not on any exchange, did not do ico
-- Founder (zack) implemented Augur & Aeternity which stil have not launched. Amoveo has launched in Mar'18
-- Zack is a solo founder, doesn't have a team, needs a business/marketing guy to make this project grow faster
-- Has managed to attract good developers & built a strong early community
-- Naval & Nick Szabo follows him on twitter
-- They do everything from github, there is no website or anything like that.
+General
+
 - Mcap is at $6M but it has only been mined for 2 months. Thus a lot of the coins have not been created.
-- This means that the market cap will increase dramatically but not the coin price. Also there is an in built governance system where people decide how many coins are going to be generated.
-- Which means miners will capture most of the value not investors.
 - They create a prediction market where people bet on predictions and the results are concluded with oracles.
+- There is an in built governance system(Futarchy) where the chain can decide how many coins are going to be generated.
 - Uses pow (nakamoto consensus)
 - In their mission statement they say Amoveo is for derivatives: https://github.com/zack-bitcoin/amoveo/blob/master/docs/mission_statement.md
-- Derivative markets are highly developed in developed countries so their target market is southeast asia & africa
+- Derivative markets are highly developed in developed countries so I believe their target market is southeast asia & africa
 - They have 2 way channels & also lightning network for multi people trades
 - Smart contracts are in channels
 - Amoveo has derivatives not subcurrencies where you can exchance euro, lira, bitcoin, wheat, coffee, oil etc. which are the same price as real market
 - Nash equilibrium makes sure people are hones in oracles, when people are dishonest forks people who think the right way will just move to the right fork, miners will defend the right fork for more capial gain
+
+Pros
+
+- It is not on any exchange, did not do ico (oppourtunity here)
+- Founder (zack) implemented Augur & Aeternity which stil have not launched. Amoveo has launched in Mar'18
+- Has managed to attract good developers & built a strong early community
+- Naval & Nick Szabo follows him on twitter
+- They do everything from github, there is no website or anything like that.
 - Zack has lived with Jae Kwon creator of tendermint for a couple months.
+
+
+Cons
+
+- Zack is a solo founder, doesn't have a team, needs a business/marketing guy to make this project grow faster. Also as I dug deeper into his code he needs a senior developer for fixing Amoveo code issues.
 
 Questions
 

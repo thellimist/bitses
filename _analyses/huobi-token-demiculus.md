@@ -8,56 +8,33 @@ date: 2018-06-17
 conclusion: "It is currently undervalued and it wouldn't be a false assumption if it increased 2x in price according to the market."
 ---
 
-- https://coinsutra.com/crypto-exchange-coins-dividends-fees-reductions/
+General
 
-0.81x
-Coin: https://coinmarketcap.com/currencies/kucoin-shares/ 30M
-Exchange: https://coinmarketcap.com/exchanges/kucoin/ 37M
+Centralized exchanges
 
-0.35x
-Coin: https://coinmarketcap.com/currencies/huobi-token/ 285M
-Exchange: https://coinmarketcap.com/exchanges/huobi/ 800M
+- KuCoin Shares MarketCap/DailyVolume = 30M/37M = 0.81
+- Huobi Token MarketCap/DailyVolume = 285M/800M = 0.35
+- Binance Coin MarketCap/DailyVolume = 1.8B/1.2B = 1.5
+- Bibox Token MarketCap/DailyVolume = 168M/178M = 0.94
+- Cryptopia Fee Shares Token MarketCap/DailyVolume = 1.4M/7M = 0.2
+- Cobinhood MarketCap/DailyVolume = 22MB/800K = 27.5
 
-1.5x
-Coin: https://coinmarketcap.com/currencies/binance-coin/ 1.8B
-Exchange: https://coinmarketcap.com/exchanges/binance/ 1.2B
+Decentralized Exchanges 
 
-0.94x
-Coin: https://coinmarketcap.com/currencies/bibox-token/ 168M
-Exchange: https://coinmarketcap.com/exchanges/bibox/ 178M
+- 0x MarketCap/DailyVolume = 685M/3M = 228x
+- Bridge Coin MarketCap/DailyVolume = 50M/1M = 50x
+- Aurora Dao MarketCap/DailyVolume = 20M/10M = 2x
+- Waves MarketCap/DailyVolume = 450M/5M = 90x
+- Bitshares MarketCap/DailyVolume = 570M/1M = 570x
+- Stellar MarketCap/DailyVolume = 5.4B/160K = 33750x
 
-0.2x
-Coin: https://coinmarketcap.com/currencies/cryptopiafeeshares 1.4M
-Exchange: https://coinmarketcap.com/exchanges/cryptopia/ 7M
+Stellar isn't only a dex but many other things as well thus it is normal for it to have such a high ratio.
 
-27.5x
-Coin: https://coinmarketcap.com/currencies/cobinhood/ 22M
-Exchange: https://coinmarketcap.com/exchanges/cobinhood/ 800K
+Pros
 
-Decentralized Exchanges (Dex)
-228x
-Coin: https://coinmarketcap.com/currencies/0x/ 685M (dex)
-Exchange: https://0xtracker.com/ 3M (dex)
+- Huobi token is in the same category as binance, kucoin, bibox thus it wouldn't be too far off to say that it easily has the potential to increase 2x+
+- Huobi token will also be used the same way as BNB though since they aren't claiming they are making a dex and has less hype around it, it is noral for it not to be as valuable or as hyped as bnb.
+	
+Cons
 
-50x
-Coin: https://coinmarketcap.com/currencies/bridgecoin/ 50M (dex)
-Exchange: https://coinmarketcap.com/exchanges/cryptobridge/ 1M (dex)
-
-2x
-Coin: https://coinmarketcap.com/currencies/aurora-dao/ 20M (dex)
-Exchange: https://coinmarketcap.com/exchanges/idex/ 10M (dex)
-
-90x
-Coin: https://coinmarketcap.com/currencies/waves/ 450M (dex)
-Exchange: https://coinmarketcap.com/exchanges/waves-dex/ 5M (dex)
-
-570x
-Coin: https://coinmarketcap.com/currencies/bitshares/ 570M (dex)
-Exchange: https://coinmarketcap.com/exchanges/openledger/ 1M (dex)
-
-33750x
-Coin: https://coinmarketcap.com/currencies/stellar/ 5.4B (dex)
-Exchange: https://coinmarketcap.com/exchanges/stellar-decentralized-exchange/ 160K (dex)
-
-Huobi token is in the same category as binance, kucoin, bibox thus it wouldn't be too far off to say that it easily has the potential to increase 2x+
-Huobi token will also be used the same way as bnb token though since they aren't claiming they are making a dex it is normal for it not to be as valuable or as hyped as bnb.
+- When I trade on huobi it doesn't take my HT as trading fee yet. 

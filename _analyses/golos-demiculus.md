@@ -8,8 +8,10 @@ date: 2018-05-11
 conclusion: "Steemit wasn't a good investment, too much coin generation thus while the market cap increases the investor doesn't benefit as much. Thus this coin will probably have a similar fate."
 ---
 
+General
+
 - Code forked from steemit
-- They have been in the market since the beginning of this year with a market cap of $10M (steemit: $870M)
+- They have been in the market since the beginning of 2018 with a market cap of $10M (steemit: $870M)
 - Similarweb
     - Visits: Steem - 30M, Golos -1.5M
     - Global Rank: Steem - 1775, Golos - 39000
@@ -18,7 +20,12 @@ conclusion: "Steemit wasn't a good investment, too much coin generation thus whi
 - Alexa
     - Global rank: Steem: 1400 - Golos: 56000
     - Country rank: Steem: 1500 - Golos: 8000
+
+Pros
+
 - If they are able to increase their russian rank to 2k the token price will probably increase more than 4x.
+
+Cons
 
 Questions:
 1. What is the projected growth of the site?
