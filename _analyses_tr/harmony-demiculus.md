@@ -1,43 +1,43 @@
 ---
 layout: analysis
 coin: harmony
-tldr: "Highly scalable consensus platform"
+tldr: "Büyük ölçüde ölçeklenebilir oybirliği platform"
 score: 0
 researcher: demiculus
 date: 2018-05-25
-conclusion: "- They will probably be able to do a version of a blockchain (by using other peoples tech)\n- I don't believe they will be one of the standing blockchains after this era has passed.\n- I do believe (80%) they will be able to pump their token price.\n- It might be wise to buy some in the private sale from our trading account and then dump when we feel like it has pumped enough\n- It has a really high chance of being a top 100 coin or even top 50 coin. "
+conclusion: "- Muhtelemen blok zincirinin yeni bir versiyonunu yapacaklar (başkalarının yaptığı teknolojiyi kullanarak)\n- Ama bu dönemden sonra artık hala geçerli olan bir blok zinciri olmaya devam edeceklerini sanmıyoum.\n- 80% ihtimalle token fiyatını artıracaklarına inanıyorum.\n- Biraz alıp fiyatının yeteri kadar yükseldiğini düşününce satmak mantıklı olabilir.\n- İlk 100, hatta 50 koin arasına çıkması yüksek bir ihtimal. "
 ---
 
-General
+Genel
 
-- Uses OmniLedger
-- Uses block-Dag instead of blockchain
-- 2018 Q3 they will do private sale which will have 20% bonus
-- 2018 Q4 they will do final sale
-- 2018 Q4 public mining will be ready
-- 2019 list on exchanges
+- OmniLedger kullanıyor
+- Blok zinciri yerine block-Dag kullanıyor.
+- 2018 3. çeyrekte %20 bonuslu özel satış yapacaklar.
+- 2018 4. çeyrekte son satışı yapacaklar.
+- 2018 4.çeyrekte madencilik her kese açık olacak.
+- 2019 borsada listelenecek
 
-Sources
+Kaynaklar
 
 - http://simple-rules.com/tech
 - https://icodrops.com/harmony/
 
-Pros
+Artılar
 
-- Team has ex-google/apple & phds
-- Founder sold company spotsetter to apple
+- Takımda eskiden Google'da ve Apple'da çalışmış insanlar,doktora öğrencileri var.
+- Kurucu Spotsetter Şirketini  Apple'a satmış.
 
-Cons
+Eksiler
 
-- They have emphisized too much on the team but it looks like the team had no prior blockchain experience. They saw an oppourtunity and decided they could make a lot of money from it.
-- I believe this team is smart & that they can raise some amount of money but I don't believe they will be able to create the next all working blockchain.
-- They have just gotten together(May 2018), have done near no prior coding, they have researched many techs but I believe their advisors told them to to just use tech X, tech Y just like we are advising other companies.
-- In Sep 2017 they've written a shitty new language which I couldn't see a niche/specific use case. It is ugly and they haven't updated it since October 2017.
-- As I understood the founder has been developing the coding language for 10 years. But the lang has no community, no users, so it is shit, just a marketing ploy.
-- Their white paper looks pretty good.
-    - It is not like a technical white paper but they mostly mention how they are going to use which tech to include in to their system.
-    - They're not doing innovation in core tech but they've spent time selecting the best ones to use (which they probably just got the names from advisors and didn't even research all the possibilities themselves)
-    - Their innovation is in location based oracles (sounds like marketing ploy)
-    - Another innovation is in their own programming language (I didn't understand if the language will be actually useful or shit) It had things like better syntax for sql, html, javascript which I believe makes it shit)
-- Their token economic model shows me that they plan on dumping their coins slowly and in a few years all become filthy fucking rich and exit the market.
-- They get a percentage of the coins every month, only %28 is locked up for 4 years. They might do their exit scam before the 4 years is up. They already have salaries from the ICO money, they have no justification to release %1.5 of their coins every month)
+- Takımı çok vurgulamışlar ama takımın blok zinciri tecrübesi varmış gibi görünmüyor. Bir fırsat görüp, burdan çok para kazanabileceklerini düşünüp atlamışa benziyorlar.
+- Takımın akıllı olduğunu ve belirli bir miktar para toplayabileceğini düşünüyorum ama her şeyiyle çalışan sonrakı blok zinciri yaratabileceklerini düşünmüyorum.
+- Takım yeni biraraya gelmiş(Mayıs 2018). Blokzinciri öncelikli bir kodlama yapmamışlar. Bir çok teknoloji araştırmışlar ama bizim başkalarına teknoloji seçmekte danışmanlık yaptığımız gibi onların da danışmanı X ya da Y teknolojisini kullanmalarını söylemiş. 
+- Eylül 2017'de yeni çöp bir yazılım dili yaratmışlar ama spesifik olarak kullanıla bileceği bir alan göremedim. Ekim 2017'den beri de güncellememişler.
+- Anladığım kadarı ile kurucu yazılım dilini 10 yıldır geliştiriyor. Ama dilin hiç bir topluluğu, kullanıcıları yok. Bu da yazılım dilinin tam bir çöp ve pazarlama oyunu olduğunu gösteriyor. 
+- Teknik tanıtım belgeleri güzel görünüyor. 
+    - Ama tam teknik tanıtım belgesi gibi de değil. Çoğunlukla hangi teknolojiyi sistemlerine nasıl dahil edeceklerini anlatmışlar.
+    - Teknolojinin özünde bir innovasyon yapmasalar da en iyi teknolojiyi seçmek için zaman ayırmışlar(muhtemelen isimlerini danışmanlarından alıp en iyi olasılıkları kendileri araştırmamışlardır)
+    - İnovasyonları konum bazlı kahin(oracle) yapmaları (pazarlama oyununa benziyor.)
+    - Diğer bir inovasyonları kendi yazılım dilleri olması(Bu yazılım dilinin gerçekten yararlı mı yoksa çöp mü olduğunu tam kestiremedim) SQL,HTML,Javascript için daha iyi sintaksı olduğunu söylüyor ve ben bunun bir çöp olduğuna inanıyorum)A
+- Token ekonomi modelleri bana bir kaç yıla bütün koinlerini satacaklarını, her kes zengin olduktan sonra marketten çıkacaklarını söylüyor.
+- Her ay koinlerden faiz alıyorlar, sadece %28'i 4 yıllık kitli. Çıkma sahtekarlığını 4 yıl bitmeden yapa bilirler. ICO'dan maaş parası alıyorlar.Her ay koinlerinin %1.5'ini piyasaya sürmek için hiç bir gerekçeleri yok.
