@@ -29,3 +29,7 @@ Cons
 - Fork of bitcoin
 - They try to prevent asics
 - Their github seems to be all readme updates, they claim they are working on private but it looks fishy: https://www.reddit.com/r/Ravencoin/comments/8oxsh2/where_is_the_real_code/
+- Watched bruces video, he is selling dreams, doesn’t say anything about how & why raven coin can succeed. There is nothing concrete. He is just promoting an open source project.
+- It might pump a lot but I don’t see any way this coin will stay alive and be useful in 5 years.
+- I don’t have enough knowledge in the asset coin market thus I’m not sure, but this coin doesn’t feel right.
+https://www.reddit.com/r/Ravencoin/comments/8p77s2/what_is_ravens_unique_selling_point/e0a8rqq/
