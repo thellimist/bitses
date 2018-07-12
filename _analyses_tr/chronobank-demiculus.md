@@ -8,19 +8,19 @@ date: 2018-05-11
 conclusion: "Çöp koin ama son ayda agresif bir şekilde pazarlama yapıyorlar. Başarılı olsalar fiyatta bir artış görüle bilir. Aksi takdirde tam bir kayıp. Bu halde yatırım yapmak, pazarlama becerileri üzerinden kumar oynamak gibi bir şey."
 ---
 
-General
+Genel
 
 - ERC20 tokenı
-- Kodlarının 90%’ı javascript ile yazılmış.
+- Kodlarının %90’ı javascript ile yazılmış.
 - Son yılda fazla bir geliştirme yapmamış olsalar da, son ayda tüm github yazılım havuzlarında(repository) bir güncelleme yapmışlar.
 - ICO’ları Şubat 2017’de bitmiş.( $5milyon toplamışlar)
 - Labor adlı stabil bir token yaratacaklarını söylüyorlar. Token yarım merkezleşmiş olacak ve serbest meslek erbablarının ödemesini yapmak için kullanılacak.  
 
-Pros
+Artılar
 
-- Kurucu kendisini SingularityNet danışmanı gibi göstermiş ama SingularityNet sitesinde öyle bir şey yok. Takıma e-posta gönderdim. 
+- Kurucu kendisini SingularityNet danışmanı gibi göstermiş ama SingularityNet sitesinde öyle bir bilgi yok. SingularityNet takımına e-posta gönderdim ve öyle bir şeyin olmadığını söylediler.
 
-Cons
+Eksiler
 
 - dApp’leri için kullandıkları teknolojileri sitelerinde partner gibi göstermişler(ethereum,0x,waves vs.)
 - Telegramında 55bin üyesi olmasına rağmen faaliyet çok düşük. 8binlik Skycoin grubundakı faaliyet onlarınkından 100kat fazla. 
