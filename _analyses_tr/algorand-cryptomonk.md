@@ -12,16 +12,20 @@ conclusion: "Ölçeklenebilirlik sorununu çözebilir ve diğer protokollerle ol
 - Ekibin büyük çoğunluğu MIT doktora derecesine sahip kişilerden oluşmaktadır, geri kalanlar Stanford, Berkeley, Brown vb. okul mezunlarıdır.
 - Alessandro Chiesa (Starware kurucusu) (Sıfır Bilgi İspatı alanında uzmandır) danışman olarak yer almaktadır.
 - Naval Ravikant (Metastable Capital kurucusu) danışman olarak yer almaktadır.
-- Genel olarak oldukça yetenekli bir ekip ve danışmanlardan oluşmaktadır.
-- Kapsamlı ve teknik tanıtım belgesi.
 - Ölçeklenebilirlik sorununu çözüyor, fakat sonuç olarak hangi protokolün kazanacağı belirli değil.
 - Pillar ve Union Square Ventures tarafından 4 Milyon dolarlık başlangıç fonu topladı.
 - ICO konusunda herhangi bir bilgi yoktur, normal bir yatırımcı olarak pay almak muhtemelen imkansızdır.
 - Tokenlerin %10’u için 50 Milyon dolar talep edilmektedir.
 - Minimum yatırım 2 Milyon dolardır (bu bilginin onaylanması gerekmektedir).
-- Şuan için herhangi bir yüksek talep yoktur.
 
-Endişelerim.
-Hangi protokol yarışı kazanacaktır? (Avalanche, algorand vb.)
-500 Milyon dolarlık değer biçimi biraz fazladır.
-Minimum yatırım tutarı çok yüksek, sadece en büyük oyuncuların yatırım yapmasını istiyorlar.
+Artılar
+
+- Kapsamlı ve teknik tanıtım belgesi.
+- Genel olarak oldukça yetenekli bir ekip ve danışmanlardan oluşmaktadır.
+
+Eksiler
+
+- Hangi protokol yarışı kazanacaktır? (Avalanche, algorand vb.)
+- 500 Milyon dolarlık değer biçimi biraz fazladır.
+- Minimum yatırım tutarı çok yüksek, sadece en büyük oyuncuların yatırım yapmasını istiyorlar.
+- Şuan için herhangi bir yüksek talep yoktur.
