@@ -8,7 +8,7 @@ date: 2018-05-09
 conclusion: "Gizlilikten kaçınarak yaptıklarını göz önüne seren blok zinciri. Akıllı takım. Etrafındakı kültür ve zekadan çok şey bekliyorum. Tüm portföylerin sahip olması gereken bir koin"
 ---
 
-- Ethreumda araştırma biligisi ve bilimsel felsefe ile geliştirilmiş.
+- Ethereum'da araştırma biligisi ve bilimsel felsefe ile geliştirilmiş.
 - Çokca işlevsel olan Haskell ile yazılmış. Haskell’le kod yazması çok zor ama yazılan kodda hata yapma ihtimali çok düşüyor. Blok zincirleri için ideal. 
 - İlk defa Ouroboros adlı geniş kadranda eşdüzeyi tarafından incelenmiş matematiksel olarak ispatlanmış PoS.
 - Sistem yumuşak ayrışımlarla (soft fork) geliştirile bilir. 
@@ -20,7 +20,7 @@ conclusion: "Gizlilikten kaçınarak yaptıklarını göz önüne seren blok zin
 - whycardano.com’da inanılmaz bir açıklık söz konusu sıkı çalışmalarını gösterirken gizlilikten de kaçınmışlar.
 - Yol haritalarında da yaptıkları işin ne kadarını tamamladıklarını yüzdelerle açık bir şekilde göstermişler. 
 - Takım farkılaşmanın (fork) blok zinciri felsefesine aykırı olduğunu düşündüğü için Ethereum Classic’i devam ettiriyor. 
-- Haftalık rapor veriyorlar. 
+- Her hafta yaptıklarına dair rapor veriyorlar. 
 - Kurucu Ethereum’un ve Bishares’in  eski İcra Kurulu Başkanlarından. 
 - Tam bir doktora orduları var.
 - Holding şirketleri arasında yatırımcı firmaları varmış gibi görünüyor. 
