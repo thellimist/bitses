@@ -29,6 +29,7 @@ conclusion: "They are competing with really big players and they haven’t shown
 - They have well-written documentation on a lot of different topics including migrating old system. 
 - The website owner can pay end of the month via BTC, ETH, Fiat or DADI. The DADI Team (DADI Cloud Limited) has an internal exchange converts the payment to DADI tokens and distributes to the stakeholders. This is another centralized element.
 - The team looks capable of what they are trying to achieve.
+
  Pros
 
 - They are working well. Technology design, design, tools, libraries, website, and support are all A level. I want to emphasize this more. The results are amazing. 
@@ -37,6 +38,7 @@ conclusion: "They are competing with really big players and they haven’t shown
 - The market they tackle is huge. 
 - They have entered the market from the correct niche. CDN. Although it looks like their revenues are more from websites. This might need to be checked. 
 - Rather than making a fully centralized system, they have used blockchain and contracts to guarantee that DADI will not have power to change the revenue of their contributors.
+
  Cons
 
 - DADI Cloud Limited is a company. Resources hosted on Dadi network can be removed by DADI
@@ -44,10 +46,13 @@ conclusion: "They are competing with really big players and they haven’t shown
 - The market is too crowded. Competing with tech giants like Google, Microsoft and Amazon are hard. They claim they’ll be 10x cheaper. Actually, they have tested with a customer of theirs and the result was %60 cheaper, ~2x cheaper. I’m still skeptical. The project hasn’t scaled yet. If they can achieve the order of magnitude difference, they can disrupt the market like AirBnB did. 
 - $8M / $180k = ~40 years for ROI. Hosts should only be people with extra bandwidth and computation. It’s not worth to open a dedicated system for this ROI. These numbers will change a lot in the early days. Don’t take this as granted.
 - The libraries they built are public on Github, however, Stargate, Gateway and Host code are not public. 
+
  Neutral
+
 - Doesn’t actually need blockchain. They could’ve built the samething as how AirBnB built it. However, this is not an issue. The payment and staking attributes are on the blockchain. Non-trival parts are closed sourced, permissioned. 
 - It’s not decentralized as in it’s not immutability, censorship-resistance, and permissionless. 
 - There is a rumour of them plagiarizing SONM whitepaper in early 2018 and been criticized by the community. SONM and DADI overlap in a small portion of the market they are serving. The systems they built is not even close. 
+
  Other Questions
 
 - Not sure if every website or system can be hosted on DADI. They claim they can do AI and machine learning apps as well. There probably is some limit where after some scale, and application can’t satisfy it’s use cases being Hosted on Dadi. The limit exists in all kinds of systems where access to the machine is limited (like Heroku)
