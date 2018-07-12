@@ -31,7 +31,7 @@ Eksiler
 
 - Tanıtımlarında takımı çok vurguluyorlar ama takımın blok zinciri tecrübesi varmış gibi görünmüyor. Bir fırsat görüp, burdan çok para kazanabileceklerini düşünüp atlamışa benziyorlar.
 - Takımın akıllı olduğunu ve belirli bir miktar para toplayabileceğini düşünüyorum ama her şeyiyle çalışan ve kullanılan yenilikçi bir blok zinciri yaratabileceklerini düşünmüyorum.
-- Takım yeni biraraya gelmiş(Mayıs 2018). Nerdeyse hiç bir kodlama yapmamışlar. Bir çok teknoloji araştırmışlar ama bizim başkalarına teknoloji seçmekte danışmanlık yaptığımız gibi onların da danışmanı X ya da Y teknolojisini kullanmalarını söylemiş gibiler.
+- Takım yeni biraraya gelmiş(Mayıs 2018). Nerdeyse hiç bir kodlama yapmamışlar. Bir çok teknoloji araştırmış gibiler fakat onların danışmanı X ya da Y teknolojisini kullanmalarını söylemiş gibi. Yani para verip yaptirmışlar gibi duruyor.
 - Eylül 2017'de yeni çöp bir yazılım dili yaratmışlar ama spesifik olarak kullanılabileceği bir alan göremedim. Ekim 2017'den beri de güncellememişler.
 - Anladığım kadarı ile kurucu yazılım dilini 10 yıldır geliştiriyor. Ama dilin hiç bir tapikçisi, kullanıcısı yok. Bu da yazılım dilinin tam bir çöp ve pazarlama oyunu olduğunu gösteriyor. 
 - Teknik tanıtım belgeleri güzel görünüyor. 

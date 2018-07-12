@@ -31,7 +31,7 @@ Cons
 
 - They have emphisized too much on the team but it looks like the team had no prior blockchain experience. They saw an oppourtunity and decided they could make a lot of money from it.
 - I believe this team is smart & that they can raise some amount of money but I don't believe they will be able to create the next all working blockchain.
-- They have just gotten together(May 2018), have done near no prior coding, they have researched many techs but I believe their advisors told them to to just use tech X, tech Y just like we are advising other companies.
+- They have just gotten together(May 2018), have done near no prior coding, they have researched many techs but I believe their advisors told them to to just use tech X, tech Y.
 - In Sep 2017 they've written a shitty new language which I couldn't see a niche/specific use case. It is ugly and they haven't updated it since October 2017.
 - As I understood the founder has been developing the coding language for 10 years. But the lang has no community, no users, so it is shit, just a marketing ploy.
 - Their white paper looks pretty good.
