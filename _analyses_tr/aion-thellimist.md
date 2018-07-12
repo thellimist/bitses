@@ -1,7 +1,7 @@
 ---
 layout: analysis
 coin: aion
-tldr: "Birlikte işlerlik zincir"
+tldr: "Birlikte işlerlik zinciri"
 score: 1
 researcher: thellimist
 date: 2018-05-04
@@ -10,7 +10,7 @@ conclusion: "Teknolojileri yok. İlk önce onu nasıl yapacaklarını çözmeler
 
 - Aion birlikte işlerlik problemini çözmek için köprü kullanıyor. Sİstemleri ayrıntılı olarak güzelce düşünülmüş ama derine gittikce daha zor ve komplike bir hal alıyor. 
 - Probleme yanaşmaları Ark ve Cardano’dan daha iyi. Bütün blok zincirlerini bir-birine bağlamak yerine diğer köprülere vekil sunucu(Proxy) ola bilecek bir köprü ağı yapmayı planlıyorlar. 
-- Güzel pazarlama malzemeleri olsa da problemi nasıl çözdüklerini anlamak zor. Yani teknik içerik teknik tanıtım belgesinden uzağa gitmemiş. 
+- Güzel pazarlama malzemeleri olsa da problemi nasıl çözdüklerini anlamak zor. Yani teknik içerik teknik tanıtım belgesinde kalmış, gerçek hayatta uygulanmamış.
 - Çözümleri daha çalışmıyor. 
 - İcra kurulu başkanı(CEO) problemi çözecek birilerini arıyor gibi görünüyor. 
 
