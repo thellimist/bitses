@@ -41,10 +41,6 @@ researcher: demiculus
 date: 2018-05-18
 ---
 
-# General
-
-- Bla bla
-
 # Pros
 
 - Bla bla
