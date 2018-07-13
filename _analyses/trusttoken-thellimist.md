@@ -29,4 +29,4 @@ conclusion: "Huge market, still really early, team is capable of executing. Lots
   can be staked. Otherwise, the benefit of the coin will be decreased
   significantly.
 - TrustToken value will increase based on the dividend the token can provide.
-  More tokenized assets means more probably of an asset with higher dividends.
+  More tokenized assets means more probability of an asset with higher dividends.
