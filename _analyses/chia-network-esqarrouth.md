@@ -12,15 +12,15 @@ conclusion: "Early in progress but has strong indicators that Chia can become on
 - Tech forked from BTC, it has same liveliness as BTC, better finality (3 block/15 minutes).
 - Tech has better decentralization than BTC due to its consensus algorithm. Mining Chia is economically unviable unless you have empty storage sitting around. So huge Chia farms aren't expected. 
 - Chia will have all improvements made for BTC, including lightning network.
-- Will Apache license the code and open source it, before mainnet goes live.
-- Writing Chiascript which will replace Bitcoin script. It will help softforks.
-- They claim it can't be hard forked. (Need to verify this)
+- They will Apache license the code and open source it before mainnet goes live.
+- It has its own version of Bitcoinscript called Chiascript. It will help softforks.
+- They claim it can't be hard forked. (Haven't verified)
 
 Fundraising:
 
 - The company is doing a completely unique funding model where they own the entire premine of the coin and distribute this to investors based on their company share ownership. 
 - 1 Chia will be given out per company share.
-- Genesis block will have 21M coins, will be mined up to 42M. But it will take 153 years. (Need to verify this)
+- Genesis block will have 21M coins, will be mined up to 42M. But it will take 153 years. (Haven't verified)
 - This system makes it really clear and easy in terms of regulation, nothing can go wrong, everything by the book.
 - Public sale is planned to happen at summer 2018.
 - 1 time dividend will distribute all tokens to company shareholders. 4M will be kept by company 10M will be kept by founders, employees, advisors. These will be vested in 4 years. 4M-7M shares will be issued to investors.
@@ -45,7 +45,7 @@ Pros
 
 Cons
 
-- Governance network will have few softforks. People can propose softforks? (Need to verify this)
+- Governance network will have few softforks. People can propose softforks? (Haven't verified)
 - Finality part compared to BTC isn't clear, how will they achieve better finality? 
 - The only strong risk is miners trying to fuck up Chia and stop them using their connections. (They can't fuck this up by trying to do a network attack, they won't have the harddrive space)
 - Raising too much money limits the ROI possibility here. 
