@@ -5,7 +5,7 @@ tldr: "Infrastructure to build asset backed tokens"
 score: 3
 researcher: thellimist
 date: 2018-07-06
-conclusion: "Huge market, still really early, team is capable of executing. Lots of potential"
+conclusion: "Huge market, still really early, team is capable of executing. Might win Stable Coin market"
 ---
 
 - TrustToken allows users to tokenize any asset. A user must use an escrow to
