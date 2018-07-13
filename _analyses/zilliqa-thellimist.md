@@ -5,7 +5,7 @@ tldr: "First blockchain with sharding"
 score: 2
 researcher: thellimist
 date: 2018-04-30
-conclusion: "Zilliqa is a platform to do technological innovation. I doesn't stand a chance to compete with Ethereum."
+conclusion: "Zilliqa is a platform to do technological innovation. It doesn't stand a chance to compete with Ethereum."
 ---
 
 - Rather than side chains, uses sharding to scale. Has smart contracts and will try to import ETH smart contracts automatically.  
