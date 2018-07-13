@@ -115,7 +115,7 @@ layout: compress
       </div>
 
 
-      <table id="coin-table" class="sortable table responsive">
+      <table id="coin-table" class="sortable table nowrap display dt-responsive" style="width:100%">
         <thead>
           <tr>
             <th>
@@ -134,7 +134,7 @@ layout: compress
               {% endif %}
             </th>
 
-            <th class="text-center" data-toggle="tooltip" data-placement="top" data-html="true" title="
+            <th id="trololo" class="text-center" data-toggle="tooltip" data-placement="top" data-html="true" title="
 4: Definitely buy this coin.
 <br>
 3: This is one of the best coins I’ve seen.
@@ -223,14 +223,17 @@ layout: compress
     {% include main/footer.html %}
 
     {% include externals/scripting.html %}
-</body>
-<script>
-  $(document).ready(function() {
-  $('#coin-table').DataTable({
-      "order": [[ 3, "desc" ]]
-  });
-  } );
-</script>
+  </body>
+  <script>
+    $(document).ready(function() {
+        $('#coin-table').DataTable({
+            "order": [[ 3, "desc" ]],
+            responsive: true,
+        });
+        $('[data-toggle="tooltip"]').tooltip();
+    } );
+  </script>
+
 </html>
 
 

@@ -20,6 +20,13 @@ If some reviews are missing on the main page, you can find them by running
 echo $(ls -1 _analyses/ | sed 's/\.md//g') $(ls -1 _site/analyses) | sed 's/ /\n/g' | sort | uniq -u
 ```
 
+For Turkish sites:
+
+```
+echo $(ls -1 _analyses_tr/ | sed 's/\.md//g') $(ls -1 _site/tr/analyses) | sed 's/ /\n/g' | sort | uniq -u
+```
+
+
 # Writing a Review Markdown File
 
 As of now, an example analysis page looks like this:
