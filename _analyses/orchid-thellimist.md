@@ -16,4 +16,4 @@ conclusion: "This team is probably best suited to do something like this if it's
 
 Questions:
 - Will the gas cost be low enough for people to use?
-- Even if the gas cost is high, will it be better and more attractive than Tor?
+- Even if the gas cost is low, will it be better and more attractive than Tor?
