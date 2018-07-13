@@ -8,7 +8,7 @@ date: 2018-02-09
 conclusion: "- Overvalued compared to NASDAQ
 \n- Only works if ETH wins
 \n- Estimated rank deserved 10-30
-\n- Follow this coin"
+\n- Watch 0x and applications using it. High probablity that an application might boost 0x"
 ---
 
 Nasdaq value / Nasdaq Market Cap = 0.00178
