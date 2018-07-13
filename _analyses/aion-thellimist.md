@@ -10,8 +10,8 @@ conclusion: "Technology doesn’t exist yet. They need to figure out how to do i
 
 - Aion solves interoperability problem using bridges. Their system is broadly well thought however the more you dive the harder and complicated it gets.
 - The way they look at the problem is better than Ark and Cardano. They plan to have bridge networks which can proxy other bridges rather than connecting all blockchains with each other.
-- They have good marketting material however its hard to understand how they are solving the problem. So technical content almost do not exist except for whitepaper.
-- Their solution doesnt work yet.
+- They have good marketting material however it is hard to understand how they are solving the problem. So technical content almost do not exist except for whitepaper.
+- Interoperable chains do not have a solution yet. Their solution doesn't work either. 
 - It looks like CEO is focussed on finding people who can solve the problem.
 
 Questions:
