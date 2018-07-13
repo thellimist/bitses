@@ -10,5 +10,5 @@ conclusion: "Shitcoin"
 
 - It's an R&D coin
 - It will never have really use case.
-- The only thing they do is trim blockchain data with cost of total 2^32 account limit
+- The major difference they have is trim blockchain data with cost of total 2^32 account limit
 - Written in Pascal...
