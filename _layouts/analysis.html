@@ -88,6 +88,28 @@ layout: compress
 
       {{ page.content }}
 
+      {% if page.pros %}
+      {% if site_lang == 'en' %}
+      <h2 class="h4">Pros</h2>
+      {% else %}
+      <h2 class="h4">Artılar</h2>
+      {% endif %}
+      <p>
+        {{ page.pros | markdownify }}
+      </p>
+      {% endif %}
+
+      {% if page.cons %}
+      {% if site_lang == 'en' %}
+      <h2 class="h4">Cons</h2>
+      {% else %}
+      <h2 class="h4">Eksiler</h2>
+      {% endif %}
+      <p>
+        {{ page.cons | markdownify }}
+      </p>
+      {% endif %}
+
       {% if page.conclusion %}
       {% if site_lang == 'en' %}
       <h2 class="h4">Conclusion</h2>
