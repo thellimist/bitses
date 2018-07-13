@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+{% assign first_path = page.url | slice: 0, 4 %}
+
+{% if first_path == '/tr/' %}
+{% assign site_lang = 'tr' %}
+{% else %}
+{% assign site_lang = 'en' %}
+{% endif %}
+
+<script src="/assets/js/portal.js"></script>
+
+<div class="container mt-5">
+
+  <div class="input-group input-group-lg mb-3">
+    <!-- <div class="input-group-prepend"> -->
+      <!--   <span class="input-group-text" id="basic-addon1">@</span> -->
+      <!-- </div> -->
+    <input type="text" class="form-control" placeholder="Enter a coin name" autofocus>
+  </div>
+  <div class="text-center">
+    <button type="button" class="btn btn-outline-primary">Search for Coin</button>
+  </div>
+</div>

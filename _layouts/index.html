@@ -1,140 +1,137 @@
 ---
-layout: compress
+layout: default
 ---
 
+{% assign first_path = page.url | slice: 0, 4 %}
+
+{% if first_path == '/tr/' %}
+{% assign site_lang = 'tr' %}
+{% else %}
+{% assign site_lang = 'en' %}
+{% endif %}
 
 
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    {% include main/head.html %}
-    {% include externals/google_analytics.html %}
-  </head>
+{% if site_lang == 'en' %}
+{% assign analyses = site.analyses %}
+{% else %}
+{% assign analyses = site.analyses_tr %}
+{% endif %}
 
-  <body>
-    {% include main/header.html %}
-
+<div class="call-to-action py-3">
+  <button type="button" class="btn btn-light" data-toggle="modal" data-target="#subscribeModal">
     {% if site_lang == 'en' %}
-    {% assign analyses = site.analyses %}
+    Subscribe to Bitses
     {% else %}
-    {% assign analyses = site.analyses_tr %}
+    Bitses'e abone ol
     {% endif %}
+  </button>
 
-    <div class="call-to-action py-3">
-      <button type="button" class="btn btn-light" data-toggle="modal" data-target="#subscribeModal">
-        {% if site_lang == 'en' %}
-        Subscribe to Bitses
-        {% else %}
-        Bitses'e abone ol
-        {% endif %}
-      </button>
-
-      <!-- Modal -->
-<div class="modal fade" id="subscribeModal" tabindex="-1" role="dialog" aria-labelledby="subscribeModalLabel" aria-hidden="true">
-  <div class="modal-dialog" role="document">
-    <div class="modal-content">
-      <!-- <div class="modal-header"> -->
-      <!--   <h5 class="modal-title" id="subscribeModalLabel">Modal title</h5> -->
-      <!--   <button type="button" class="close" data-dismiss="modal" aria-label="Close"> -->
-      <!--     <span aria-hidden="true">&times;</span> -->
-      <!--   </button> -->
-      <!-- </div> -->
-      <div class="modal-body">
-        <div class="text-left">
-          {% if site_lang == 'en' %}
-          1. Receive a report of our latest research every week.
-          {% else %}
-          1. Haftalık araştırmalarımızı mail olarak alın.
-          {% endif %}
-        </div>
-        <div class="text-center">
-          {% if site_lang == 'en' %}
-          <a class="btn btn-primary my-3" href="http://eepurl.com/dzMEbf" target="_blank">
-            <span class="fa fa-envelope"></span>
-            Subscribe to our Mailing List
-          </a>
-          {% else %}
-          <a class="btn btn-primary my-3" href="http://eepurl.com/dzMEIP" target="_blank">
-            <span class="fa fa-envelope"></span>
-            Mail Listemize Abone Ol
-          </a>
-          {% endif %}
-        </div>
-        <div class="text-left">
-          {% if site_lang == 'en' %}
-          2. Learn our new research from our Telegram channel.
-          {% else %}
-          2. Yeni araştırmalardan Telegram kanalımızdan öğrenin.
-          {% endif %}
-        </div>
-        <div class="text-center">
-          <a class="btn btn-primary my-3" href="https://t.me/bitses" target="_blank">
-            <span class="fa fa-telegram"></span>
+  <!-- Modal -->
+  <div class="modal fade" id="subscribeModal" tabindex="-1" role="dialog" aria-labelledby="subscribeModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <!-- <div class="modal-header"> -->
+          <!--   <h5 class="modal-title" id="subscribeModalLabel">Modal title</h5> -->
+          <!--   <button type="button" class="close" data-dismiss="modal" aria-label="Close"> -->
+            <!--     <span aria-hidden="true">&times;</span> -->
+            <!--   </button> -->
+          <!-- </div> -->
+        <div class="modal-body">
+          <div class="text-left">
             {% if site_lang == 'en' %}
-            Join our Telegram Channel
+            1. Receive a report of our latest research every week.
             {% else %}
-            Telegram Kanalımıza Katıl
+            1. Haftalık araştırmalarımızı mail olarak alın.
             {% endif %}
-          </a>
-        </div>
-        <div class="text-left">
-          {% if site_lang == 'en' %}
-          3. We share updates on our Twitter.
-          {% else %}
-          3. Anlık güncellemeleri Twitter'da paylaşıyoruz.
-          {% endif %}
-        </div>
-        <div class="text-center">
-          <a class="btn btn-primary my-3" href="https://twitter.com/bitsesorg" target="_blank">
-            <span class="fa fa-twitter"></span>
+          </div>
+          <div class="text-center">
             {% if site_lang == 'en' %}
-            Follow our Twitter
+            <a class="btn btn-primary my-3" href="http://eepurl.com/dzMEbf" target="_blank">
+              <span class="fa fa-envelope"></span>
+              Subscribe to our Mailing List
+            </a>
             {% else %}
-            Bizi Twitter'dan Takip Et
+            <a class="btn btn-primary my-3" href="http://eepurl.com/dzMEIP" target="_blank">
+              <span class="fa fa-envelope"></span>
+              Mail Listemize Abone Ol
+            </a>
             {% endif %}
-          </a>
-        </div>
+          </div>
+          <div class="text-left">
+            {% if site_lang == 'en' %}
+            2. Learn our new research from our Telegram channel.
+            {% else %}
+            2. Yeni araştırmalardan Telegram kanalımızdan öğrenin.
+            {% endif %}
+          </div>
+          <div class="text-center">
+            <a class="btn btn-primary my-3" href="https://t.me/bitses" target="_blank">
+              <span class="fa fa-telegram"></span>
+              {% if site_lang == 'en' %}
+              Join our Telegram Channel
+              {% else %}
+              Telegram Kanalımıza Katıl
+              {% endif %}
+            </a>
+          </div>
+          <div class="text-left">
+            {% if site_lang == 'en' %}
+            3. We share updates on our Twitter.
+            {% else %}
+            3. Anlık güncellemeleri Twitter'da paylaşıyoruz.
+            {% endif %}
+          </div>
+          <div class="text-center">
+            <a class="btn btn-primary my-3" href="https://twitter.com/bitsesorg" target="_blank">
+              <span class="fa fa-twitter"></span>
+              {% if site_lang == 'en' %}
+              Follow our Twitter
+              {% else %}
+              Bizi Twitter'dan Takip Et
+              {% endif %}
+            </a>
+          </div>
 
+        </div>
       </div>
     </div>
   </div>
+
 </div>
 
-    </div>
+
+<div class="container pb-5">
+  <div class="text-center mt-5 mb-4">
+    <h1 class="h3">
+      {% if site_lang == 'en' %}
+      Fundamental Analysis of 100+ Crypto Assets
+      {% else %}
+      100+ Kripto Varlığın Temel Analizi
+      {% endif %}
+    </h1>
+  </div>
 
 
-    <div class="container mb-4">
-      <div class="text-center mt-5 mb-4">
-        <h1 class="h3">
-        {% if site_lang == 'en' %}
-        Fundamental Analysis of 100+ Crypto Assets
-        {% else %}
-        100+ Kripto Varlığın Temel Analizi
-        {% endif %}
-        </h1>
-      </div>
+  <table id="coin-table" class="sortable table nowrap display dt-responsive" style="width:100%">
+    <thead>
+      <tr>
+        <th>
+          {% if site_lang == 'en' %}
+          Name
+          {% else %}
+          İsim
+          {% endif %}
+        </th>
 
+        <th class="text-center">
+          {% if site_lang == 'en' %}
+          Summary
+          {% else %}
+          Özet
+          {% endif %}
+        </th>
 
-      <table id="coin-table" class="sortable table nowrap display dt-responsive" style="width:100%">
-        <thead>
-          <tr>
-            <th>
-              {% if site_lang == 'en' %}
-              Name
-              {% else %}
-              İsim
-              {% endif %}
-            </th>
-
-            <th class="text-center">
-              {% if site_lang == 'en' %}
-              Summary
-              {% else %}
-              Özet
-              {% endif %}
-            </th>
-
-            <th id="trololo" class="text-center" data-toggle="tooltip" data-placement="top" data-html="true" title="
+        <th class="text-center" data-toggle="tooltip" data-placement="top" data-html="true" title="
 4: Definitely buy this coin.
 <br>
 3: This is one of the best coins I’ve seen.
@@ -146,94 +143,85 @@ layout: compress
 0: I’m neutral about this coin.
 <br>
 -1: Shitcoin.">
-              {% if site_lang == 'en' %}
-              Score
-              {% else %}
-              Puan
-              {% endif %}
-            </th>
-
-            <th class="text-center">
-              {% if site_lang == 'en' %}
-              Date
-              {% else %}
-              Tarih
-              {% endif %}
-            </th>
-            <th class="text-center">
-              {% if site_lang == 'en' %}
-              Researcher
-              {% else %}
-              Araştırmacı
-              {% endif %}
-            </th>
-          </tr>
-          </thead>
-
-          <tbody>
-          {% for coin in site.coins %}
-          {% for analysis in analyses %}
-          {% if analysis.coin == coin.slug %}
-          {% for researcher in site.researchers %}
-          {% if analysis.researcher == researcher.slug %}
-          <tr>
-            <td data-order="{{ coin.name }}" class="align-middle">
-              <!-- <a href="{{ coin.url | prepend: site.baseurl }}">{{ coin.name }}</a> -->
-              <!-- {% if coin.cmc_idx %} -->
-              <!-- <img class="logo-sprite" src="{{ '.png' | prepend: coin.cmc_idx | prepend: 'https://s2.coinmarketcap.com/static/img/coins/16x16/' }}" height="16" width="16"> -->
-              <!-- {% else %} -->
-              <!-- <img class="logo-sprite" src="{{ '/assets/img/16x16_placeholder.png' | prepend: site.baseurl }}" height="16" width="16"> -->
-              <!-- {% endif %} -->
-              <span>{{ coin.name }}</span>
-            </td>
-            <td class="text-center align-middle">
-              <a href="{{ analysis.url | prepend: site.baseurl }}" target="_blank">
-                {{ analysis.tldr }}
-              </a>
-            </td>
-            <td class="text-center align-middle">{{ analysis.score }}</td>
-            <td class="text-center align-middle" data-order="{{ analysis.date | date: '%Y%m%d' }}">
-              {% if site_lang == 'en' %}
-              {{ analysis.date | date: '%B %d, %Y' }}
-              {% else %}
-              {{ analysis.date | date: ' %d.%m.%Y' }}
-              {% endif %}
-            </td>
-            <td class="text-center align-middle">
-              <!-- <a href="{{ researcher.url | prepend: site.baseurl }}">{{ researcher.name }}</a> -->
-              {% if researcher.twitter %}
-              <a href="https://twitter.com/{{ researcher.twitter }}" target="_blank">
-                {{ researcher.name }}
-              </a>
-              {% else %}
-              {{ researcher.name }}
-              {% endif %}
-            </td>
-          </tr>
+          {% if site_lang == 'en' %}
+          Score
+          {% else %}
+          Puan
           {% endif %}
-          {% endfor %}
+        </th>
+
+        <th class="text-center">
+          {% if site_lang == 'en' %}
+          Date
+          {% else %}
+          Tarih
           {% endif %}
+        </th>
+        <th class="text-center">
+          {% if site_lang == 'en' %}
+          Researcher
+          {% else %}
+          Araştırmacı
+          {% endif %}
+        </th>
+      </tr>
+    </thead>
 
-          {% endfor %}
-          {% endfor %}
-          </tbody>
-      </table>
-    </div>
+    <tbody>
+      {% for coin in site.coins %}
+      {% for analysis in analyses %}
+      {% if analysis.coin == coin.slug %}
+      {% for researcher in site.researchers %}
+      {% if analysis.researcher == researcher.slug %}
+      <tr>
+        <td data-order="{{ coin.name }}" class="align-middle">
+          <!-- <a href="{{ coin.url | prepend: site.baseurl }}">{{ coin.name }}</a> -->
+          <!-- {% if coin.cmc_idx %} -->
+          <!-- <img class="logo-sprite" src="{{ '.png' | prepend: coin.cmc_idx | prepend: 'https://s2.coinmarketcap.com/static/img/coins/16x16/' }}" height="16" width="16"> -->
+          <!-- {% else %} -->
+          <!-- <img class="logo-sprite" src="{{ '/assets/img/16x16_placeholder.png' | prepend: site.baseurl }}" height="16" width="16"> -->
+          <!-- {% endif %} -->
+          <span>{{ coin.name }}</span>
+        </td>
+        <td class="text-center align-middle">
+          <a href="{{ analysis.url | prepend: site.baseurl }}" target="_blank">
+            {{ analysis.tldr }}
+          </a>
+        </td>
+        <td class="text-center align-middle">{{ analysis.score }}</td>
+        <td class="text-center align-middle" data-order="{{ analysis.date | date: '%Y%m%d' }}">
+          {% if site_lang == 'en' %}
+          {{ analysis.date | date: '%B %d, %Y' }}
+          {% else %}
+          {{ analysis.date | date: ' %d.%m.%Y' }}
+          {% endif %}
+        </td>
+        <td class="text-center align-middle">
+          <!-- <a href="{{ researcher.url | prepend: site.baseurl }}">{{ researcher.name }}</a> -->
+          {% if researcher.twitter %}
+          <a href="https://twitter.com/{{ researcher.twitter }}" target="_blank">
+            {{ researcher.name }}
+          </a>
+          {% else %}
+          {{ researcher.name }}
+          {% endif %}
+        </td>
+      </tr>
+      {% endif %}
+      {% endfor %}
+      {% endif %}
 
-    {% include main/footer.html %}
-
-    {% include externals/scripting.html %}
-  </body>
-  <script>
-    $(document).ready(function() {
-        $('#coin-table').DataTable({
-            "order": [[ 3, "desc" ]],
-            responsive: true,
-        });
-        $('[data-toggle="tooltip"]').tooltip();
-    } );
-  </script>
-
-</html>
-
-
+      {% endfor %}
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+<script>
+  $(document).ready(function() {
+  $('#coin-table').DataTable({
+  "order": [[ 3, "desc" ]],
+  responsive: true,
+  });
+  $('[data-toggle="tooltip"]').tooltip();
+  } );
+</script>

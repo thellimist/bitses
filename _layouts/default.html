@@ -4,19 +4,20 @@ layout: compress
 
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        {% include main/head.html %}
-        {% include externals/google_analytics.html %}
-    </head>
+  <head>
+    {% include main/head.html %}
+    {% include externals/google_analytics.html %}
+  </head>
 
-    <body>
-      {% include main/header.html %}
-        <div class="container mt-3">
-            {{ content }}
-        </div>
+  <body>
+    {% include main/header.html %}
 
-        {% include main/footer.html %}
+    {{ content }}
 
-        {% include externals/scripting.html %}
-    </body>
+    {% include main/footer.html %}
+
+    {% include externals/scripting.html %}
+  </body>
+
 </html>
+

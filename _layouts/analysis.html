@@ -1,5 +1,5 @@
 ---
-layout: compress
+layout: default
 ---
 
 {% assign first_path = page.url | slice: 0, 4 %}
@@ -11,147 +11,132 @@ layout: compress
 {% endif %}
 
 
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    {% include main/head.html %}
-    {% include externals/google_analytics.html %}
-  </head>
+<div class="container mt-4">
 
-  <body>
-    {% include main/header.html %}
+  {% for coin in site.coins %}
+  {% if coin.slug == page.coin %}
+  <h1 class="h3">{{ coin.name }}</h1>
+  {% endif %}
+  {% endfor %}
 
-    <div class="container mt-4">
-
-      {% for coin in site.coins %}
-      {% if coin.slug == page.coin %}
-      <h1 class="h3">{{ coin.name }}</h1>
-      {% endif %}
-      {% endfor %}
-
-      {% for researcher in site.researchers %}
-      {% if researcher.slug == page.researcher %}
-      <ul style="list-style-type: none; padding: 0;">
-      <li>
-        {% if site_lang == 'en' %}
-        <b>Researcher:</b>&nbsp;
-        {% else %}
-        <b>Araştırmacı:</b>&nbsp;
-        {% endif %}
-        {% if researcher.twitter %}
-        <a href="https://twitter.com/{{ researcher.twitter }}" target="_blank">{{ researcher.name }}</a>
-        {% else %}
-        {{ researcher.name }}
-        {% endif %}
-      </li>
-      {% endif %}
-      {% endfor %}
-
-      <li>
-        {% if site_lang == 'en' %}
-        <b>Score:</b>&nbsp;
-        {% else %}
-        <b>Puan:</b>&nbsp;
-        {% endif %}
-        {{ page.score }}
-      </li>
-
-      <li>
-        {% if site_lang == 'en' %}
-        <b>Date:</b>&nbsp;
-        {{ page.date | date: '%B %d, %Y' }}
-        {% else %}
-        <b>Tarih:</b>&nbsp;
-        {{ page.date | date: '%d.%m.%Y' }}
-        {% endif %}
-      </li>
-      </ul>
-      <!-- <h2>Researchers</h2> -->
-
-      <!-- <ul> -->
-        <!--   <li> -->
-          <!--     {{ page.researcher }} -->
-          <!--   </li> -->
-        <!-- </ul> -->
-
-      <!-- <h2>Relevant Links</h2> -->
-
-      <!-- {% if page.cmc_id %} -->
-      <!-- <a href="https://coinmarketcap.com/currencies/{{ page.cmc_id }}/" target="_blank">CoinMarketCap Profile</a> -->
-      <!-- {% endif %} -->
-
+  {% for researcher in site.researchers %}
+  {% if researcher.slug == page.researcher %}
+  <ul style="list-style-type: none; padding: 0;">
+    <li>
       {% if site_lang == 'en' %}
-      <h2 class="h4">Analysis</h2>
+      <b>Researcher:</b>&nbsp;
       {% else %}
-      <h2 class="h4">Analiz</h2>
+      <b>Araştırmacı:</b>&nbsp;
       {% endif %}
+      {% if researcher.twitter %}
+      <a href="https://twitter.com/{{ researcher.twitter }}" target="_blank">{{ researcher.name }}</a>
+      {% else %}
+      {{ researcher.name }}
+      {% endif %}
+    </li>
+    {% endif %}
+    {% endfor %}
 
-      {{ page.content }}
-
-      {% if page.pros %}
+    <li>
       {% if site_lang == 'en' %}
-      <h2 class="h4">Pros</h2>
+      <b>Score:</b>&nbsp;
       {% else %}
-      <h2 class="h4">Artılar</h2>
+      <b>Puan:</b>&nbsp;
       {% endif %}
-      <p>
-        {{ page.pros | markdownify }}
-      </p>
-      {% endif %}
+      {{ page.score }}
+    </li>
 
-      {% if page.cons %}
+    <li>
       {% if site_lang == 'en' %}
-      <h2 class="h4">Cons</h2>
+      <b>Date:</b>&nbsp;
+      {{ page.date | date: '%B %d, %Y' }}
       {% else %}
-      <h2 class="h4">Eksiler</h2>
+      <b>Tarih:</b>&nbsp;
+      {{ page.date | date: '%d.%m.%Y' }}
       {% endif %}
-      <p>
-        {{ page.cons | markdownify }}
-      </p>
-      {% endif %}
+    </li>
+  </ul>
+  <!-- <h2>Researchers</h2> -->
 
-      {% if page.conclusion %}
-      {% if site_lang == 'en' %}
-      <h2 class="h4">Conclusion</h2>
-      {% else %}
-      <h2 class="h4">Sonuç</h2>
-      {% endif %}
+  <!-- <ul> -->
+    <!--   <li> -->
+      <!--     {{ page.researcher }} -->
+      <!--   </li> -->
+    <!-- </ul> -->
 
-      <p>
-        {{ page.conclusion | markdownify }}
-      </p>
-      {% endif %}
+  <!-- <h2>Relevant Links</h2> -->
 
-      </div>
+  <!-- {% if page.cmc_id %} -->
+  <!-- <a href="https://coinmarketcap.com/currencies/{{ page.cmc_id }}/" target="_blank">CoinMarketCap Profile</a> -->
+  <!-- {% endif %} -->
+
+  {% if site_lang == 'en' %}
+  <h2 class="h4">Analysis</h2>
+  {% else %}
+  <h2 class="h4">Analiz</h2>
+  {% endif %}
+
+  {{ page.content }}
+
+  {% if page.pros %}
+  {% if site_lang == 'en' %}
+  <h2 class="h4">Pros</h2>
+  {% else %}
+  <h2 class="h4">Artılar</h2>
+  {% endif %}
+  <p>
+    {{ page.pros | markdownify }}
+  </p>
+  {% endif %}
+
+  {% if page.cons %}
+  {% if site_lang == 'en' %}
+  <h2 class="h4">Cons</h2>
+  {% else %}
+  <h2 class="h4">Eksiler</h2>
+  {% endif %}
+  <p>
+    {{ page.cons | markdownify }}
+  </p>
+  {% endif %}
+
+  {% if page.conclusion %}
+  {% if site_lang == 'en' %}
+  <h2 class="h4">Conclusion</h2>
+  {% else %}
+  <h2 class="h4">Sonuç</h2>
+  {% endif %}
+
+  <p>
+    {{ page.conclusion | markdownify }}
+  </p>
+  {% endif %}
+
+</div>
 
 
-    <div class="call-to-action mt-4 py-3">
-      <!-- <div class="mb-3"> -->
+<div class="call-to-action mt-4 py-3">
+  <!-- <div class="mb-3"> -->
 
-      <!--   <\!-- <h1> -\-> -->
+    <!--   <\!-- <h1> -\-> -->
       <!--   <\!--   {% if site_lang == 'en' %} -\-> -->
-      <!--   <\!--   Fundamental Analysis of 100+ Crypto Assets -\-> -->
-      <!--   <\!--   {% else %} -\-> -->
-      <!--   <\!--   100+ Kripto Varlığın Temel Analizi -\-> -->
-      <!--   <\!--   {% endif %} -\-> -->
-      <!--   <\!-- </h1> -\-> -->
+        <!--   <\!--   Fundamental Analysis of 100+ Crypto Assets -\-> -->
+          <!--   <\!--   {% else %} -\-> -->
+            <!--   <\!--   100+ Kripto Varlığın Temel Analizi -\-> -->
+              <!--   <\!--   {% endif %} -\-> -->
+                <!--   <\!-- </h1> -\-> -->
 
-      <!-- </div> -->
+                  <!-- </div> -->
+  {% if site_lang == 'en' %}
+  <a href="{{ '/' | prepend: site.baseurl }}" class="btn btn-light">
+    {% else %}
+    <a href="{{ '/tr' | prepend: site.baseurl }}" class="btn btn-light">
+      {% endif %}
       {% if site_lang == 'en' %}
-      <a href="{{ '/' | prepend: site.baseurl }}" class="btn btn-light">
-        {% else %}
-        <a href="{{ '/tr' | prepend: site.baseurl }}" class="btn btn-light">
-          {% endif %}
-          {% if site_lang == 'en' %}
-          Check out more Reviews
-          {% else %}
-          Diğer Yorumları İncele
-          {% endif %}
-        </a>
-    </div>
+      Check out more Reviews
+      {% else %}
+      Diğer Yorumları İncele
+      {% endif %}
+    </a>
+</div>
 
-    {% include main/footer.html %}
-
-    {% include externals/scripting.html %}
-  </body>
-</html>
