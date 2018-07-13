@@ -28,7 +28,7 @@ Questions:
 - Holo Organisation owns Holo Fuel and it seems more like bank than a decentralised currency.
 - After ICO tokens are swapped with Holo Fuel, is it possible to cash out Holo Fuel?
 
-Synth (from Skycoin):
+Comments by Synth from Skycoin:
 
 - I did not do peer-to-peer apps for coins like holochain is doing, because its pointless; bitorrent works already, any overlay you put on top of it will just be slower. You have to be able to get people to switch what they are doing to use the new thing. Then you have to build on the platform from there.
 - I have already taken all of the core innovations in holochain and put them in the Skycoin development roadmap. They have a few good ideas.
