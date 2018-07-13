@@ -4,7 +4,7 @@ coin: stellar
 tldr: "Quick reliable cheap payments"
 score: 4
 researcher: esqarrouth
-date: 2018-05-09
+date: 2018-02-13
 conclusion: "This is one of the best coins everyone should have in their portfolio"
 ---
 
