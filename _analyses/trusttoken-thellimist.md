@@ -23,7 +23,7 @@ conclusion: "Huge market, still really early, team is capable of executing. Lots
 - Stable coins are one of the biggest markets of the future. Tokenized assets
   can represent $256 Trillion.
 - The team hasn't done anything spectacular in the past, however, they have
-  executed really well doing TrueUSD. They seem to be capable of executing a
+  executed really well working on TrueUSD. They seem to be capable of executing a
   project this big.
 - Once TrustToken is owned, it's best to research to projects where TrustTokens
   can be staked. Otherwise, the benefit of the coin will be decreased
