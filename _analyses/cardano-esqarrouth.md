@@ -5,10 +5,8 @@ tldr: "Programmable updatable blockchain"
 score: 4
 researcher: esqarrouth
 date: 2018-05-09
-conclusion: "Most open blockchain there is. Smartest team gathered. I expect great things from the culture & intelligence around this coin. A must have for every portfolio."
+conclusion: "Most transparent blockchain. Smartest team gathered. I expect great things from the culture & intelligence around this coin. A must have for every portfolio."
 ---
-
-# General
 
 - Improvement on Ethereum with scientific philosophy and research input.
 - The system can be upgraded with soft forks.
@@ -25,19 +23,16 @@ conclusion: "Most open blockchain there is. Smartest team gathered. I expect gre
 - Roadmap in their web page shows incredible openness with percentage completeness.
 - The team creates and publishes pioneering research moving the who field forward.
 
-# Pros
+Pros
 
 - Created the first peer reviewed mathmatically proven PoS on large scale called Ouroboros.
 - Uses purely functional Haskell, this makes code harder to write but very bug free, ideal for blockchains. Seriously this choice alone makes the protocol 10x safer. But a few times harder. 
 - Has the strongest team in any blockchain project. 
 - Will implement popular programming languages so it is expected to have more potential developers making dApps.  
+- Can possibly kill Ethereum and take its place.
 
-# Cons
+Cons
 
 - Trying to dethrone the market leader Ethereum. Hard to achieve network effects. 
-
-# Conclusion
-
-- Can possibly kill Ethereum and take its place.
 
 
