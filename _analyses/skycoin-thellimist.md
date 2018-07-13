@@ -33,4 +33,4 @@ Skycoin is a project that we all need. Trustless, borderless mesh network is one
 - Skywire won't be able to deliver its promises.
 - They'll invest resources on too many not so valuable projects like KittyCash, CX, SkyAntenna etc.
 
-They should just focus on Skywire and dominate the market as soon as possible. This is a controversial project. There are too many risks but the reward of it may be amazing
+They should just focus on Skywire and dominate the market as soon as possible. This is a controversial project. There are too many risks but the reward may be amazing
