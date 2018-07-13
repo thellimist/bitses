@@ -1,5 +1,5 @@
 ---
 layout: researcher
-name: "Goku Yilmaz"
+name: "Esqarrouth"
 twitter: "esqarrouth"
 ---

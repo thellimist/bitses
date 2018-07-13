@@ -1,5 +1,5 @@
 ---
 layout: researcher
-name: "Demi Yilmaz"
+name: "Demiculus"
 twitter: "demiculus"
 ---
