@@ -31,7 +31,7 @@ conclusion: "Semi-legit startup going after a good market with high chance of fa
 
 Pros:
 
-- The idea and market makes sense. But this company won't be the one winning this market. 
+- The idea and market makes sense. But this company is unlikely to be the market winner. 
 
 Cons:
 
