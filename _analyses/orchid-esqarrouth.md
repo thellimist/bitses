@@ -14,7 +14,6 @@ conclusion: "They will probably raise $125M already and would possibly be too ov
 - Uses an overlay network built upen the existing internet.
 - Gavin Wood is an advisor.
 - They already raised $41M privately.
-- Goktug: "I was emailing with founder about investing into them. I got a response at April 16. I said I'll check later. They raised $36M on April 20 without me. Fuck."
 - Private SAFT Fundraise Closing Friday, June 22. They aim to complete sale with a final target of up to $125m. $90M more will be sold.
 - In private alpha, will be open sourced late 2018
 - CEO has PhD from Cambridge. Worked on AI, search, storage, venture capital. IPO'ed a company, worked in Sun Microsystems, Pantera Capital, invested in Bitstamp, Xapo, 21, Chain, Circle, Korbit, Civic, Zcash, Polychain, Veem, Firestartr.
