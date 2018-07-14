@@ -4,7 +4,7 @@ coin: cardano
 tldr: "Programmable updatable blockchain"
 score: 4
 researcher: esqarrouth
-date: 2018-05-09
+date: 2018-02-28
 conclusion: "Most transparent blockchain. Smartest team gathered. I expect great things from the culture & intelligence around this coin. A must have for every portfolio."
 ---
 
