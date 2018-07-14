@@ -41,15 +41,15 @@ researcher: demiculus
 date: 2018-05-18
 ---
 
-# Pros
+Pros
 
 - Bla bla
 
-# Cons
+Cons
 
 - Bla bla
 
-# Conclusion
+Conclusion
 
 - Bla bla
 ```
