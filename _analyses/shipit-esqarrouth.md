@@ -2,7 +2,7 @@
 layout: analysis
 coin: shipit
 tldr: "People who are traveling ship packages"
-score: 0
+score: -1
 researcher: esqarrouth
 date: 2018-06-04
 conclusion: "Semi-legit startup going after a good market with high chance of failure because of slow execution speed. They're also an ICO opportunist."
