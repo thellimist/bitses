@@ -20,6 +20,7 @@ conclusion: "This is one of the best coins everyone should have in their portfol
 - Has a new CTO last 6 months.  
 - Their founder Jed also created Ripple and MtGox.
 - Their chief scientist David who wrote white paper seems like a genius. Has more than 5 papers yearly since 2001.  
+- Rust language creator Graydon is also in the team.
 - Stellar executive director left in 2016 and it seems no one replaced her since.  
 - Most of the team graduated from low tier universities and had no experience before Stellar.  
 - I didn't see the team answer anything in the community anytime soon. 
