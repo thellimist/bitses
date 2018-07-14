@@ -39,19 +39,19 @@ tldr: "Building an ecosystem to learn/invest/news/exchange/fund cryptos."
 score: -1
 researcher: demiculus
 date: 2018-05-18
+conclusion: "Wowsuchgoodgoin"
 ---
+
+- Blabla
 
 Pros
 
-- Bla bla
+- Blabla
 
 Cons
 
-- Bla bla
+- Blabla
 
-Conclusion
-
-- Bla bla
 ```
 # Bitses Research Form
 
