@@ -2,7 +2,7 @@
 layout: analysis
 coin: nimiq
 tldr: "Simple web based transactions"
-score: 1
+score: 0
 researcher: esqarrouth
 date: 2018-02-21
 conclusion: "Seems interesting but probably will go nowhere. If blockchain projects get acquhired, this is the one they're going to buy."
