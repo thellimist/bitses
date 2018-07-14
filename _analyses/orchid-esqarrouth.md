@@ -40,9 +40,9 @@ conclusion: "They will probably raise $125M already and would possibly be too ov
 - The private presale round token price was 0.03$ USD and the private sale 0.70$.
 - $50K minimum to enter the round. In some cases they accepted $25K.
 
-SAFT Options (choose one):
-$0.50/token SAFT: $0.50/token, lockup: 1/2 unlocks 12 months after Network Launch, 1/12 unlocks each month from months 13-18
-$0.70/token SAFT:  $0.70/token, lockup: full amount unlocks 12 months after Network Launch
+- SAFT Options (choose one):
+- $0.50/token SAFT: $0.50/token, lockup: 1/2 unlocks 12 months after Network Launch, 1/12 unlocks each month from months 13-18
+- $0.70/token SAFT:  $0.70/token, lockup: full amount unlocks 12 months after Network Launch
 
 Pros
 
