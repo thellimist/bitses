@@ -53,4 +53,6 @@ Conclusion
 
 - Bla bla
 ```
+# Bitses Research Form
 
+https://docs.google.com/forms/d/e/1FAIpQLSdOWLfxXyGi8bHVnsPHjTix7NnXcG9cMzr-cmtIRPY2eZlH_w/viewform
