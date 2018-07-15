@@ -5,36 +5,30 @@ tldr: "NEO with tech rewritten and upgraded"
 score: 3
 researcher: esqarrouth
 date: 2018-05-09
-conclusion: "Will probably increase in rank"
+conclusion: "I expect ONT to pass NEO in market cap."
 ---
 
-## Red Flag:
-https://coinmarketcap.com/currencies/ontology/
-Supply Information Update: The Circulating Supply has been adjusted to exclude all privately allocated and team controlled tokens.
+- Founder of Ontology is also the founder of Onchain & its chief Architect
+- The company onchain works on both NEO and Ontology. 
+- Ontology value will grow if NEO grows. But finishing the roadmap might take 5-10 years.
+- 112,521,513/1,000,000,000 Circulating/Total 90% of it is owned by team & investors. Only 10% is being publicly traded.
+- High activity on github. Most of their developers still work on Onchain? They are contributing to Onchains DNA repo.
+- No one I'm following on twitter knows about Ontology yet. In general the western people I'm following don't know about Chinese projects. Westerners are recently learning about Cardano and Nebulas. This means high upside. 
+- Likely to be top 15 and won't get out of top 50. 
+- They seem to be a different team than NEO, except 1-2 people. 
+- Difference between NEO developers and ONT developers: NEO developers aren't working, ONT developers are working hard. 
+- Sequoia Capital China, Danhua Capital, DHVC, Matrix Partners, ZhenFund invested. (Verified)
+- VCs post less than 5% of their investment on Linkedin writing Investor in X in profile. But they listed Ontology. 
+- Who's actually in the team isn't very clear. Few people are clear but they don't show up in western social networks so can't verify. 
+- From their content they definitely have people experienced in creating blockchains and academics in the field. Just couldn't find them.
 
-112,521,513/1,000,000,000
-Circulating/Total
-90% of it is owned by team & investors. Only 10% is being publicly traded.
+Pros:
 
-Details: https://www.reddit.com/r/OntologyNetwork/comments/8etdg5/ontology_supply/
+- They are targeting a few big problems at once, while the westerns are really bad at that kind of projects, Chinese are very good. 
+- Is clearly a better project than NEO.
 
-Onchain->NEO
-Onchain->Ontology
+Cons:
 
-Founder of Ontology is also the founder of Onchain & its chief Architect
-
-Ontology value will grow if NEO grows. Finishing the roadmap might take 5-10 years.
-
-High activity on github. Most of their developers still work on Onchain? They are contributing to Onchains DNA repo.
-
-NEO developerlariyla farklilar gibi, 1-2 kisi haric. Birde farki NEO developerlari calismiyor, ONT developerlari cok iyi calisiyor.
-
-VCleri teyit ettim, cidden yatirim yapmislar. Partnerler hatta 20-50 sirkete yatirmis ama sadece 5 sirkette fulltime investor gibi yazmislar linkedine. Onlardan biri Ontology, en inandiklari projelerden biri bu gibi duruyor.
-
-Twitterda takip ettigim hic kimse Ontologyden haberdar degil, genel olarak cin projelerinden haberdar degiller, NEOdan haberdarlar. ADA ve NAS hakkinda yeni haberdar oluyorlar. ONT, SKY vs haberdar degiller hala. Yani upside i yuksek duruyor. Bear markette girdi, henuz kimse bilmiyor, inceleyen insanlar incelemeyi birakti. Boyle cok yuksekte baslayan projeler genelde daha yuksegede cikiyor. Top 15 likely duruyor. Top 50dende cikmaz gibi.
-
-Teknolojisi, tam anlamadim, emin olamadim ama potansiyelli duruyor.
-
-Team Page: https://ont.io/team
-
-Team kim oldugu cok net degil, birkac adam cok net digerleri western networklarda cikmiyorlar. Ama kesin aralarinda akademisyen ve blockchain tecrubeli insanlar var.
+- Its technology and how it works isn't clear. 
+- High amount of the supply is owned by the team & investors that are locked up. 
+- Red flag: Supply Information Update: The Circulating Supply has been adjusted to exclude all privately allocated and team controlled tokens. https://coinmarketcap.com/currencies/ontology/

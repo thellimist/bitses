@@ -24,12 +24,14 @@ conclusion: "The tech looks promising but the token economics will probably not 
 - Holo Fuel value will diminish in long term because it’s backed by compute power. Compute power gets cheaper everyday. In short to medium term the price will probably jump because they started really cheap.
 
 Questions: 
- - Holo Organisation owns Holo Fuel and it seems more like bank than a decentralised currency.
+
+- Holo Organisation owns Holo Fuel and it seems more like bank than a decentralised currency.
 - After ICO tokens are swapped with Holo Fuel, is it possible to cash out Holo Fuel?
 
- Synth:
- - I did not do peer-to-peer apps for coins like holochain is doing, because its pointless; bitorrent works already, any overlay you put on top of it will just be slower. You have to be able to get people to switch what they are doing to use the new thing. Then you have to build on the platform from there.
-- I have already taken all of the core innovations in holochain and put them in the Skycoin development roadmap. They have a few good ideas. 
+Comments by Synth from Skycoin:
+
+- I did not do peer-to-peer apps for coins like holochain is doing, because its pointless; bitorrent works already, any overlay you put on top of it will just be slower. You have to be able to get people to switch what they are doing to use the new thing. Then you have to build on the platform from there.
+- I have already taken all of the core innovations in holochain and put them in the Skycoin development roadmap. They have a few good ideas.
 - I cannot figure out purpose of holochains crypto currency. They do not seem to need it at all 
 - There is no solution to the consensus problem at all. Anywhere in the paper. They are trying to justify the fact that they have no automatic way of doing consensus. They have no automatic conflict resolution procedure in the network.
 - Anyone can write any data or any balance they want onto the network and say they have as many holofuel as they want and no one can cap the number of coins that are in existence. There is no method to mediate between conflicts between different users.

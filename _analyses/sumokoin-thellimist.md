@@ -5,7 +5,7 @@ tldr: "Privacy blockchain"
 score: 0
 researcher: thellimist
 date: 2018-05-11
-conclusion: "Probably just a scam fork monero"
+conclusion: "A fork of Monero but don't see any chance of beating Monero"
 ---
 
 - Fork of Monero changing some parameters they didn't like
