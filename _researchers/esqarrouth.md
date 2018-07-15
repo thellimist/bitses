@@ -1,5 +1,5 @@
 ---
 layout: researcher
-name: "Esqarrouth"
+name: "Goktug"
 twitter: "esqarrouth"
 ---
