@@ -5,7 +5,7 @@ tldr: "Distributed Computing Resources"
 score: 3
 researcher: esqarrouth
 date: 2018-05-20
-conclusion: "Seems like a guaranteed top 50 coin. Probably will be top 20. Still fairly new in the market, the only proper exchange is IDEX."
+conclusion: "Seems like a guaranteed top 50 coin. Probably will be top 20. Has a shot at top 5. Still fairly new in the market, the only proper exchange is IDEX."
 ---
 
 - Holochain and blockchain are built for fundamentally different use cases. Blockchain is relatively good for systems where it’s absolutely necessary to maintain global consensus. Holochain is much better than blockchain at anything that requires less than universal consensus:
