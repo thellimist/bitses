@@ -2,7 +2,7 @@
 layout: analysis
 coin: no-bs-crypto
 tldr: "Transparent, Unbiased, Crowdsourced: Crypto Ratings & Reviews"
-score: 0
+score: 1
 researcher: esqarrouth
 date: 2018-07-18
 ---
