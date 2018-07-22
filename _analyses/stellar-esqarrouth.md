@@ -15,7 +15,7 @@ conclusion: "This is one of the best coins everyone should have in their portfol
 - Can convert all currencies, can integrate with existing banking systems & crypto.  
 - The tech behind Stellar is real and groundbreaking. 
 - Wants to distribute/airdrop XLM to nonprofits.  
-- They are opening their governence and numbers, tokens to everyone.  
+- They are opening their governance and numbers, tokens to everyone.  
 - Stellar group will serve for lifetime. Jed, Patrick (Founder of Stripe) & Professor.  
 - Has a new CTO last 6 months.  
 - Their founder Jed also created Ripple and MtGox.
