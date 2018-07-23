@@ -17,13 +17,13 @@ Genel
 
 Artılar
 
-- Önceden kazma, ICO yokş 
+- Önceden kazma, ICO yok. 
 - Her şey topluluk tarafından sürdülüyor gibi görünüyor. 
 
 
 Eksiler
 
 - Gerçek geliştirici projeyi terk etmiş gibi görünüyor(? )https://www.reddit.com/r/xdag/comments/8n5f1l/where_is_cheatoshin/
--  Madenciler koini VEO’da olduğu gibi kazıp satıyorlar. Gerçek kullanma alanı yok sanırım.
-- Bir nişleri yol. 
+- Madenciler koini VEO’da olduğu gibi kazıp satıyorlar. Gerçek kullanma alanı yok sanırım.
+- Bir nişleri yok. 
 - Teknik tanıtım belgesi ve s. çok sığ, hiçbir şey anlatmıyor. 
