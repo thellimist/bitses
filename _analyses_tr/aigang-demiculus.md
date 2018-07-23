@@ -18,4 +18,4 @@ Düzenleme(3 Temmuz 2018): Bir arkadasim güncelleme yaptiklarina dair dikkatimi
 
 https://github.com/AigangNetwork/aigangnetwork.github.io/wiki
 
-Ama hala gereksiz bir koin(shitcoin) olduğu için insanların istemediği halde daha fazla araştırmayacağım. 
+Ama hala çöp koin olduğu için istek gelene kadar daha fazla araştırmayacağım. 
