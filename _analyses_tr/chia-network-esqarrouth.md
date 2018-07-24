@@ -5,7 +5,7 @@ tldr: "Proof of Capacity kullanan BTC farklılaşması(fork)"
 score: 3
 researcher: esqarrouth
 date: 2018-07-12
-conclusion: "Daha gelişmelerinin erken aşamasındalar ama market biricilerinden olabilme potansiyelleri çok yüksek."
+conclusion: "Daha gelişmelerinin erken aşamasındalar ama market birincilerinden olabilme potansiyelleri çok yüksek."
 ---
 
 - Proof of Capacity algoritmi PoW’un ekonomik artıları ilave edilince PoW’dan daha iyi.  Diğer fikir birliği algoritmaları kağıt üzerinde iyi görünse de market içinde riskli ve çalışmaya bilirler. PoC çalışacak.  
