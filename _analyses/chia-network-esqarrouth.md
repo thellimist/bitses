@@ -10,11 +10,15 @@ conclusion: "Early in progress but has strong indicators that Chia can become on
 
 - Proof of Capacity algorithm is a better one than Proof of Work while keeping all of the PoW economic positives. Other consensus algorithms are good on paper but risky on market, they might not work out in real life. PoC will work. 
 - Tech forked from BTC, it has same liveliness as BTC, better finality (3 block/15 minutes).
-- Tech has better decentralization than BTC due to its consensus algorithm. Mining Chia is economically unviable unless you have empty storage sitting around. So huge Chia farms aren't expected. 
+- Tech has better decentralization than BTC due to its consensus algorithm. Mining Chia is economically inviable unless you have empty storage sitting around. So huge Chia farms aren't expected. 
 - Chia will have all improvements made for BTC, including lightning network.
 - They will Apache license the code and open source it before mainnet goes live.
 - It has its own version of Bitcoinscript called Chiascript. It will help softforks.
 - They claim it can't be hard forked. (Haven't verified)
+- Team has 8 engineers. People from pycoin, bitcore, academics, math, cryptography.
+- Checked their academics and advisors, they are researchers with serious amount of publications in respected journals.
+- They aren't planning or doing anything for marketing and user adoption at the moment. They probably won't do until 2019.
+- CEO is founder of BitTorrent in 2004. Which is the most used distributed system in the world. They raised $35M. BitTorrent used 30% of all internet traffic at some point.
 
 Fundraising:
 
@@ -26,11 +30,7 @@ Fundraising:
 - 1 time dividend will distribute all tokens to company shareholders. 4M will be kept by company 10M will be kept by founders, employees, advisors. These will be vested in 4 years. 4M-7M shares will be issued to investors.
 - All token amount will be divided by the amount of money raised. So 1M token => $1M or 1M token => $100M.
 - Raising $150M, planning to use this money in the next 5 years. Minimum $250K entry in presale. Maximum $250K in public sale at summer 2018.
-- CEO is founder of BitTorrent in 2004. Which is the most used distributed system in the world. They raised $35M. BitTorrent used 30% of all internet traffic at some point.
 - Other cofounder founded 3x B2B cryptocurrency companies before.
-- Team has 8 engineers. People from pycoin, bitcore, academics, math, cryptography.
-- Checked their academics and advisors, they are researchers with serious amount of publications in respected journals.
-- They aren't planning or doing anything for marketing and user adoption at the moment. They probably won't do until 2019.
 - Their strategy is getting good institutional investors. In public sale they're targeting as many investors as possible to get wide adoption.
 - Compatible with BTC transaction architecture, so institutions adding Chia will be fairly easy.
 - Started conversations with mobile wallets and multi wallet companies.
