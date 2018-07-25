@@ -2,7 +2,7 @@
 layout: analysis
 coin: powh3d
 tldr: "Proof of weak hands"
-score: 3
+score: 2
 researcher: demiculus
 date: 2018-07-25
 ---
