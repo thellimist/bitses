@@ -4,25 +4,7 @@ baseurl                      : "" # the subpath of your site,                   
 url                          : "http://bitses.org" # the base hostname & protocol for your site
                                   # `http://<username>.github.io` - for GitHub
 
-blog:
-  title                      : Bitses
-  # description                  : >
-                               # this should contain a proper description
-
-# Layout configuration
-  logo_path                  : "assets/img/dactl.svg" # path to logo file
-  search_path                : # "yourgitusername.github.io"
-                               # needed for searchbox in archive page
-  hero_layout                : true # turn on hero layout for blog and posts
-  hero_placeholder           : "assets/img/generic_hero.jpg" # placeholder for hero image
-  excerpts                   : true # show excerpts instead of full post content on blog page
-  inline_footnotes           : true # enable/disable barefoot inline footnotes
-  titles_only                : false # show post titles only on main blog page
-
-# Fonts
-  font                       : '"Rubik", -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif'
-  load_google_fonts          : 'Rubik:400,400italic,700,700italic'
-
+title                      : Bitses
 
 # Author info
 author:
