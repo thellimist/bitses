@@ -4,7 +4,7 @@ coin: powh3d
 tldr: "Proof of weak hands"
 score: 3
 researcher: demiculus
-date: 2018-25-07
+date: 2018-07-25
 ---
 
 General
