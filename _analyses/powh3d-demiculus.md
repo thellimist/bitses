@@ -34,7 +34,7 @@ In the case of you investing 10ETH things that could happen are below;
 
 1. Everyone buys/sells and you just hold; you will get many dividends.
 2. Noone buys sells and you just hold; you'll have lost 2 ETH (20%) after you sell.
-3. Everyone sells; You'll be the last person in the system where you earn anormous amount of ETH dividends while everyone is selling.
+3. Everyone sells; You'll be the last person in the system where you earn enormous amount of ETH dividends while everyone is selling.
 4. Everyone buys; The dividends you earn will go down slowly as the token amount increases but your tokens will be worth a lot more. 
 
 Conclusion
