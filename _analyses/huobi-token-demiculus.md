@@ -33,7 +33,7 @@ Stellar isn't only a dex but many other things as well thus it is normal for it 
 Pros
 
 - Huobi token is in the same category as binance, kucoin, bibox thus it wouldn't be too far off to say that it easily has the potential to increase 2x+
-- Huobi token will also be used the same way as BNB though since they aren't claiming they are making a dex and has less hype around it, it is noral for it not to be as valuable or as hyped as bnb.
+- Huobi token will also be used the same way as BNB though since they aren't claiming they are making a dex and has less hype around it, it is normal for it not to be as valuable or as hyped as bnb.
 	
 Cons
 

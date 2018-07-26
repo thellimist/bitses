@@ -1,24 +1,35 @@
 <meta charset="utf-8">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no">
-<title>{% if page.title == "Blog" %}{{ site.blog.title }} <!-- &middot; --> {{ site.tagline }}{% else %}{% if page.tag %}{{ site.data.tags[page.tag].name }}{% else %}{{ page.title }}{% endif %} | {{ site.blog.title }}{% endif %}</title>
-<!--{% if page.description %}
-{% capture desc %}{{ page.description }}{:.message}{% endcapture %}
-<meta name="description" content="{{ desc | markdownify | strip_html | truncatewords: 50 }}">
-{% else %}{% if page.excerpt %}
-<meta name="description" content="{{ page.excerpt | strip_html | truncatewords: 50 }}">
-{% endif %}{% endif %}-->
+<title>
+  {% if page.layout == "analysis" %}
+  {% for coin in site.coins %}
+  {% if coin.slug == page.coin %}
+  {{ coin.name }}
+  {% endif %}
+  {% endfor %}
+  -
+  {% for researcher in site.researchers %}
+  {% if researcher.slug == page.researcher %}
+  {{ researcher.name }}
+  {% endif %}
+  {% endfor %}
+  |
+  {{ site.title }}
+  {% else %}
+  {% if page.title %}
+  {{ page.title }}
+  {% endif %}
+  |
+  {{ site.title }}
+  {% endif %}
+</title>
 
 
 <meta name="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.blog.description }}{% endif %}">
 {% if page.tags %}<meta name="keywords" content="{{ page.tags | join: ', ' }}">{% endif %}
 <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
 <link rel="shortcut icon" type="image/png" href="{{ "/assets/img/favicon.png" | prepend: site.baseurl }}" >
-
-{% if page.title %} {% assign title = page.title ~ ' - ' ~ page.subtitle %} {% else %} {% assign title = site.blog.title %} {% endif %}
-{% if page.description %} {% assign description = page.description %} {% else %} {% assign description = site.blog.description %} {% endif %}
-{% if page.keywords %} {% assign keywords = page.keywords %} {% else %} {% assign keywords = site.keywords %} {% endif %}
-{% if page.cover %} {% assign cover = page.cover %} {% else %} {% assign cover = site.cover %} {% endif %}
 
 <!-- Twitter Cards -->
 <meta name="twitter:card" content="summary" />
