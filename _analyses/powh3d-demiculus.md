@@ -26,7 +26,7 @@ How it works:
 - The token/exchange has no developer fee. The developers also purchased themselves. Though they purchased early on so it makes sense.
 - Masternodes can be built and they can share their link to get extra earnings.
 - If a friend buys 10ETH from your masternode, you make 0.3ETH. (3%)
-- There are also games being developed on top of this coin which also reward the token holders. 
+- There are also games being developed on top of this coin which also reward the token holders. Most notable example is [Fomo3d](http://exitscam.me/shakedown).
 
 Cases: 
 
@@ -37,9 +37,22 @@ In the case of you investing 10ETH things that could happen are below;
 3. Everyone sells; You'll be the last person in the system where you earn enormous amount of ETH dividends while everyone is selling.
 4. Everyone buys; The dividends you earn will go down slowly as the token amount increases but your tokens will be worth a lot more. 
 
+Questions:
+
+1. If we bought p3d token on average how many new ether would need to enter the market for us to breakeven (get back the 20% loss)?
+2. What is the expected time that this new ether will enter the p3d ecosystem?
+3. We can buy p3d token when it goes down in price vs now, if we bought the p3d token right now and its price continued to fall at what point do we become break-even? (since the token will also give dividend while people are selling thus it might be reasonable to buy now rather than later)?
+
+Answers:
+
+1. 
+
+
+
 Conclusion
 
 - The potential upside is huge. This has a high chance of being greater than bitconnect. 
 - There isn't a line between scam & legit. This is somewhere between those 2 concepts. It is not a scam and it is not a legit project. It is geniusly designed math. 
 - Worst case scenario is you lose 20% of what you entered with.
 - Proof of weak hands actually works because if you sell early you lose. The longer you hold the better you are off.
+- If a lot of casino games are built on this token, then the token value will skyrocket regardless of its own mechanics. 
