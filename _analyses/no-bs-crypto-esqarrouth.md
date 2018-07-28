@@ -46,7 +46,7 @@ Negatives:
 Team:
 
 - Founder served as a fulltime missionary in Hungary church for 2 years.
-- Studied weak business programs in from low tier universities. 
+- Studied weak business programs in low tier universities. 
 - Previously founded local phone repair and phone recycling company chains. Sold businesses and made $9M in sales.
 - Founder seems to be good at operations. 
 - Developer: Justin Waite, competent JS developer. Is working as CTO on another startup at the moment. Actively pushing code. Not working full time on NOBS. Also was a missionary. 
