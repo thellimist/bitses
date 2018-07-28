@@ -2,7 +2,7 @@
 layout: analysis
 coin: powh3d
 tldr: "Proof of weak hands"
-score: 2
+score: 1
 researcher: demiculus
 date: 2018-07-25
 ---
@@ -45,14 +45,15 @@ Questions:
 
 Answers:
 
-1. 
+1. To be calculated
+2. To be calculated
+3. To be calculated
 
-
+I haven't finished calculating because I've realized that secondary markets can be built on top of it thus automatically making the system partially obsolete.
 
 Conclusion
 
-- The potential upside is huge. This has a high chance of being greater than bitconnect. 
-- There isn't a line between scam & legit. This is somewhere between those 2 concepts. It is not a scam and it is not a legit project. It is geniusly designed math. 
-- Worst case scenario is you lose 20% of what you entered with.
-- Proof of weak hands actually works because if you sell early you lose. The longer you hold the better you are off.
-- If a lot of casino games are built on this token, then the token value will skyrocket regardless of its own mechanics. 
+- This is an interesting project. The first I've seen using the token bonding technology.
+- With a centralized token exchange or a secondary token contract half of the value can be ripped from the system thus decreasing its effectiveness.
+- Proof of weak hand actually works because if you sell early you lose. The longer you hold the better until the secondary systems become live.
+- If a lot of casino games are built on this token and it becomes the norm for such applications the value will skyrocket regardless of its own mechanics. Thus we should wait and see if other developers will create games on top of this token.
