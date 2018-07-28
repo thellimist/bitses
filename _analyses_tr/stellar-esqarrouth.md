@@ -29,7 +29,7 @@ conclusion: "Her kesin portföyünde olması gereken en önemli koinlerden."
 Artılar
 
 
--Token sayılarını, idari bilgilerine her kese açıyorlar. 
+-Token sayılarını, idari bilgilerini her kese açıyorlar. 
 -İnternet sitelerinde bir sürü kaynaklar var. 
 -2-5 saniyede işlemler. 
 -Yöneticileri ve danışmanları her kes tarafından tanınmış.
