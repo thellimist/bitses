@@ -24,7 +24,7 @@ conclusion: "They will probably raise $125M already and would possibly be too ov
 - Cofounder Stephen founded a few tech companies. 2 VC companies. Mostly in Asia.
 - Paper states their competitor I2P and Tor lack widespread adoption because lack of economic incentives.
 - Has "bandwidth mining"
-- Couple founders seem to be very active in reddit and hacker news.
+- Couple of founders seem to be very active in reddit and hacker news.
 - A blockchain-based stochastic payment mechanism with transaction costs on the order of a packet.
 - Has a fully distributed anonymous commodity bandwidth market.
 - Exit Nodes can have whitelists to prevent traffic from viewing illegal content via their Exit Node.
