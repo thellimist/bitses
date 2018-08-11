@@ -4,7 +4,7 @@ coin: Grin
 tldr: "Privacy Coin"
 score: 1
 researcher: thellimist
-date: 2018-02-09
+date: 2018-09-11
 conclusion: "Nice tech but won’t have really world use cases. Is not better than Monero thus can’t win private transactions market."
 ---
 
