@@ -2,7 +2,7 @@
 layout: analysis
 coin: powh3d
 tldr: "Zayıf elllerin kanıtı"
-score: 2
+score: 1
 researcher: demiculus
 date: 2018-07-25
 ---
