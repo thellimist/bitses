@@ -1,6 +1,6 @@
 ---
 layout: analysis
-coin: Grin
+coin: grin
 tldr: "Privacy Coin"
 score: 1
 researcher: thellimist

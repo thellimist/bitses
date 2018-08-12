@@ -1,6 +1,6 @@
 ---
 layout: analysis
-coin: Hedera Hashgraph
+coin: hedera-hashgraph
 tldr: "Fast and cheap dApp platform"
 score: 3
 researcher: thellimist
