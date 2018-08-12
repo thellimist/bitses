@@ -4,7 +4,7 @@ coin: hedera-hashgraph
 tldr: "Fair, BFT, bandwidth efficient DAG-like voting system. "
 score: 3
 researcher: esqarrouth
-date: 2018-09-10
+date: 2018-08-10
 conclusion: ""
 ---
 

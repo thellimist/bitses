@@ -4,7 +4,7 @@ coin: hedera-hashgraph
 tldr: "Fast and cheap dApp platform"
 score: 3
 researcher: thellimist
-date: 2018-09-11
+date: 2018-08-11
 conclusion: "A good project to hedge as a value investor"
 ---
 
