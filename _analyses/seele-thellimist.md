@@ -1,6 +1,6 @@
 ---
 layout: analysis
-coin: Seele
+coin: seele
 tldr: "dApp platform with high tps"
 score: 0
 researcher: thellimist
