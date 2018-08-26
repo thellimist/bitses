@@ -4,7 +4,7 @@ coin: dero
 tldr: "Monero Clone"
 score: -1
 researcher: thellimist
-date: 2018-05-04
+date: 2018-08-26
 conclusion: "Shit coin"
 ---
 
