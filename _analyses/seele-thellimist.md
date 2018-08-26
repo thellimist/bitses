@@ -4,7 +4,7 @@ coin: seele
 tldr: "dApp platform with high tps"
 score: 0
 researcher: thellimist
-date: 2018-09-14
+date: 2018-08-14
 conclusion: "It's still really early. They are in a crowded market and their marketting is not that good to be competitive."
 ---
 
