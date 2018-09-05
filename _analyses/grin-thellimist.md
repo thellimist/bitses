@@ -5,7 +5,7 @@ tldr: "Privacy Coin"
 score: 1
 researcher: thellimist
 date: 2018-08-11
-conclusion: "Nice tech but won’t have really world retail use cases. Is not 10x better than Monero thus can’t win consumer private transactions market."
+conclusion: "Nice tech but won’t have real world retail use cases. Is not 10x better than Monero thus can’t win consumer private transactions market."
 ---
 
 - Implements MimbleWimble and Cuckoo Cycle PoW.
