@@ -14,9 +14,9 @@ conclusion: "Interesting concept. No competitors. High risk, high reward potenti
 - Foam hardware is basically a small sized beacon. Other hardwares can be produced. It is hardware agnostic protocol.
 - The hardware uses 150 MHz - 1GHz radio wavelengths. Range is around 1km (up to 15km) It's cheap to run these nodes.
 - Foam is a token based on Ethereum, however, every beacon has a local blockchain as well. Most of the computation will be done offchain thus it can scale a bit more. 
-- There might be a case where 3 beacons with shared local blockchain are all malicious should be solved. The technical details of this is still in progress. 
+- There might be a case where beacons with a shared local blockchain where 2/3rds are malicious. I haven't seen solutions for such cases. They are still working on the whitepaper and technical details.
 - Foam token will be used to stake for running a beacon. Beacon owners will earn by (1) putting a beacon in a place which has no coverage (2) fees from app users. The first is one time off reward for each location. 
-- Foam did an ICO. %30 of the tokens will be distributed in the future to for participators of the protocol.
+- Foam did an ICO. %30 of the tokens will be distributed in the future for participators of the protocol.
 - Probably first to market will win the market. (first move advantage)
-- Cryptoeconomic incentives are the hardest part here. I'm not sure if the protocol is cryptoeconomically secure. Incetives are (1) first one creating a new zone will earn more mining rewards (2) more people should be incentivezed to join an existing zone to increase precision (3) liar zone should get punished. While doing all these, the rewards should be more than the cost of putting a beacon there and operating it. 
+- Cryptoeconomic incentives are the hardest part here. I'm not sure if the protocol is cryptoeconomically secure. Incetives are (1) first one creating a new zone will earn more mining rewards (2) more people should be incentivezed to join an existing zone to increase precision (3) malicious nodes should get punished. While doing all these, the rewards should be more than the cost of putting a beacon there and operating it. 
 - The market will show how much money people are willing to pay to get proof for their locations. 
