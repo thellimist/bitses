@@ -1,7 +1,7 @@
 ---
 layout: analysis
 coin: livepeer
-tldr: "Distributed Video Transcoder"
+tldr: "Distributed Live Video Transcoder System with Cryptoeconomics"
 score: 2
 researcher: thellimist
 date: 2018-09-10
