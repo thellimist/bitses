@@ -5,7 +5,7 @@ tldr: "ETH fork solving sustainable governance"
 score: -1
 researcher: esqarrouth
 date: 2018-09-08
-conclusion: ""
+conclusion: "Very low cap coin. Nano Ledger support might push the price up. But nothing intereting happening here."
 ---
 
 - In MTH Akroma is a sentient illusion. (So this might be a smart scam?)
@@ -22,3 +22,4 @@ conclusion: ""
 - Akroma somehow works with the Kastle exchange.
 - Kasthe exchange has its own token too.
 - Have not been adding features to main protocol for 15 days, have been working on wallets and other stuff instead.
+- Nano Ledger support added recently. 
