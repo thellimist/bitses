@@ -9,3 +9,4 @@ conclusion: "Tron but Korean"
 ---
 
 - Strong business, no real use case. Mostly hype.
+- 50-100 employees https://www.crunchbase.com/organization/glosfer
