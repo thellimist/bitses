@@ -5,7 +5,7 @@ tldr: "Competitor to Hyperledger"
 score: -1
 researcher: thellimist
 date: 2018-09-14
-conclusion: "Tron but Korean. They might have some enterprise customers."
+conclusion: "Tron but Korean. They might have some enterprise customers. Is not impressive."
 ---
 
 - Strong business, technology probably is bad. Haven't seen anything unique or better.
