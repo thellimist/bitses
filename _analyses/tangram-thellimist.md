@@ -18,4 +18,4 @@ conclusion: "I didn't see a niche market use case or 10x improvement to other pr
 - Faucets will be live for 3 month to 8 months. In my opinion the distribution length seems too short. If Tangram can't market enough the distribution might not be sufficient. Also, a person who learns about Tangram 3 years later will only be able to buy Tangram. 
 - Testnet shows 2x speed compared to Monero. Since it's a DAG Main network speed can vary a lot. It's also not that correct to compared both. Monera has dynamic blocksize and hasn't hit tps limit yet. 
 - Blockchain bloat is another problem with privacy coins. I'm still looking into it. 
-
+- Jensen Chund (official core member) has not updated linkedin to Tangram https://www.linkedin.com/in/jensenchung/
