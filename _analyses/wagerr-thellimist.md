@@ -16,7 +16,7 @@ conclusion: "They sound like a bunch of kids trying to earn money doing ICOs"
 - Their competitors are every Oracle coin (Augur, aethernity etc.)
 - They have "F*ck Yeah" written in their website banner. Really unprofessional.
 
-*Update*
+*Update 2018/09/14*
 
 > Depending on N of M trusted masternodes has similar economic problems as using a subcurrency, like Augur's rep for voting.
 You have to pay enough in fees, so that the long term expected gains from fees exceeds the short term expected gains from cheating and robbing the market. Making the fees this high makes it too expensive to be a useful oracle
