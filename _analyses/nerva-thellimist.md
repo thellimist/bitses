@@ -2,7 +2,7 @@
 layout: analysis
 coin: nerva
 tldr: "Privacy coin with ASIC ressitancy"
-score: 0
+score: -1
 researcher: thellimist
 date: 2018-09-19
 conclusion: "Too late to market without 10x improvement"
