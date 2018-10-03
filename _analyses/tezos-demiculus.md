@@ -1,7 +1,7 @@
 ---
 layout: analysis
 coin: tezos
-tldr: ""
+tldr: "ETH Competitor"
 score: 1
 researcher: demiculus
 date: 2018-07-16
