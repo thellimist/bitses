@@ -4,7 +4,7 @@ coin: tezos
 tldr: ""
 score: 1
 researcher: demiculus
-date: 2018-16-07
+date: 2018-07-16
 conclusion: ""
 ---
 
