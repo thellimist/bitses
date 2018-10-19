@@ -7,7 +7,6 @@ researcher: thellimist
 date: 2018-02-09
 conclusion: "- Overvalued compared to NASDAQ
 \n- Only works if ETH wins
-\n- Estimated rank deserved 10-30
 \n- Watch 0x and applications using it. High probablity that an application might boost 0x"
 ---
 
@@ -30,5 +29,6 @@ Currently 0x seems overvalued. If we value 0x according to the total crypto mark
 - Everyone in the team graduated from top tier universities.
 - They have got all star advisor team.
 - Lots of other projects are currently using 0x to develop their applications. In the next few months to years, we might see a boom of 0x usage.
+- Token doesn't seem to capture enough value
 
 More info on how it works: https://github.com/breakpoint-labs/public/blob/master/coins/0x.md
