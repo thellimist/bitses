@@ -32,7 +32,7 @@ I asked:
 
 Response: 
 
- - No response yet
+ - Good question, forwarded it to Nevin, will get you a response on which industries and merchants are our primary targets.
 
 
 Pros
