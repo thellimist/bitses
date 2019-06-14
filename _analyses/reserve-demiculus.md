@@ -5,7 +5,7 @@ tldr: "Stable Coin"
 score: 0
 researcher: demiculus
 date: 2019-06-14
-conclusion: ""
+conclusion: "The founder doesn't seem awesome. Maybe they'll figure out something but overall I find it hard to believe this team can create a useful stablecoin. "
 ---
 
 Investors look pretty legit.
@@ -45,8 +45,4 @@ Cons
 - Market cap is already $240M without even launching anything. (already top 40 coin)
 - Website team description doesn't look trustworthy
 - The founder talks slow which I believe thinks slow: https://www.youtube.com/watch?v=gHbkgM-KPLY 
-
-Conclusion 
-
-- The founder doesn't seem awesome. Maybe they'll figure out something but overall I find it hard to believe this team can a useful stablecoin. 
 
